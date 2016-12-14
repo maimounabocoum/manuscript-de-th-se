@@ -1,0 +1,184 @@
+\documentclass[a4paper,12pt,french]{report}
+
+% Options possibles : 10pt, 11pt, 12pt (taille de la fonte)
+%                     oneside, twoside (recto simple, recto-verso)
+%                     draft, final (stade de d�veloppement)
+
+\input{Preambule}		% Liste des packages et de leurs options
+
+
+
+
+
+
+\let\urlorig\url
+\renewcommand{\url}[1]{%
+  \begin{otherlanguage}{english}\urlorig{#1}\end{otherlanguage}%
+}
+
+
+
+
+\pagestyle{headings}    
+
+
+% Infos de la page de garde
+\author{Maïmouna \scshape{Bocoum}}
+\title{HHG from plasma mirrors}
+\specialite{Science et Génie des Matériaux}
+\directeur{Rodrigo \scshape{LOPEZ-MARTENS}}
+\encadrant{Jérôme \scshape{FAURE}}
+\date{xx décembre 2015}
+\jurya{xxxxx}{Professeur}{Examinateur}
+\juryb{xxxxx}{Professeur}{Rapporteur}
+\juryc{xxxxx}{Professeur}{Examinateur}
+\juryd{xxxxx}{Professeur}{Examinateur}
+\ecole{l'\'{E}cole Nationale Supérieure des Techniques Avancées}
+\date{}                     
+
+\begin{document}
+\pagedegarde
+%\maketitle       
+\cleardoublepage
+
+Ici, mes remerciements
+
+\clearpage
+%\dominitoc
+% preparation des minitocs
+\dominitoc
+
+\tableofcontents
+%\chapter*{Remerciements}
+%\addstarredchapter{Remerciements}
+%\phantomsection
+%
+%Ici, mes remerciements.
+%
+%\addcontentsline{toc}{chapter}{Remerciements}
+
+%
+% chap1
+
+\input{../introduction/intro} 
+%
+%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Accélération d'électrons sur miroir plasma
+%%%% chap2
+\input{../chapitre1/chap1}
+%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%Présentation du système expérimentale dans son ensemble
+\input{../chapitre3/chap3}
+%%%%%% chap 3
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%
+
+\input{../chapitre6/chap6}
+%%% chap 4
+%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%SDI
+%%%
+\input{../chapitre7/chap7}
+%%%%% chap 5
+%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%anticorrelation
+%%%
+\input{../chapitre4/chap4}
+%%%% chap 6
+%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Présentation du système expérimentale
+%%%
+\input{../chapitre2/chap2}
+%% chap 7
+
+
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%Problème d'inversion%
+% chap 9
+%\input{../chapitre5/chap5}
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% chap 10
+%\input{../chapitre8/chap8}
+
+\appendix                  
+
+%\include{annexa}
+%\include{annexb}
+     
+\listoffigures             
+
+\listoftables              
+
+%\bibliographystyle{plain}
+%\bibliography{C:/Users/Aur�lien/Documents/Latex/phdthesis/ricci}
+
+\cleardoublepage
+\newpage
+\thispagestyle{empty}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+	% Annexes
+	\begin{appendix}
+		\pagenumbering{Roman}
+		\input{../Annexe/annexe1} %	\includefrom{Annexes/}{Annexes}				% Figures en annexe
+		\input{../Annexe/annexe2} %	\includefrom{Annexes/}{Annexes}				% Figures en annexe	
+                \input{../Annexe/annexe3} %	\includefrom{Annexes/}{Annexes}				% Figures en annexe	
+                \input{../Annexe/annexe4} %	\includefrom{Annexes/}{Annexes}				% Figures en annexe	
+		
+		% Liste des acronymes, glossaire et liste des symboles (dans l'ordre)		
+%		\printglossary[type=\acronymtype , title={Liste des acronymes}, toctitle={Liste des acronymes}]
+%		\printglossary[title=Glossaire,toctitle=Glossaire]
+%		\printglossary[type=notation,title={Liste des symboles}, toctitle={Liste des symboles}]
+	
+	\end{appendix}
+
+
+% bibliographie
+
+\bibliographystyle{plain}
+\bibliography{../references/These}
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,129 @@
+\BOOKMARK [0][-]{chapter.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.1.1}{Why do we study plasmas ?}{chapter.1}% 2
+\BOOKMARK [1][-]{section.1.2}{ Laser-plasma physics: historical context}{chapter.1}% 3
+\BOOKMARK [2][-]{subsection.1.2.1}{Plasmas: different time scales}{section.1.2}% 4
+\BOOKMARK [2][-]{subsection.1.2.2}{Lasers: different time scales}{section.1.2}% 5
+\BOOKMARK [1][-]{section.1.3}{Plasma mirrors}{chapter.1}% 6
+\BOOKMARK [2][-]{subsection.1.3.1}{What is a plasma mirror ?}{section.1.3}% 7
+\BOOKMARK [2][-]{subsection.1.3.2}{Lifetime of a plasma mirror}{section.1.3}% 8
+\BOOKMARK [2][-]{subsection.1.3.3}{Plasma mirrors for temporal contrast cleaning}{section.1.3}% 9
+\BOOKMARK [2][-]{subsection.1.3.4}{X-UV emission from plasma mirrors}{section.1.3}% 10
+\BOOKMARK [2][-]{subsection.1.3.5}{Electron acceleration from plasma mirrors}{section.1.3}% 11
+\BOOKMARK [1][-]{section.1.4}{Brief description of the different chapters}{chapter.1}% 12
+\BOOKMARK [0][-]{chapter.2}{Laser-solid-plasma interaction: overview}{}% 13
+\BOOKMARK [1][-]{section.2.1}{Laser absorption in plasmas}{chapter.2}% 14
+\BOOKMARK [2][-]{subsection.2.1.1}{Resonant absorption}{section.2.1}% 15
+\BOOKMARK [2][-]{subsection.2.1.2}{Neutral plasma response equations}{section.2.1}% 16
+\BOOKMARK [2][-]{subsection.2.1.3}{Geometrical representation of resonant absorption}{section.2.1}% 17
+\BOOKMARK [1][-]{section.2.2}{Brunel absorption mechanism}{chapter.2}% 18
+\BOOKMARK [2][-]{subsection.2.2.1}{Modeling}{section.2.2}% 19
+\BOOKMARK [2][-]{subsection.2.2.2}{Physical interpretation}{section.2.2}% 20
+\BOOKMARK [1][-]{section.2.3}{Harmonic response of an overdense plasma}{chapter.2}% 21
+\BOOKMARK [2][-]{subsection.2.3.1}{Plasma perturbative approach}{section.2.3}% 22
+\BOOKMARK [2][-]{subsection.2.3.2}{Coherent Wake Emission}{section.2.3}% 23
+\BOOKMARK [2][-]{subsection.2.3.3}{Influence of spatial spreading of the perturbation}{section.2.3}% 24
+\BOOKMARK [2][-]{subsection.2.3.4}{Landau damping in a homogeneous plasma}{section.2.3}% 25
+\BOOKMARK [2][-]{subsection.2.3.5}{Landau damping in an inhomogeneous plasma}{section.2.3}% 26
+\BOOKMARK [1][-]{section.2.4}{Conclusion}{chapter.2}% 27
+\BOOKMARK [0][-]{chapter.3}{Double-CPA laser architecture}{}% 28
+\BOOKMARK [1][-]{section.3.1}{Global architecture}{chapter.3}% 29
+\BOOKMARK [2][-]{subsection.3.1.1}{Overview of the laser chain}{section.3.1}% 30
+\BOOKMARK [2][-]{subsection.3.1.2}{XPW contrast cleaning}{section.3.1}% 31
+\BOOKMARK [2][-]{subsection.3.1.3}{Spectral clipping}{section.3.1}% 32
+\BOOKMARK [2][-]{subsection.3.1.4}{Prepulse generation from post-pulses}{section.3.1}% 33
+\BOOKMARK [1][-]{section.3.2}{Post-compression and beam shaping}{chapter.3}% 34
+\BOOKMARK [1][-]{section.3.3}{Solid-target experimental setup}{chapter.3}% 35
+\BOOKMARK [2][-]{subsection.3.3.1}{Experimental chamber and beam profile}{section.3.3}% 36
+\BOOKMARK [2][-]{subsection.3.3.2}{Beam temporal profile}{section.3.3}% 37
+\BOOKMARK [2][-]{subsection.3.3.3}{kHz solid target}{section.3.3}% 38
+\BOOKMARK [1][-]{section.3.4}{Conclusion}{chapter.3}% 39
+\BOOKMARK [0][-]{chapter.4}{Attosecond pulses from plasma mirrors}{}% 40
+\BOOKMARK [1][-]{section.4.1}{HHG on plasma mirrors}{chapter.4}% 41
+\BOOKMARK [2][-]{subsection.4.1.1}{Experimental setup for HHG measurement}{section.4.1}% 42
+\BOOKMARK [2][-]{subsection.4.1.2}{From harmonic emission time to CWE basic properties}{section.4.1}% 43
+\BOOKMARK [2][-]{subsection.4.1.3}{Harmonic coherence properties}{section.4.1}% 44
+\BOOKMARK [2][-]{subsection.4.1.4}{Influence of gradient scale length on HHG}{section.4.1}% 45
+\BOOKMARK [2][-]{subsection.4.1.5}{Reconstruction of harmonics in the far field}{section.4.1}% 46
+\BOOKMARK [1][-]{section.4.2}{Attosecond chirp experiment}{chapter.4}% 47
+\BOOKMARK [2][-]{subsection.4.2.1}{Definition of Wavefront rotation \(WFR\)}{section.4.2}% 48
+\BOOKMARK [2][-]{subsection.4.2.2}{Analytical model to evaluate WFR at focus}{section.4.2}% 49
+\BOOKMARK [2][-]{subsection.4.2.3}{WFR measurement}{section.4.2}% 50
+\BOOKMARK [1][-]{section.4.3}{Basic principle of attosecond FROG retrieval}{chapter.4}% 51
+\BOOKMARK [1][-]{section.4.4}{Conclusion}{chapter.4}% 52
+\BOOKMARK [0][-]{chapter.5}{Measuring the plasma expansion}{}% 53
+\BOOKMARK [1][-]{section.5.1}{Spatial Domain Interferometry \(SDI\)}{chapter.5}% 54
+\BOOKMARK [2][-]{subsection.5.1.1}{Introduction}{section.5.1}% 55
+\BOOKMARK [2][-]{subsection.5.1.2}{Basic principle}{section.5.1}% 56
+\BOOKMARK [2][-]{subsection.5.1.3}{Illustration with a step-like density profile}{section.5.1}% 57
+\BOOKMARK [2][-]{subsection.5.1.4}{Plasma expansion model}{section.5.1}% 58
+\BOOKMARK [2][-]{subsection.5.1.5}{Experimental setup}{section.5.1}% 59
+\BOOKMARK [2][-]{subsection.5.1.6}{Experimental results}{section.5.1}% 60
+\BOOKMARK [1][-]{section.5.2}{Sensitivity to beam alignment}{chapter.5}% 61
+\BOOKMARK [2][-]{subsection.5.2.1}{Single-order phase shift and experimental limitations}{section.5.2}% 62
+\BOOKMARK [2][-]{subsection.5.2.2}{Break of symmetry}{section.5.2}% 63
+\BOOKMARK [1][-]{section.5.3}{Perspectives for phase retrieval}{chapter.5}% 64
+\BOOKMARK [2][-]{subsection.5.3.1}{Inversion problem}{section.5.3}% 65
+\BOOKMARK [2][-]{subsection.5.3.2}{One-dimension retrieval}{section.5.3}% 66
+\BOOKMARK [2][-]{subsection.5.3.3}{Modifying the reference probes to break the symmetry}{section.5.3}% 67
+\BOOKMARK [2][-]{subsection.5.3.4}{Two-dimensional retrieval ambiguities}{section.5.3}% 68
+\BOOKMARK [1][-]{section.5.4}{Conclusion and perspectives}{chapter.5}% 69
+\BOOKMARK [0][-]{chapter.6}{Harmonics and electrons from plasma mirrors}{}% 70
+\BOOKMARK [1][-]{section.6.1}{Review of electron acceleration mechanisms}{chapter.6}% 71
+\BOOKMARK [2][-]{subsection.6.1.1}{Resonant absorption}{section.6.1}% 72
+\BOOKMARK [2][-]{subsection.6.1.2}{Vacuum heating}{section.6.1}% 73
+\BOOKMARK [2][-]{subsection.6.1.3}{JB heating}{section.6.1}% 74
+\BOOKMARK [2][-]{subsection.6.1.4}{Laser channel}{section.6.1}% 75
+\BOOKMARK [2][-]{subsection.6.1.5}{Surface plasmon resonance}{section.6.1}% 76
+\BOOKMARK [2][-]{subsection.6.1.6}{Stochastic heating}{section.6.1}% 77
+\BOOKMARK [2][-]{subsection.6.1.7}{Conclusion}{section.6.1}% 78
+\BOOKMARK [1][-]{section.6.2}{Simultaneous HHG and electron detection}{chapter.6}% 79
+\BOOKMARK [2][-]{subsection.6.2.1}{Description of the experiment}{section.6.2}% 80
+\BOOKMARK [2][-]{subsection.6.2.2}{CWE/electron anticorrelation vs plasma scale length}{section.6.2}% 81
+\BOOKMARK [2][-]{subsection.6.2.3}{PIC simulations}{section.6.2}% 82
+\BOOKMARK [1][-]{section.6.3}{Electron angular emission}{chapter.6}% 83
+\BOOKMARK [2][-]{subsection.6.3.1}{LANEX detection plane: stereographic losses}{section.6.3}% 84
+\BOOKMARK [2][-]{subsection.6.3.2}{LANEX imaging: non isotropic emission losses}{section.6.3}% 85
+\BOOKMARK [2][-]{subsection.6.3.3}{Spatial distribution of ejected electrons}{section.6.3}% 86
+\BOOKMARK [2][-]{subsection.6.3.4}{Gyromagnetic confinement for short gradient scale length}{section.6.3}% 87
+\BOOKMARK [1][-]{section.6.4}{Electron spectra}{chapter.6}% 88
+\BOOKMARK [2][-]{subsection.6.4.1}{Electron spectrometer}{section.6.4}% 89
+\BOOKMARK [2][-]{subsection.6.4.2}{Experimental results}{section.6.4}% 90
+\BOOKMARK [1][-]{section.6.5}{Conclusion}{chapter.6}% 91
+\BOOKMARK [0][-]{chapter.7}{Laser-electron interaction in vacuum}{}% 92
+\BOOKMARK [1][-]{section.7.1}{Ponderomotive force and electron motion in vacuum}{chapter.7}% 93
+\BOOKMARK [2][-]{subsection.7.1.1}{Classical ponderomotive force derivation}{section.7.1}% 94
+\BOOKMARK [2][-]{subsection.7.1.2}{Relativistic ponderomotive force derivation}{section.7.1}% 95
+\BOOKMARK [2][-]{subsection.7.1.3}{Non-ponderomotive laser acceleration}{section.7.1}% 96
+\BOOKMARK [2][-]{subsection.7.1.4}{Strong focusing field decomposition}{section.7.1}% 97
+\BOOKMARK [1][-]{section.7.2}{Hole formation and spectral shaping in vacuum}{chapter.7}% 98
+\BOOKMARK [2][-]{subsection.7.2.1}{Two regimes of acceleration}{section.7.2}% 99
+\BOOKMARK [2][-]{subsection.7.2.2}{Application to the relativistic case}{section.7.2}% 100
+\BOOKMARK [2][-]{subsection.7.2.3}{Application to the sub-relativistic case}{section.7.2}% 101
+\BOOKMARK [2][-]{subsection.7.2.4}{Effect of interference field}{section.7.2}% 102
+\BOOKMARK [2][-]{subsection.7.2.5}{Non-axis-symmetrical components of the interference field}{section.7.2}% 103
+\BOOKMARK [1][-]{section.7.3}{Conclusion}{chapter.7}% 104
+\BOOKMARK [0][-]{chapter.8}{Conclusion and perspectives}{}% 105
+\BOOKMARK [0][-]{appendix*.111}{List of Figures}{}% 106
+\BOOKMARK [0][-]{appendix*.112}{List of Tables}{}% 107
+\BOOKMARK [0][-]{appendix.A}{Normalization conventions}{}% 108
+\BOOKMARK [1][-]{subsection.A.0.1}{Constant and physical parameters}{appendix.A}% 109
+\BOOKMARK [1][-]{section.A.1}{Maxwell's equations}{appendix.A}% 110
+\BOOKMARK [2][-]{subsection.A.1.1}{General Maxwell's equations}{section.A.1}% 111
+\BOOKMARK [2][-]{subsection.A.1.2}{Energy conservation}{section.A.1}% 112
+\BOOKMARK [2][-]{subsection.A.1.3}{Maxwell's equations in vacuum}{section.A.1}% 113
+\BOOKMARK [2][-]{subsection.A.1.4}{Intensity profile of a Gaussian pulse}{section.A.1}% 114
+\BOOKMARK [2][-]{subsection.A.1.5}{Maxwell's equations in plasmas}{section.A.1}% 115
+\BOOKMARK [2][-]{subsection.A.1.6}{Charge conservation}{section.A.1}% 116
+\BOOKMARK [1][-]{section.A.2}{Equation and scaling laws}{appendix.A}% 117
+\BOOKMARK [2][-]{subsection.A.2.1}{Propagation of the electromagnetic fields}{section.A.2}% 118
+\BOOKMARK [2][-]{subsection.A.2.2}{Charge screening}{section.A.2}% 119
+\BOOKMARK [2][-]{subsection.A.2.3}{Charge conservation}{section.A.2}% 120
+\BOOKMARK [1][-]{section.A.3}{Electron equation of motion}{appendix.A}% 121
+\BOOKMARK [1][-]{section.A.4}{Vlasov equation}{appendix.A}% 122
+\BOOKMARK [0][-]{appendix.B}{Green function}{}% 123
+\BOOKMARK [0][-]{appendix.C}{Relativistic formulations}{}% 124
+\BOOKMARK [1][-]{section.C.1}{A few definitions}{appendix.C}% 125
+\BOOKMARK [1][-]{section.C.2}{Relativistic equation of motion for a charged particle}{appendix.C}% 126
+\BOOKMARK [1][-]{section.C.3}{Gauge invariance}{appendix.C}% 127
+\BOOKMARK [0][-]{appendix.D}{Interferences between coherent sources}{}% 128
+\BOOKMARK [0][-]{appendix.E}{Publications}{}% 129

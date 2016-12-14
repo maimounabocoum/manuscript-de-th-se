@@ -1,0 +1,2919 @@
+% This file was created with JabRef 2.10.
+% Encoding: Cp1252
+
+
+@Article{akhiezer1949interaction,
+  Title                    = {About interaction of charged particle beam with electron plasma},
+  Author                   = {Akhiezer, AI and Fainberg, Ya B},
+  Journal                  = {DAN SSSR},
+  Year                     = {1949},
+  Number                   = {4},
+  Pages                    = {555--556},
+  Volume                   = {69}
+}
+
+@InCollection{akturk2007first,
+  Title                    = {First-order Spatiotemporal Distortions of Gaussian Pulses and Beams},
+  Author                   = {Akt{\"u}rk, Sel{\c{c}}uk and Gu, Xun and Gabolde, Pablo and Trebino, Rick},
+  Booktitle                = {Ultrafast Optics V},
+  Publisher                = {Springer},
+  Year                     = {2007},
+  Pages                    = {233--239}
+}
+
+@InProceedings{akturk2006general,
+  Title                    = {The general theory of first-order spatio-temporal distortions of Gaussian pulses and beams},
+  Author                   = {Akturk, Selcuk and Gu, Xun and Gabolde, Pablo and Trebino, Rick},
+  Booktitle                = {Lasers and Applications in Science and Engineering},
+  Year                     = {2006},
+  Organization             = {International Society for Optics and Photonics},
+  Pages                    = {61080E--61080E}
+}
+
+@Article{albritton1975cold,
+  Title                    = {Cold plasma wavebreaking: Production of energetic electrons},
+  Author                   = {Albritton, James and Koch, Paul},
+  Journal                  = {Physics of Fluids (1958-1988)},
+  Year                     = {1975},
+  Number                   = {9},
+  Pages                    = {1136--1139},
+  Volume                   = {18},
+
+  Publisher                = {AIP Publishing}
+}
+
+@Article{Antici2009,
+  Title                    = {Time and space resolved interferometry for detecting plasma expansion from solid targets},
+  Author                   = {Antici, P and Fuchs, J and Borghesi, M and Grismayer, T and Atzeni, S and Cecchetti, CA and Gremillet, L and Mancic, A and Mora, P and Pipahl, AC and others},
+  Journal                  = {The European Physical Journal-Special Topics},
+  Year                     = {2009},
+  Number                   = {1},
+  Pages                    = {139--142},
+  Volume                   = {175},
+
+  __markedentry            = {[bocoum:]},
+  File                     = {:gradient expansion measurement\\PlasmaExpansionMeasureLULI-2009.pdf:PDF},
+  Owner                    = {bocoum},
+  Publisher                = {Springer},
+  Timestamp                = {2015.12.27}
+}
+
+@Article{arber2015contemporary,
+  Title                    = {Contemporary particle-in-cell approach to laser-plasma modelling},
+  Author                   = {Arber, TD and Bennett, K and Brady, CS and Lawrence-Douglas, A and Ramsay, MG and Sircombe, NJ and Gillies, P and Evans, RG and Schmitz, H and Bell, AR and others},
+  Journal                  = {Plasma Physics and Controlled Fusion},
+  Year                     = {2015},
+  Number                   = {11},
+  Pages                    = {113001},
+  Volume                   = {57},
+
+  Publisher                = {IOP Publishing}
+}
+
+@Article{Arber:2015hc,
+  Title                    = {{Contemporary particle-in-cell approach to laser-plasma modelling}},
+  Author                   = {Arber, T D and Bennett, K and Brady, C S and Lawrence-Douglas, A and Ramsay, M G and Sircombe, N J and Gillies, P and Evans, R G and Schmitz, H and Bell, A R and Ridgers, C P},
+  Journal                  = {Plasma Physics and Controlled Fusion},
+  Year                     = {2015},
+
+  Month                    = nov,
+  Number                   = {11},
+  Pages                    = {1--26},
+  Volume                   = {57}
+}
+
+@Article{artsimovich1945radiation,
+  Title                    = {Radiation of Fast Electrons in a Magnetic Field, JETP, 16 1946, 379},
+  Author                   = {Artsimovich, L and Pomeranchuk, I},
+  Journal                  = {J. Phys. USSR},
+  Year                     = {1945},
+  Pages                    = {267},
+  Volume                   = {9}
+}
+
+@Article{askar1994magnetic,
+  Title                    = {Magnetic interaction of self-focusing channels and fluxes of electromagnetic radiation: their coalescence, the accumulation of energy, and the effect of external magnetic fields on them},
+  Author                   = {Askar Yan, G.Yan, GA and Bulanov, SV and Pegoraro, F and Pukhov, AM},
+  Journal                  = {JETP Letters},
+  Year                     = {1994},
+  Number                   = {4},
+  Pages                    = {251--257},
+  Volume                   = {60},
+
+  Publisher                = {New York: American Institute of Physics.}
+}
+
+@Article{asseo1972effect,
+  Title                    = {Effect of the plasma inhomogeneity on the nonlinear damping of monochromatic waves},
+  Author                   = {Asseo, E and Laval, G and Pellat, R and Welti, R and Roux, A},
+  Journal                  = {Journal of Plasma Physics},
+  Year                     = {1972},
+  Number                   = {03},
+  Pages                    = {341--355},
+  Volume                   = {8},
+
+  Publisher                = {Cambridge Univ Press}
+}
+
+@Article{atkinson,
+  Title                    = {Atomic Synthesis and Stellar Energy},
+  Author                   = {E. Atkinson},
+  Journal                  = {Astrophysical Journal},
+  Year                     = {1931},
+
+  Owner                    = {bocoum},
+  Timestamp                = {2016.04.22}
+}
+
+@Article{audebert2001direct,
+  Title                    = {Direct observation of the ponderomotive force effects in short-scale-length laser plasmas by frequency-domain interferometry},
+  Author                   = {Audebert, P and Geindre, J-P and Rebibo, S and Gauthier, J-C},
+  Journal                  = {Physical Review E},
+  Year                     = {2001},
+  Number                   = {5},
+  Pages                    = {056412},
+  Volume                   = {64},
+
+  Publisher                = {APS}
+}
+
+@Article{bach1983intensity,
+  Title                    = {Intensity-Dependent Absorption in 10.6-$\mu$m Laser-Illuminated Spheres},
+  Author                   = {Bach, DR and Casperson, DE and Forslund, DW and Gitomer, SJ and Goldstone, PD and Hauer, A and Kephart, JF and Kindel, JM and Kristal, R and Kyrala, GA and others},
+  Journal                  = {Physical review letters},
+  Year                     = {1983},
+  Number                   = {26},
+  Pages                    = {2082},
+  Volume                   = {50},
+
+  Publisher                = {APS}
+}
+
+@Article{bach1983intensity,
+  Title                    = {Intensity-Dependent Absorption in 10.6-$\mu$m Laser-Illuminated Spheres},
+  Author                   = {Bach, DR and Casperson, DE and Forslund, DW and Gitomer, SJ and Goldstone, PD and Hauer, A and Kephart, JF and Kindel, JM and Kristal, R and Kyrala, GA and others},
+  Journal                  = {Physical review letters},
+  Year                     = {1983},
+  Number                   = {26},
+  Pages                    = {2082},
+  Volume                   = {50},
+
+  Publisher                = {APS}
+}
+
+@Article{Baltuska2003,
+  Title                    = {Attosecond control of electronic processes by intense light fields},
+  Author                   = {Baltu{\v{s}}ka, Andrius and Udem, Th and Uiberacker, M and Hentschel, M and Goulielmakis, E and Gohle, Ch and Holzwarth, R and Yakovlev, VS and Scrinzi, A and H{\"a}nsch, TW and others},
+  Journal                  = {Nature},
+  Year                     = {2003},
+  Number                   = {6923},
+  Pages                    = {611--615},
+  Volume                   = {421},
+
+  __markedentry            = {[bocoum:]},
+  Owner                    = {bocoum},
+  Publisher                = {Nature Publishing Group},
+  Timestamp                = {2015.12.27}
+}
+
+@Article{barakat1984necessary,
+  Title                    = {Necessary conditions for a unique solution to two-dimensional phase recovery},
+  Author                   = {Barakat, Richard and Newsam, Garry},
+  Journal                  = {Journal of mathematical physics},
+  Year                     = {1984},
+  Number                   = {11},
+  Pages                    = {3190--3193},
+  Volume                   = {25},
+
+  Publisher                = {AIP Publishing}
+}
+
+@Article{barton1989fifth,
+  Title                    = {Fifth-order corrected electromagnetic field components for a fundamental Gaussian beam},
+  Author                   = {Barton, JP and Alexander, DR},
+  Journal                  = {Journal of Applied Physics},
+  Year                     = {1989},
+  Number                   = {7},
+  Pages                    = {2800--2802},
+  Volume                   = {66},
+
+  Publisher                = {AIP Publishing}
+}
+
+@Article{basov1964conditions,
+  Title                    = {Conditions for heating up of a plasma by the radiation from an optical generator},
+  Author                   = {Basov, NG and Krokhin, ON},
+  Journal                  = {Sov. Phys. JETP},
+  Year                     = {1964},
+  Pages                    = {123--125},
+  Volume                   = {19}
+}
+
+@Article{bastiani1997experimental,
+  Title                    = {Experimental study of the interaction of subpicosecond laser pulses with solid targets of varying initial scale lengths},
+  Author                   = {Bastiani, S and Rousse, A and Geindre, JP and Audebert, P and Quoix, C and Hamoniaux, G and Antonetti, A and Gauthier, J-C},
+  Journal                  = {Physical Review E},
+  Year                     = {1997},
+  Number                   = {6},
+  Pages                    = {7179},
+  Volume                   = {56},
+
+  File                     = {:elec_harm_solids\\electrons_fromSolids\\Bastiani_scale_PRE97.pdf:PDF},
+  Publisher                = {APS}
+}
+
+@Article{baton2003evidence,
+  Title                    = {Evidence of ultrashort electron bunches in laser-plasma interactions at relativistic intensities},
+  Author                   = {Baton, SD and Santos, JJ and Amiranoff, F and Popescu, H and Gremillet, L and Koenig, M and Martinolli, E and Guilbaud, O and Rousseaux, C and Le Gloahec, M Rabec and others},
+  Journal                  = {Physical review letters},
+  Year                     = {2003},
+  Number                   = {10},
+  Pages                    = {105001},
+  Volume                   = {91},
+
+  Publisher                = {APS}
+}
+
+@Article{Beaurepaire2015,
+  Title                    = {Effect of the laser wavefront in a laser-plasma accelerator},
+  Author                   = {Beaurepaire, B and Vernier, A and Bocoum, M and B{\"o}hle, F and Jullien, A and Rousseau, JP and Lefrou, T and Douillet, D and Iaquaniello, G and Lopez-Martens, R and others},
+  Journal                  = {arXiv preprint arXiv:1501.05797},
+  Year                     = {2015},
+
+  __markedentry            = {[bocoum:]},
+  Owner                    = {bocoum},
+  Timestamp                = {2015.12.27}
+}
+
+@Article{bethe1939energy,
+  Title                    = {Energy production in stars},
+  Author                   = {Bethe, Hans Albrecht},
+  Journal                  = {Physical Review},
+  Year                     = {1939},
+  Number                   = {5},
+  Pages                    = {434},
+  Volume                   = {55},
+
+  Publisher                = {APS}
+}
+
+@Article{bethe1937nuclear,
+  Title                    = {Nuclear physics B. Nuclear dynamics, theoretical},
+  Author                   = {Bethe, Hans Albrecht},
+  Journal                  = {Reviews of Modern Physics},
+  Year                     = {1937},
+  Number                   = {2},
+  Pages                    = {69},
+  Volume                   = {9},
+
+  Publisher                = {APS}
+}
+
+@Article{betti1998growth,
+  Title                    = {Growth rates of the ablative Rayleigh--Taylor instability in inertial confinement fusion},
+  Author                   = {Betti, R and Goncharov, VN and McCrory, RL and Verdon, CP},
+  Journal                  = {Physics of Plasmas (1994-present)},
+  Year                     = {1998},
+  Number                   = {5},
+  Pages                    = {1446--1454},
+  Volume                   = {5},
+
+  Publisher                = {AIP Publishing}
+}
+
+@Article{Blanc1996,
+  Title                    = {Phase dynamics of reflected probe pulses from sub-100-fs laser-produced plasmas},
+  Author                   = {Blanc, P and Audebert, P and Fallies, F and Geindre, JP and Gauthier, JC and Santos, A Dos and Mysyrowicz, A and Antonetti, A},
+  Journal                  = {JOSA B},
+  Year                     = {1996},
+  Number                   = {1},
+  Pages                    = {118--124},
+  Volume                   = {13},
+
+  __markedentry            = {[bocoum:]},
+  File                     = {:gradient expansion measurement\\josab-13-1-118.pdf:PDF},
+  Owner                    = {bocoum},
+  Publisher                = {Optical Society of America},
+  Timestamp                = {2015.12.27}
+}
+
+@Article{bloembergen1970fundamentals,
+  Title                    = {Fundamentals of Damage in Laser Glass},
+  Author                   = {Bloembergen, N and others},
+  Journal                  = {National Materials Advisory Board Publication NMAB},
+  Year                     = {1970},
+  Volume                   = {271}
+}
+
+@Article{Bocoum2015,
+  Title                    = {Spatial-domain interferometer for measuring plasma mirror expansion},
+  Author                   = {Bocoum, Ma{\"\i}mouna and B{\"o}hle, Frederik and Vernier, Aline and Jullien, Aur{\'e}lie and Faure, J{\'e}r{\^o}me and Lopez-Martens, Rodrigo},
+  Journal                  = {Optics Letters},
+  Year                     = {2015},
+  Number                   = {13},
+  Pages                    = {3009--3012},
+  Volume                   = {40},
+
+  __markedentry            = {[bocoum:]},
+  Owner                    = {bocoum},
+  Publisher                = {Optical Society of America},
+  Timestamp                = {2015.12.27}
+}
+
+@Article{bocoum2016anticorrelated,
+  Title                    = {Anticorrelated Emission of High Harmonics and Fast Electron Beams From Plasma Mirrors},
+  Author                   = {Bocoum, Ma{\"\i}mouna and Th{\'e}venet, Maxence and B{\"o}hle, Frederik and Beaurepaire, Beno{\^\i}t and Vernier, Aline and Jullien, Aur{\'e}lie and Faure, J{\'e}r{\^o}me and Lopez-Martens, Rodrigo},
+  Journal                  = {Physical review letters},
+  Year                     = {2016},
+  Number                   = {18},
+  Pages                    = {185001},
+  Volume                   = {116},
+
+  Publisher                = {APS}
+}
+
+@PhdThesis{theseAnto,
+  Title                    = {Generation d'impulsion attosecond sur miroir plasma a tres haute cadence},
+  Author                   = {Antonin Borot},
+  School                   = {Ecole Polytechnique},
+  Year                     = {2012},
+
+  File                     = {thèse d'anto:C\:\\Users\\bocoum\\Documents\\thèse\\thèses et articles\\Articles\\target stability\\These_Antonin_Borot.pdf:PDF},
+  Owner                    = {bocoum},
+  Timestamp                = {2013.10.08}
+}
+
+@Article{borot2011high,
+  Title                    = {High-harmonic generation from plasma mirrors at kilohertz repetition rate},
+  Author                   = {Borot, Antonin and Malvache, Arnaud and Chen, Xiaowei and Douillet, Denis and Iaquianiello, Gr{\'e}gory and Lefrou, Thierry and Audebert, Patrick and Geindre, Jean-Paul and Mourou, G{\'e}rard and Qu{\'e}r{\'e}, Fabien and others},
+  Journal                  = {Optics letters},
+  Year                     = {2011},
+  Number                   = {8},
+  Pages                    = {1461--1463},
+  Volume                   = {36},
+
+  Publisher                = {Optical Society of America}
+}
+
+@Article{Borot2012,
+  Title                    = {Attosecond control of collective electron motion in plasmas},
+  Author                   = {Borot, Antonin and Malvache, Arnaud and Chen, Xiaowei and Jullien, Aur{\'e}lie and Geindre, Jean-Paul and Audebert, Patrick and Mourou, G{\'e}rard and Qu{\'e}r{\'e}, Fabien and Lopez-Martens, Rodrigo},
+  Journal                  = {Nature Physics},
+  Year                     = {2012},
+  Number                   = {5},
+  Pages                    = {416--421},
+  Volume                   = {8},
+
+  __markedentry            = {[bocoum:]},
+  Owner                    = {bocoum},
+  Publisher                = {Nature Publishing Group},
+  Timestamp                = {2015.12.27}
+}
+
+@Book{bose1982applied,
+  Title                    = {Applied multidimensional systems theory},
+  Author                   = {Bose, Nirmal K},
+  Publisher                = {Van Nostrand Reinhold Company},
+  Year                     = {1982}
+}
+
+@Article{Brandl2009,
+  Title                    = {Directed acceleration of electrons from a solid surface by sub-10-fs laser pulses},
+  Author                   = {Brandl, F and Hidding, B and Osterholz, J and Hemmers, D and Karmakar, A and Pukhov, A and Pretzler, G},
+  Journal                  = {Physical review letters},
+  Year                     = {2009},
+  Number                   = {19},
+  Pages                    = {195001},
+  Volume                   = {102},
+
+  __markedentry            = {[bocoum:]},
+  Owner                    = {bocoum},
+  Publisher                = {APS},
+  Timestamp                = {2015.12.27}
+}
+
+@Article{bromage2012temporal,
+  Title                    = {Temporal contrast degradation at the focus of ultrafast pulses from high-frequency spectral phase modulation},
+  Author                   = {Bromage, J and Dorrer, C and Jungquist, RK},
+  Journal                  = {JOSA B},
+  Year                     = {2012},
+  Number                   = {5},
+  Pages                    = {1125--1135},
+  Volume                   = {29},
+
+  Publisher                = {Optical Society of America}
+}
+
+@Article{Bruck1979,
+  Title                    = {On the ambiguity of the image reconstruction problem},
+  Author                   = {Bruck, Yu M and Sodin, LG},
+  Journal                  = {Optics Communications},
+  Year                     = {1979},
+  Number                   = {3},
+  Pages                    = {304--308},
+  Volume                   = {30},
+
+  __markedentry            = {[bocoum:]},
+  File                     = {:mesure impulsions\\On-the-ambiguity-of-the-image-reconstruction-problem_1979_Optics-Communications.pdf:PDF},
+  Owner                    = {bocoum},
+  Publisher                = {Elsevier},
+  Timestamp                = {2015.12.27}
+}
+
+@Article{bruck1979ambiguity,
+  Title                    = {On the ambiguity of the image reconstruction problem},
+  Author                   = {Bruck, Yu M and Sodin, LG},
+  Journal                  = {Optics Communications},
+  Year                     = {1979},
+  Number                   = {3},
+  Pages                    = {304--308},
+  Volume                   = {30},
+
+  Publisher                = {Elsevier}
+}
+
+@Article{brueckner1974laser,
+  Title                    = {Laser-driven fusion},
+  Author                   = {Brueckner, Keith A and Jorna, Siebe},
+  Journal                  = {Reviews of modern physics},
+  Year                     = {1974},
+  Number                   = {2},
+  Pages                    = {325},
+  Volume                   = {46},
+
+  Publisher                = {APS}
+}
+
+@Article{brueckner1974laser,
+  Title                    = {Laser-driven fusion},
+  Author                   = {Brueckner, Keith A and Jorna, Siebe},
+  Journal                  = {Reviews of modern physics},
+  Year                     = {1974},
+  Number                   = {2},
+  Pages                    = {325},
+  Volume                   = {46},
+
+  Publisher                = {APS}
+}
+
+@Article{Brunel1987,
+  Title                    = {Not-so-resonant, resonant absorption},
+  Author                   = {Brunel, F},
+  Journal                  = {Physical Review Letters},
+  Year                     = {1987},
+  Number                   = {1},
+  Pages                    = {52},
+  Volume                   = {59},
+
+  __markedentry            = {[bocoum:]},
+  Owner                    = {bocoum},
+  Publisher                = {APS},
+  Timestamp                = {2015.12.27}
+}
+
+@Article{bulanov1994interaction,
+  Title                    = {Interaction of an ultrashort, relativistically strong laser pulse with an overdense plasma},
+  Author                   = {Bulanov, Sergei V and Naumova, NM and Pegoraro, F},
+  Journal                  = {Phys. Plasmas},
+  Year                     = {1994},
+  Pages                    = {745},
+  Volume                   = {1},
+
+  File                     = {:C\:\\Users\\bocoum\\Documents\\thèse\\thèses et articles\\Articles\\ROM\\PhysPlasmas_Bulanov_Naumorav_Pegoraro.pdf:PDF}
+}
+
+@Article{burnett1977harmonic,
+  Title                    = {Harmonic generation in CO2 laser target interaction},
+  Author                   = {Burnett, NH and Baldis, HA and Richardson, MC and Enright, GD},
+  Journal                  = {Applied Physics Letters},
+  Year                     = {1977},
+  Number                   = {3},
+  Pages                    = {172--174},
+  Volume                   = {31},
+
+  Publisher                = {AIP Publishing}
+}
+
+@Article{Cai2004,
+  Title                    = {Double-peak emission of hot electrons generated by femtosecond laser interaction with solid targets},
+  Author                   = {Cai, DF and Gu, YQ and Zheng, ZJ and Zhou, WM and Yang, XD and Jiao, CY and Chen, H and Wen, TS and Chunyu, ST},
+  Journal                  = {Physical Review E},
+  Year                     = {2004},
+  Number                   = {6},
+  Pages                    = {066410},
+  Volume                   = {70},
+
+  __markedentry            = {[bocoum:]},
+  Owner                    = {bocoum},
+  Publisher                = {APS},
+  Timestamp                = {2015.12.27}
+}
+
+@PhdThesis{TheseCanova,
+  Title                    = {Generation of high contrast, ultra-short pulses for high-repetition-rate relativistic optics},
+  Author                   = {Lorenzo Canova},
+  School                   = {Ecole Polytechnique},
+  Year                     = {2009},
+
+  Owner                    = {bocoum},
+  Timestamp                = {2016.01.04}
+}
+
+@Article{Carman1981,
+  Title                    = {Observation of harmonics in the visible and ultraviolet created in C O 2-laser-produced plasmas},
+  Author                   = {Carman, RL and Rhodes, CK and Benjamin, R\_F},
+  Journal                  = {Physical Review A},
+  Year                     = {1981},
+  Number                   = {5},
+  Pages                    = {2649},
+  Volume                   = {24},
+
+  __markedentry            = {[bocoum:]},
+  Owner                    = {bocoum},
+  Publisher                = {APS},
+  Timestamp                = {2015.12.27}
+}
+
+@Article{ceccotti2013evidence,
+  Title                    = {Evidence of resonant surface-wave excitation in the relativistic regime through measurements of proton acceleration from grating targets},
+  Author                   = {Ceccotti, T and Floquet, V and Sgattoni, A and Bigongiari, A and Klimo, O and Raynaud, M and Riconda, C and Heron, A and Baffigi, F and Labate, L and others},
+  Journal                  = {Physical review letters},
+  Year                     = {2013},
+  Number                   = {18},
+  Pages                    = {185001},
+  Volume                   = {111},
+
+  Publisher                = {APS}
+}
+
+@Article{chen2001hot,
+  Title                    = {Hot electron generation via vacuum heating process in femtosecond laser--solid interactions},
+  Author                   = {Chen, LM and Zhang, J and Dong, QL and Teng, H and Liang, TJ and Zhao, LZ and Wei, ZY},
+  Journal                  = {Physics of Plasmas (1994-present)},
+  Year                     = {2001},
+  Number                   = {6},
+  Pages                    = {2925--2929},
+  Volume                   = {8},
+
+  Publisher                = {AIP Publishing}
+}
+
+@Article{chen2001effects,
+  Title                    = {Effects of laser polarization on jet emission of fast electrons in femtosecond-laser plasmas},
+  Author                   = {Chen, LM and Zhang, J and Li, YT and Teng, H and Liang, TJ and Sheng, ZM and Dong, QL and Zhao, LZ and Wei, ZY and Tang, XW},
+  Journal                  = {Physical review letters},
+  Year                     = {2001},
+  Number                   = {22},
+  Pages                    = {225001},
+  Volume                   = {87},
+
+  Publisher                = {APS}
+}
+
+@Article{chen2006surface,
+  Title                    = {Surface electron acceleration in relativistic laser-solid interactions},
+  Author                   = {Chen, Min and Sheng, Zheng-Ming and Zheng, Jun and Ma, Yan-Yun and Bari, Muhammad and Li, Yu-Tong and Zhang, Jie},
+  Journal                  = {Optics express},
+  Year                     = {2006},
+  Number                   = {7},
+  Pages                    = {3093--3098},
+  Volume                   = {14},
+
+  Publisher                = {Optical Society of America}
+}
+
+@Article{chen1985acceleration,
+  Title                    = {Acceleration of electrons by the interaction of a bunched electron beam with a plasma},
+  Author                   = {Chen, Pisin and Dawson, JM and Huff, Robert W and Katsouleas, T},
+  Journal                  = {Physical review letters},
+  Year                     = {1985},
+  Number                   = {7},
+  Pages                    = {693},
+  Volume                   = {54},
+
+  Publisher                = {APS}
+}
+
+@InProceedings{cockcroft1932experiments,
+  Title                    = {Experiments with high velocity positive ions. ii. The disintegration of elements by high velocity protons},
+  Author                   = {Cockcroft, JD and Walton, ETS},
+  Booktitle                = {Proceedings of the Royal Society of London A: Mathematical, Physical and Engineering Sciences},
+  Year                     = {1932},
+  Number                   = {831},
+  Organization             = {The Royal Society},
+  Pages                    = {229--242},
+  Volume                   = {137}
+}
+
+@Article{cockcroft1930experiments,
+  Title                    = {Experiments with high velocity positive ions},
+  Author                   = {Cockcroft, JD and Walton, ETS},
+  Journal                  = {Proceedings of the Royal Society of London. Series A, Containing Papers of a Mathematical and Physical Character},
+  Year                     = {1930},
+  Number                   = {811},
+  Pages                    = {477--489},
+  Volume                   = {129},
+
+  Publisher                = {JSTOR}
+}
+
+@Article{corde2013femtosecond,
+  Title                    = {Femtosecond x rays from laser-plasma accelerators},
+  Author                   = {Corde, S{\'e}bastien and Phuoc, K Ta and Lambert, Guillaume and Fitour, R and Malka, Victor and Rousse, Antoine and Beck, A and Lefebvre, E},
+  Journal                  = {Reviews of Modern Physics},
+  Year                     = {2013},
+  Number                   = {1},
+  Pages                    = {1},
+  Volume                   = {85},
+
+  Publisher                = {APS}
+}
+
+@Article{crimmins1983uniqueness,
+  Title                    = {Uniqueness of phase retrieval for functions with sufficiently disconnected support},
+  Author                   = {Crimmins, TR and Fienup, JR},
+  Journal                  = {J. Opt. Soc. Am},
+  Year                     = {1983},
+  Number                   = {2},
+  Pages                    = {218--221},
+  Volume                   = {73},
+
+  File                     = {:mesure impulsions\\JOSA83_UniqPRDisconCrimmins.pdf:PDF}
+}
+
+@Article{crimmins1983uniqueness,
+  Title                    = {Uniqueness of phase retrieval for functions with sufficiently disconnected support},
+  Author                   = {Crimmins, TR and Fienup, JR},
+  Journal                  = {J. Opt. Soc. Am},
+  Year                     = {1983},
+  Number                   = {2},
+  Pages                    = {218--221},
+  Volume                   = {73}
+}
+
+@Article{Lindman-Morse,
+  Title                    = {Theory and simulation of resonant absorption in a hot plasma},
+  Author                   = {D.W. Forlund , J.M. Kindel , Kenneth Lee , E.L. Lindman and R.L. Morse},
+  Journal                  = {Physical Review A},
+  Year                     = {1974},
+  Volume                   = {11},
+
+  File                     = {:C\:\\Users\\bocoum\\Documents\\thèse\\thèses et articles\\Articles\\laser interaction\\Lidman-Morse.pdf:PDF},
+  Owner                    = {bocoum},
+  Timestamp                = {2013.11.29}
+}
+
+@Article{daiber1966laser,
+  Title                    = {Laser-Generated Implosions},
+  Author                   = {Daiber, JW and Hertzberg, A and Wittliff, CE},
+  Journal                  = {Physics of Fluids (1958-1988)},
+  Year                     = {1966},
+  Number                   = {3},
+  Pages                    = {617--619},
+  Volume                   = {9},
+
+  Publisher                = {AIP Publishing}
+}
+
+@Article{dawson1964production,
+  Title                    = {On the production of plasma by giant pulse lasers},
+  Author                   = {Dawson, John M},
+  Journal                  = {Physics of Fluids (1958-1988)},
+  Year                     = {1964},
+  Number                   = {7},
+  Pages                    = {981--987},
+  Volume                   = {7},
+
+  Publisher                = {AIP Publishing}
+}
+
+@Article{denavit1992absorption,
+  Title                    = {Absorption of high-intensity subpicosecond lasers on solid density targets},
+  Author                   = {Denavit, J},
+  Journal                  = {Physical review letters},
+  Year                     = {1992},
+  Number                   = {21},
+  Pages                    = {3052},
+  Volume                   = {69},
+
+  Publisher                = {APS}
+}
+
+@Article{didenko2008contrast,
+  Title                    = {Contrast degradation in a chirped-pulse amplifier due to generation of prepulses by postpulses},
+  Author                   = {Didenko, NV and Konyashchenko, AV and Lutsenko, AP and Tenyakov, S Yu},
+  Journal                  = {Optics express},
+  Year                     = {2008},
+  Number                   = {5},
+  Pages                    = {3178--3190},
+  Volume                   = {16},
+
+  Publisher                = {Optical Society of America}
+}
+
+@Article{douglas1957excitation,
+  Title                    = {On excitation of non-medullated afferent fibres in the vagus and aortic nerves by pharmacological agents},
+  Author                   = {Douglas, WW and Ritchie, JM},
+  Journal                  = {The Journal of physiology},
+  Year                     = {1957},
+  Number                   = {1},
+  Pages                    = {31--43},
+  Volume                   = {138},
+
+  Publisher                = {Wiley Online Library}
+}
+
+@Article{doumy2004complete,
+  Title                    = {Complete characterization of a plasma mirror for the production of high-contrast ultraintense laser pulses},
+  Author                   = {Doumy, G and Qu{\'e}r{\'e}, F and Gobert, O and Perdrix, M and Martin, Ph and Audebert, P and Gauthier, JC and Geindre, J-P and Wittmann, T},
+  Journal                  = {Physical Review E},
+  Year                     = {2004},
+  Number                   = {2},
+  Pages                    = {026402},
+  Volume                   = {69},
+
+  Publisher                = {APS}
+}
+
+@Article{doumy2004complete,
+  Title                    = {Complete characterization of a plasma mirror for the production of high-contrast ultraintense laser pulses},
+  Author                   = {Doumy, G and Qu{\'e}r{\'e}, F and Gobert, O and Perdrix, M and Martin, Ph and Audebert, P and Gauthier, JC and Geindre, J-P and Wittmann, T},
+  Journal                  = {Physical Review E},
+  Year                     = {2004},
+  Number                   = {2},
+  Pages                    = {026402},
+  Volume                   = {69},
+
+  Publisher                = {APS}
+}
+
+@Article{Downer1985,
+  Title                    = {Femtosecond imaging of melting and evaporation at a photoexcited silicon surface},
+  Author                   = {Downer, MC and Fork, Richard L and Shank, Charles V},
+  Journal                  = {JOSA B},
+  Year                     = {1985},
+  Number                   = {4},
+  Pages                    = {595--599},
+  Volume                   = {2},
+
+  __markedentry            = {[bocoum:]},
+  File                     = {:gradient expansion measurement\\FemtosecondImagingDowner-OptSoc1984.pdf:PDF},
+  Owner                    = {bocoum},
+  Publisher                = {Optical Society of America},
+  Timestamp                = {2015.12.27}
+}
+
+@Article{dromey2004plasma,
+  Title                    = {The plasma mirror- A subpicosecond optical switch for ultrahigh power lasers},
+  Author                   = {Dromey, B and Kar, S and Zepf, M and Foster, P},
+  Journal                  = {Review of Scientific Instruments},
+  Year                     = {2004},
+  Number                   = {3},
+  Pages                    = {645--649},
+  Volume                   = {75},
+
+  Publisher                = {AIP Publishing}
+}
+
+@Article{dromey2009tunable,
+  Title                    = {Tunable enhancement of high harmonic emission from laser solid interactions},
+  Author                   = {Dromey, B and Rykovanov, SG and Adams, D and H{\"o}rlein, R and Nomura, Y and Carroll, DC and Foster, PS and Kar, S and Markey, K and McKenna, P and others},
+  Journal                  = {Physical review letters},
+  Year                     = {2009},
+  Number                   = {22},
+  Pages                    = {225002},
+  Volume                   = {102},
+
+  Publisher                = {APS}
+}
+
+@Article{dubietis1992powerful,
+  Title                    = {Powerful femtosecond pulse generation by chirped and stretched pulse parametric amplification in BBO crystal},
+  Author                   = {Dubietis, A and Jonu{\v{s}}auskas, G and Piskarskas, A},
+  Journal                  = {Optics Communications},
+  Year                     = {1992},
+  Number                   = {4},
+  Pages                    = {437--440},
+  Volume                   = {88},
+
+  Publisher                = {Elsevier}
+}
+
+@Article{dudgeon1975existence,
+  Title                    = {The existence of cepstra for two-dimensional rational polynomials},
+  Author                   = {Dudgeon, Dan E},
+  Journal                  = {Acoustics, Speech and Signal Processing, IEEE Transactions on},
+  Year                     = {1975},
+  Number                   = {2},
+  Pages                    = {242--243},
+  Volume                   = {23},
+
+  Publisher                = {IEEE}
+}
+
+@Article{Enstein1905,
+  Title                    = {On the Electrodynamics of Moving Bodies},
+  Author                   = {A. Einstein},
+  Year                     = {1905},
+
+  File                     = {article 1905:C\:\\Users\\bocoum\\Documents\\thèse\\thèses et articles\\Articles\\relativite\\On the Electrodynamics of Moving Bodies.pdf:PDF},
+  Owner                    = {bocoum},
+  Timestamp                = {2013.10.02}
+}
+
+@Article{emery1982rayleigh,
+  Title                    = {Rayleigh-Taylor and Kelvin-Helmholtz instabilities in targets accelerated by laser ablation},
+  Author                   = {Emery, Mark H and Gardner, John H and Boris, Jay P},
+  Journal                  = {Physical Review Letters},
+  Year                     = {1982},
+  Number                   = {10},
+  Pages                    = {677},
+  Volume                   = {48},
+
+  Publisher                = {APS}
+}
+
+@Article{emma2010first,
+  Title                    = {First lasing and operation of an {\aa}ngstrom-wavelength free-electron laser},
+  Author                   = {Emma, Paul and Akre, R and Arthur, J and Bionta, R and Bostedt, C and Bozek, J and Brachmann, A and Bucksbaum, P and Coffee, Ryan and Decker, F-J and others},
+  Journal                  = {nature photonics},
+  Year                     = {2010},
+  Number                   = {9},
+  Pages                    = {641--647},
+  Volume                   = {4},
+
+  Publisher                = {Nature Publishing Group}
+}
+
+@Article{enright1979superthermal,
+  Title                    = {Superthermal x-ray emission from {CO}2-laser-produced plasmas},
+  Author                   = {Enright, GD and Richardson, MC and Burnett, NH},
+  Journal                  = {Journal of Applied Physics},
+  Year                     = {1979},
+  Number                   = {6},
+  Pages                    = {3909--3914},
+  Volume                   = {50},
+
+  Publisher                = {AIP Publishing}
+}
+
+@Article{evans1996time,
+  Title                    = {Time-and space-resolved optical probing of femtosecond-laser-driven shock waves in aluminum},
+  Author                   = {Evans, R and Badger, AD and Fallies, F and Mahdieh, M and Hall, TA and Audebert, P and Geindre, J-P and Gauthier, J-C and Mysyrowicz, A and Grillon, G and others},
+  Journal                  = {Physical review letters},
+  Year                     = {1996},
+  Number                   = {16},
+  Pages                    = {3359},
+  Volume                   = {77},
+
+  Publisher                = {APS}
+}
+
+@Article{brunel1987,
+  Title                    = {Not-so-resonant , resonant absorption},
+  Author                   = {F.Brunel},
+  Journal                  = {Phys. Rev. Lett},
+  Year                     = {1987},
+  Pages                    = {52--55},
+  Volume                   = {59},
+
+  File                     = {:C\:\\Users\\bocoum\\Documents\\thèse\\thèses et articles\\Articles\\laser interaction\\Brunel1987.pdf:PDF;:C\:\\Users\\bocoum\\Dropbox\\theses\\Articles\\elec_harm_solids\\electrons_fromSolids\\Brunel_PRL1987.pdf:PDF},
+  Owner                    = {bocoum},
+  Timestamp                = {2013.11.29}
+}
+
+@Article{fano1935sullo,
+  Title                    = {Sullo spettro di assorbimento dei gas nobili presso il limite dello spettro d�arco},
+  Author                   = {Fano, Ugo},
+  Journal                  = {Il Nuovo Cimento},
+  Year                     = {1935},
+  Number                   = {3},
+  Pages                    = {154--161},
+  Volume                   = {12},
+
+  Publisher                = {Springer}
+}
+
+@Article{faure2015concept,
+  Title                    = {Concept of a laser-plasma based electron source for sub-10 fs electron diffraction},
+  Author                   = {Faure, J and van der Geer, B and Beaurepaire, B and Gall{\'e}, G and Vernier, A and Lifschitz, A},
+  Journal                  = {arXiv preprint arXiv:1510.04119},
+  Year                     = {2015}
+}
+
+@Article{fedeli2015electron,
+  Title                    = {Electron acceleration by relativistic surface plasmons in laser-grating interaction},
+  Author                   = {Fedeli, Luca and Sgattoni, Andrea and Cantono, Giada and Garzella, David and R{\'e}au, Fabrice and Prencipe, Irene and Passoni, Matteo and Raynaud, Mich{\`e}le and Kv{\v{e}}to{\v{n}}, Milan and Proska, Jan and others},
+  Journal                  = {arXiv preprint arXiv:1508.02328},
+  Year                     = {2015}
+}
+
+@Article{feynman1949space,
+  Title                    = {Space-time approach to quantum electrodynamics},
+  Author                   = {Feynman, Richard Phillips},
+  Journal                  = {Physical Review},
+  Year                     = {1949},
+  Number                   = {6},
+  Pages                    = {769},
+  Volume                   = {76},
+
+  File                     = {:C\:\\Users\\bocoum\\Documents\\Documents\\Generalite physiques\\historic work\\FEYpr49c.pdf:PDF},
+  Publisher                = {APS}
+}
+
+@Article{fienup1987phase,
+  Title                    = {Phase retrieval and image reconstruction for astronomy},
+  Author                   = {Fienup, C and Dainty, J},
+  Journal                  = {Image Recovery: Theory and Application},
+  Year                     = {1987},
+  Pages                    = {231--275},
+
+  Publisher                = {San Diego, CA, USA: Academic}
+}
+
+@TechReport{fienup1984diffraction,
+  Title                    = {Diffraction-Limited Imaging of Space Objects II.},
+  Author                   = {Fienup, JR},
+  Institution              = {DTIC Document},
+  Year                     = {1984}
+}
+
+@InProceedings{fienup1984experimental,
+  Title                    = {Experimental evidence of the uniqueness of phase retrieval from intensity data},
+  Author                   = {Fienup, JR},
+  Booktitle                = {Indirect Imaging. Measurement and Processing for Indirect Imaging},
+  Year                     = {1984},
+  Pages                    = {99},
+  Volume                   = {1}
+}
+
+@Article{Fienup1987,
+  Title                    = {Reconstruction of a complex-valued object from the modulus of its Fourier transform using a support constraint},
+  Author                   = {Fienup, James R},
+  Journal                  = {JOSA A},
+  Year                     = {1987},
+  Number                   = {1},
+  Pages                    = {118--123},
+  Volume                   = {4},
+
+  __markedentry            = {[bocoum:]},
+  Owner                    = {bocoum},
+  Publisher                = {Optical Society of America},
+  Timestamp                = {2015.12.27}
+}
+
+@Article{fienup1983holographic,
+  Title                    = {Holographic reconstruction with latent reference points (A)},
+  Author                   = {Fienup, James R},
+  Journal                  = {Journal of the Optical Society of America (1917-1983)},
+  Year                     = {1983},
+  Pages                    = {1861},
+  Volume                   = {73}
+}
+
+@Article{Flacco2010,
+  Title                    = {Dependence on pulse duration and foil thickness in high-contrast-laser proton acceleration},
+  Author                   = {Flacco, Alessandro and Sylla, Fran{\c{c}}ois and Veltcheva, Mina and Carri{\'e}, M and Nuter, R and Lefebvre, E and Batani, D and Malka, Victor},
+  Journal                  = {Physical Review E},
+  Year                     = {2010},
+  Number                   = {3},
+  Pages                    = {036405},
+  Volume                   = {81},
+
+  __markedentry            = {[bocoum:]},
+  File                     = {contrast enhancement technoiques:ions_solids\\SyllaContrastEffect-APS.pdf:PDF},
+  Owner                    = {bocoum},
+  Publisher                = {APS},
+  Timestamp                = {2015.12.27}
+}
+
+@InCollection{CoursForget,
+  Title                    = {Optique des lasers et faisceaux gaussiens},
+  Author                   = {Sebastien Forget},
+  Booktitle                = {Cours, exercices et exemple d'applications},
+  Publisher                = {Universite Paris Nords/13},
+
+  Owner                    = {bocoum},
+  Timestamp                = {2016.03.03}
+}
+
+@Article{freeman1977rayleigh,
+  Title                    = {Rayleigh-Taylor instabilities in inertial-confinement fusion targets},
+  Author                   = {Freeman, JR and Clauser, MJ and Thompson, SL},
+  Journal                  = {Nuclear Fusion},
+  Year                     = {1977},
+  Number                   = {2},
+  Pages                    = {223},
+  Volume                   = {17},
+
+  Publisher                = {IOP Publishing}
+}
+
+@Article{freidberg1972resonant,
+  Title                    = {Resonant absorption of laser light by plasma targets},
+  Author                   = {Freidberg, JP and Mitchell, RW and Morse, Ro L and Rudsinski, LI},
+  Journal                  = {Physical Review Letters},
+  Year                     = {1972},
+  Number                   = {13},
+  Pages                    = {795},
+  Volume                   = {28},
+
+  Publisher                = {APS}
+}
+
+@Article{geneaux2015attosecond,
+  Title                    = {Attosecond light and electronic vortices},
+  Author                   = {G{\'e}neaux, R and Camper, A and Auguste, T and Gobert, O and Caillat, J and Tae{\"\i}b, R and Ruchon, T},
+  Journal                  = {arXiv preprint arXiv:1509.07396},
+  Year                     = {2015}
+}
+
+@Article{gamaly2002ablation,
+  Title                    = {Ablation of solids by femtosecond lasers: Ablation mechanism and ablation thresholds for metals and dielectrics},
+  Author                   = {Gamaly, Eugene G and Rode, Andrei V and Luther-Davies, Barry and Tikhonchuk, Vladimir T},
+  Journal                  = {Physics of Plasmas (1994-present)},
+  Year                     = {2002},
+  Number                   = {3},
+  Pages                    = {949--957},
+  Volume                   = {9},
+
+  Publisher                = {AIP Publishing}
+}
+
+@Article{geindre2006relativistic,
+  Title                    = {Relativistic A C Gyromagnetic Effects in Ultraintense Laser-Matter Interaction},
+  Author                   = {Geindre, JP and Audebert, P and Marjoribanks, RS},
+  Journal                  = {Physical review letters},
+  Year                     = {2006},
+  Number                   = {8},
+  Pages                    = {085001},
+  Volume                   = {97},
+
+  Publisher                = {APS}
+}
+
+@Article{Geindre2010,
+  Title                    = {Electron vacuum acceleration in a regime beyond brunel absorption},
+  Author                   = {Geindre, JP and Marjoribanks, RS and Audebert, P},
+  Journal                  = {Physical review letters},
+  Year                     = {2010},
+  Number                   = {13},
+  Pages                    = {135001},
+  Volume                   = {104},
+
+  __markedentry            = {[bocoum:]},
+  Owner                    = {bocoum},
+  Publisher                = {APS},
+  Timestamp                = {2015.12.27}
+}
+
+@Article{Geindre1994,
+  Title                    = {Frequency-domain interferometer for measuring the phase and amplitude of a femtosecond pulse probing a laser-produced plasma},
+  Author                   = {Geindre, JP and Mysyrowicz, A and Santos, A Dos and Audebert, P and Rousse, A and Hamoniaux, G and Antonetti, A and Falli{\`e}s, F and Gauthier, JC},
+  Journal                  = {Optics letters},
+  Year                     = {1994},
+  Number                   = {23},
+  Pages                    = {1997--1999},
+  Volume                   = {19},
+
+  __markedentry            = {[bocoum:]},
+  File                     = {:gradient expansion measurement\\FDI-Geindre-OL1994.pdf:PDF},
+  Owner                    = {bocoum},
+  Publisher                = {Optical Society of America},
+  Timestamp                = {2015.12.27}
+}
+
+@Article{geloni2010coherence,
+  Title                    = {Coherence properties of the European XFEL},
+  Author                   = {Geloni, Gianluca and Saldin, E and Samoylova, L and Schneidmiller, E and Sinn, H and Tschentscher, Th and Yurkov, M},
+  Journal                  = {New Journal of Physics},
+  Year                     = {2010},
+  Number                   = {3},
+  Pages                    = {035021},
+  Volume                   = {12},
+
+  Publisher                = {IOP Publishing}
+}
+
+@Article{getz2005vacuum,
+  Title                    = {Vacuum heating of large atomic clusters by a superintense femtosecond laser pulse},
+  Author                   = {Getz, AV and Krainov, VP},
+  Journal                  = {Journal of Experimental and Theoretical Physics},
+  Year                     = {2005},
+  Number                   = {1},
+  Pages                    = {80--87},
+  Volume                   = {101},
+
+  Publisher                = {Springer}
+}
+
+@Article{Gibbon1994,
+  Title                    = {Efficient production of fast electrons from femtosecond laser interaction with solid targets},
+  Author                   = {Gibbon, Paul},
+  Journal                  = {Physical review letters},
+  Year                     = {1994},
+  Number                   = {5},
+  Pages                    = {664},
+  Volume                   = {73},
+
+  __markedentry            = {[bocoum:]},
+  Owner                    = {bocoum},
+  Publisher                = {APS},
+  Timestamp                = {2015.12.27}
+}
+
+@Article{Gibbon1992,
+  Title                    = {Collisionless absorption in sharp-edged plasmas},
+  Author                   = {Gibbon, Paul and Bell, AR},
+  Journal                  = {Physical review letters},
+  Year                     = {1992},
+  Number                   = {10},
+  Pages                    = {1535},
+  Volume                   = {68},
+
+  __markedentry            = {[bocoum:]},
+  Owner                    = {bocoum},
+  Publisher                = {APS},
+  Timestamp                = {2015.12.27}
+}
+
+@Article{glinec2006absolute,
+  Title                    = {Absolute calibration for a broad range single shot electron spectrometer},
+  Author                   = {Glinec, Yannick and Faure, J{\'e}r{\^o}me and Guemnie-Tafo, A and Malka, Victor and Monard, H and Larbre, JP and De Waele, V and Marignier, JL and Mostafavi, M},
+  Journal                  = {Review of scientific instruments},
+  Year                     = {2006},
+  Number                   = {10},
+  Pages                    = {103301},
+  Volume                   = {77},
+
+  Publisher                = {AIP Publishing}
+}
+
+@Article{gonoskov2011ultrarelativistic,
+  Title                    = {Ultrarelativistic nanoplasmonics as a route towards extreme-intensity attosecond pulses},
+  Author                   = {Gonoskov, Arkady A and Korzhimanov, Artem V and Kim, Arkady V and Marklund, Mattias and Sergeev, Aleksander M},
+  Journal                  = {Physical Review E},
+  Year                     = {2011},
+  Number                   = {4},
+  Pages                    = {046403},
+  Volume                   = {84},
+
+  Publisher                = {APS}
+}
+
+@Article{goulielmakis2008single,
+  Title                    = {Single-cycle nonlinear optics},
+  Author                   = {Goulielmakis, Eleftherios and Schultze, Martin and Hofstetter, M and Yakovlev, Vladislav S and Gagnon, Justin and Uiberacker, M and Aquila, Andrew L and Gullikson, EM and Attwood, David T and Kienberger, Reinhard and others},
+  Journal                  = {Science},
+  Year                     = {2008},
+  Number                   = {5883},
+  Pages                    = {1614--1617},
+  Volume                   = {320},
+
+  Publisher                = {American Association for the Advancement of Science}
+}
+
+@Article{guan2008dynamics,
+  Title                    = {Dynamics of two-photon double ionization of helium in short intense xuv laser pulses},
+  Author                   = {Guan, Xiaoxu and Bartschat, Klaus and Schneider, BI},
+  Journal                  = {Physical Review A},
+  Year                     = {2008},
+  Number                   = {4},
+  Pages                    = {043421},
+  Volume                   = {77},
+
+  Publisher                = {APS}
+}
+
+@Article{hayes1982reconstruction,
+  Title                    = {The reconstruction of a multidimensional sequence from the phase or magnitude of its Fourier transform},
+  Author                   = {Hayes, Monson H},
+  Journal                  = {Acoustics, Speech and Signal Processing, IEEE Transactions on},
+  Year                     = {1982},
+  Number                   = {2},
+  Pages                    = {140--154},
+  Volume                   = {30},
+
+  Publisher                = {IEEE}
+}
+
+@Article{hayes1983recursive,
+  Title                    = {Recursive phase retrieval using boundary conditions},
+  Author                   = {Hayes, Monson H and Quatieri, Thomas F},
+  Journal                  = {JOSA},
+  Year                     = {1983},
+  Number                   = {11},
+  Pages                    = {1427--1433},
+  Volume                   = {73},
+
+  Publisher                = {Optical Society of America}
+}
+
+@Article{helml2014measuring,
+  Title                    = {Measuring the temporal structure of few-femtosecond free-electron laser X-ray pulses directly in the time domain},
+  Author                   = {Helml, Wolfram and Maier, AR and Schweinberger, W and Grgura{\v{s}}, Ivanka and Radcliffe, P and Doumy, G and Roedig, C and Gagnon, Justin and Messerschmidt, M and Schorb, S and others},
+  Journal                  = {Nature photonics},
+  Year                     = {2014},
+  Number                   = {12},
+  Pages                    = {950--957},
+  Volume                   = {8},
+
+  Publisher                = {Nature Publishing Group}
+}
+
+@Article{Holden1949,
+  Title                    = {Multiple-beam interferometry: intensity distribution in the reflected system},
+  Author                   = {Holden, J},
+  Journal                  = {Proceedings of the Physical Society. Section B},
+  Year                     = {1949},
+  Number                   = {7},
+  Pages                    = {405},
+  Volume                   = {62},
+
+  __markedentry            = {[bocoum:]},
+  File                     = {:gradient expansion measurement\\0370-1301_62_7_301.pdf:PDF},
+  Owner                    = {bocoum},
+  Publisher                = {IOP Publishing},
+  Timestamp                = {2015.12.27}
+}
+
+@Article{holzwarth2000optical,
+  Title                    = {Optical frequency synthesizer for precision spectroscopy},
+  Author                   = {Holzwarth, R and Udem, Th and H{\"a}nsch, Th W and Knight, JC and Wadsworth, WJ and Russell, P St J},
+  Journal                  = {Physical Review Letters},
+  Year                     = {2000},
+  Number                   = {11},
+  Pages                    = {2264},
+  Volume                   = {85},
+
+  Publisher                = {APS}
+}
+
+@Article{homoelle2002pulse,
+  Title                    = {Pulse contrast enhancement of high-energy pulses by use of a gas-filled hollow waveguide},
+  Author                   = {Homoelle, D and Gaeta, Alexander L and Yanovsky, V and Mourou, G},
+  Journal                  = {Optics letters},
+  Year                     = {2002},
+  Number                   = {18},
+  Pages                    = {1646--1648},
+  Volume                   = {27},
+
+  Publisher                = {Optical Society of America}
+}
+
+@Article{hong2005generation,
+  Title                    = {Generation and measurement of> 108 intensity contrast ratio in a relativistic kHz chirped-pulse amplified laser},
+  Author                   = {Hong, K-H and Hou, B and Nees, JA and Power, E and Mourou, GA},
+  Journal                  = {Applied Physics B},
+  Year                     = {2005},
+  Number                   = {4},
+  Pages                    = {447--457},
+  Volume                   = {81},
+
+  Publisher                = {Springer}
+}
+
+@Article{honrubia2006three,
+  Title                    = {Three-dimensional fast electron transport for ignition-scale inertial fusion capsules},
+  Author                   = {Honrubia, Javier J and Meyer-ter-Vehn, J{\"u}rgen},
+  Journal                  = {Nuclear fusion},
+  Year                     = {2006},
+  Number                   = {11},
+  Pages                    = {L25},
+  Volume                   = {46},
+
+  Publisher                = {IOP Publishing}
+}
+
+@Article{itatani1998suppression,
+  Title                    = {Suppression of the amplified spontaneous emission in chirped-pulse-amplification lasers by clean high-energy seed-pulse injection},
+  Author                   = {Itatani, J and Faure, J and Nantel, M and Mourou, G and Watanabe, S},
+  Journal                  = {Optics Communications},
+  Year                     = {1998},
+  Number                   = {1},
+  Pages                    = {70--74},
+  Volume                   = {148},
+
+  Publisher                = {Elsevier}
+}
+
+@Article{johnston1973correct,
+  Title                    = {Correct values for high-frequency power absorption by inverse bremsstrahlung in plasmas},
+  Author                   = {Johnston, Tudor Wyatt and Dawson, John M},
+  Journal                  = {Physics of Fluids (1958-1988)},
+  Year                     = {1973},
+  Number                   = {5},
+  Pages                    = {722--722},
+  Volume                   = {16},
+
+  Publisher                = {AIP Publishing}
+}
+
+@Article{jones2000carrier,
+  Title                    = {Carrier-envelope phase control of femtosecond mode-locked lasers and direct optical frequency synthesis},
+  Author                   = {Jones, David J and Diddams, Scott A and Ranka, Jinendra K and Stentz, Andrew and Windeler, Robert S and Hall, John L and Cundiff, Steven T},
+  Journal                  = {Science},
+  Year                     = {2000},
+  Number                   = {5466},
+  Pages                    = {635--639},
+  Volume                   = {288},
+
+  Publisher                = {American Association for the Advancement of Science}
+}
+
+@Article{jullien200510,
+  Title                    = {{10$^{10}$} temporal contrast for femtosecond ultraintense lasers by cross-polarized wave generation},
+  Author                   = {Jullien, Aur{\'e}lie and Albert, Olivier and Burgy, Fr{\'e}d{\'e}ric and Hamoniaux, Guy and Rousseau, Jean-Philippe and Chambaret, Jean-Paul and Aug{\'e}-Rochereau, Fr{\'e}d{\'e}rika and Ch{\'e}riaux, Gilles and Etchepare, Jean and Minkovski, Nikolay and others},
+  Journal                  = {Optics letters},
+  Year                     = {2005},
+  Number                   = {8},
+  Pages                    = {920--922},
+  Volume                   = {30},
+
+  Publisher                = {Optical Society of America}
+}
+
+@Article{Jullien2009,
+  Title                    = {Nonlinear spectral cleaning of few-cycle pulses via cross-polarized wave (XPW) generation},
+  Author                   = {Jullien, Aur{\'e}lie and Durfee, CG and Trisorio, Alexandre and Canova, L and Rousseau, J-P and Mercier, Brigitte and Antonucci, Laura and Cheriaux, Gilles and Albert, Olivier and Lopez-Martens, Rodrigo},
+  Journal                  = {Applied Physics B},
+  Year                     = {2009},
+  Number                   = {2-3},
+  Pages                    = {293--299},
+  Volume                   = {96},
+
+  __markedentry            = {[bocoum:]},
+  Owner                    = {bocoum},
+  Publisher                = {Springer},
+  Timestamp                = {2015.12.27}
+}
+
+@Article{Jullien,
+  Title                    = {Carrier-envelope phase stable, high-contrast, double-CPA laser system},
+  Author                   = {Jullien, Aur{\'e}lie and Ricci, Aur{\'e}lien and B{\"o}hle, Frederik and Rousseau, Jean-Philippe and Grabielle, St{\'e}phanie and Forget, Nicolas and Jacqmin, Hermance and Mercier, Brigitte and Lopez-Martens, Rodrigo},
+
+  __markedentry            = {[bocoum:]},
+  File                     = {:article LOA-CEA\\OL2014-DCPA.pdf:PDF},
+  Owner                    = {bocoum},
+  Timestamp                = {2015.12.27}
+}
+
+@Article{kahaly2013direct,
+  Title                    = {Direct observation of density-gradient effects in harmonic generation from plasma mirrors},
+  Author                   = {Kahaly, S and Monchoc{\'e}, S and Vincenti, H and Dzelzainis, T and Dromey, B and Zepf, M and Martin, Ph and Qu{\'e}r{\'e}, F},
+  Journal                  = {Physical review letters},
+  Year                     = {2013},
+  Number                   = {17},
+  Pages                    = {175001},
+  Volume                   = {110},
+
+  File                     = {:attosecond\\PhysRevLett.110.175001.pdf:PDF},
+  Publisher                = {APS}
+}
+
+@InProceedings{kalashnikov2009limits,
+  Title                    = {Limits of the temporal contrast for CPA lasers with beams of high aperture},
+  Author                   = {Kalashnikov, Mikhail and Andreev, Alexander and Sch{\"o}nnagel, Horst},
+  Booktitle                = {Ultrafast Nonlinear Optics 2009},
+  Year                     = {2009},
+  Organization             = {International Society for Optics and Photonics},
+  Pages                    = {750104--750104}
+}
+
+@Article{Kane2008,
+  Title                    = {Principal components generalized projections: a review [Invited]},
+  Author                   = {Kane, Daniel J},
+  Journal                  = {JOSA B},
+  Year                     = {2008},
+  Number                   = {6},
+  Pages                    = {A120--A132},
+  Volume                   = {25},
+
+  __markedentry            = {[bocoum:]},
+  File                     = {:mesure impulsions\\Kane 2008 - Principal components generalized projections.pdf:PDF},
+  Owner                    = {bocoum},
+  Publisher                = {Optical Society of America},
+  Timestamp                = {2015.12.27}
+}
+
+@Article{Kane1999,
+  Title                    = {Recent progress toward real-time measurement of ultrashort laser pulses},
+  Author                   = {Kane, Daniel J},
+  Journal                  = {Quantum Electronics, IEEE Journal of},
+  Year                     = {1999},
+  Number                   = {4},
+  Pages                    = {421--431},
+  Volume                   = {35},
+
+  __markedentry            = {[bocoum:]},
+  File                     = {:mesure impulsions\\Kane 1999 - Recent progress toward real-time measurement.pdf:PDF},
+  Owner                    = {bocoum},
+  Publisher                = {IEEE},
+  Timestamp                = {2015.12.27}
+}
+
+@Article{kane1993single,
+  Title                    = {Single-shot measurement of the intensity and phase of an arbitrary ultrashort pulse by using frequency-resolved optical gating},
+  Author                   = {Kane, Daniel J and Trebino, Rick},
+  Journal                  = {Optics letters},
+  Year                     = {1993},
+  Number                   = {10},
+  Pages                    = {823--825},
+  Volume                   = {18},
+
+  Publisher                = {Optical Society of America}
+}
+
+@Article{Kapteyn1991,
+  Title                    = {Prepulse energy suppression for high-energy ultrashort pulses using self-induced plasma shuttering},
+  Author                   = {Kapteyn, Henry C and Szoke, Abraham and Falcone, Roger W and Murnane, Margaret M},
+  Journal                  = {Optics letters},
+  Year                     = {1991},
+  Number                   = {7},
+  Pages                    = {490--492},
+  Volume                   = {16},
+
+  __markedentry            = {[bocoum:]},
+  Owner                    = {bocoum},
+  Publisher                = {Optical Society of America},
+  Timestamp                = {2015.12.27}
+}
+
+@Article{kapteyn1991prepulse,
+  Title                    = {Prepulse energy suppression for high-energy ultrashort pulses using self-induced plasma shuttering},
+  Author                   = {Kapteyn, Henry C and Szoke, Abraham and Falcone, Roger W and Murnane, Margaret M},
+  Journal                  = {Optics letters},
+  Year                     = {1991},
+  Number                   = {7},
+  Pages                    = {490--492},
+  Volume                   = {16},
+
+  Publisher                = {Optical Society of America}
+}
+
+@TechReport{karpman1974nonlinear,
+  Title                    = {Nonlinear Landau damping in an inhomogeneous plasma},
+  Author                   = {Karpman, VI and Shklyar, DR},
+  Institution              = {Inst. of Terrestrial Magnetism, Ionosphere, and Radio-Wave Propagation, Moscow},
+  Year                     = {1974}
+}
+
+@Article{kerst1940acceleration,
+  Title                    = {Acceleration of electrons by magnetic induction},
+  Author                   = {Kerst, DW},
+  Journal                  = {Physical Review},
+  Year                     = {1940},
+  Number                   = {9},
+  Pages                    = {841},
+  Volume                   = {58},
+
+  Publisher                = {APS}
+}
+
+@Article{kibble1966mutual,
+  Title                    = {Mutual refraction of electrons and photons},
+  Author                   = {Kibble, TWB},
+  Journal                  = {Physical Review},
+  Year                     = {1966},
+  Number                   = {4},
+  Pages                    = {1060},
+  Volume                   = {150},
+
+  Publisher                = {APS}
+}
+
+@Article{kibble1966mutual,
+  Title                    = {Mutual refraction of electrons and photons},
+  Author                   = {Kibble, TWB},
+  Journal                  = {Physical Review},
+  Year                     = {1966},
+  Number                   = {4},
+  Pages                    = {1060},
+  Volume                   = {150},
+
+  Publisher                = {APS}
+}
+
+@Article{Kiefer2013,
+  Title                    = {Plasma expansion into vacuum assuming a steplike electron energy distribution},
+  Author                   = {Kiefer, Thomas and Schlegel, Theodor and Kaluza, Malte C},
+  Journal                  = {Physical Review E},
+  Year                     = {2013},
+  Number                   = {4},
+  Pages                    = {043110},
+  Volume                   = {87},
+
+  __markedentry            = {[bocoum:]},
+  File                     = {:gradient expansion measurement\\Kiefer_PhysRevE-2013.pdf:PDF},
+  Owner                    = {bocoum},
+  Publisher                = {APS},
+  Timestamp                = {2015.12.27}
+}
+
+@Article{kodama2000long,
+  Title                    = {Long-scale jet formation with specularly reflected light in ultraintense laser-plasma interactions},
+  Author                   = {Kodama, R and Tanaka, KA and Sentoku, Y and Matsushita, T and Takahashi, K and Fujita, H and Kitagawa, Y and Kato, Y and Yamanaka, T and Mima, K},
+  Journal                  = {Physical review letters},
+  Year                     = {2000},
+  Number                   = {4},
+  Pages                    = {674},
+  Volume                   = {84},
+
+  Publisher                = {APS}
+}
+
+@Article{kruer1985j,
+  Title                    = {J$\times$ B heating by very intense laser light},
+  Author                   = {Kruer, WLl and Estabrook, Kent},
+  Journal                  = {Physics of Fluids (1958-1988)},
+  Year                     = {1985},
+  Number                   = {1},
+  Pages                    = {430--432},
+  Volume                   = {28},
+
+  Publisher                = {AIP Publishing}
+}
+
+@Article{kruer1988physics,
+  Title                    = {The physics of laser plasma interactions((Book))},
+  Author                   = {William L. Kruer},
+  Journal                  = {Reading, MA, Addison-Wesley Publishing Co.(Frontiers in Physics.},
+  Year                     = {1988},
+  Volume                   = {73}
+}
+
+@Article{self1976lawrence,
+  Title                    = {Laser Light absorption due to self-generated magnetic fields},
+  Author                   = {W. L. Kruer and K. E. Estabrook},
+  Year                     = {1976}
+}
+
+@Book{Kruer1988,
+  Title                    = {The physics of laser plasma interactions},
+  Author                   = {Kruer, William L and others},
+  Publisher                = {Addison-Wesley New York},
+  Year                     = {1988},
+  Volume                   = {70},
+
+  __markedentry            = {[bocoum:]},
+  Owner                    = {bocoum},
+  Timestamp                = {2015.12.27}
+}
+
+@Article{l1993high,
+  Title                    = {High-order harmonic generation in rare gases with a 1-ps 1053-nm laser},
+  Author                   = {L Huillier, Anne and Balcou, Ph},
+  Journal                  = {Physical review letters},
+  Year                     = {1993},
+  Number                   = {6},
+  Pages                    = {774},
+  Volume                   = {70},
+
+  Publisher                = {APS}
+}
+
+@Article{Landau2004,
+  Title                    = {Theoretical physics. Field theory},
+  Author                   = {Landau, L and Lifchitz, E},
+  Year                     = {2004},
+
+  __markedentry            = {[bocoum:]},
+  Owner                    = {bocoum},
+  Timestamp                = {2015.12.27}
+}
+
+@Article{landau1946vibrations,
+  Title                    = {On the vibrations of the electronic plasma},
+  Author                   = {Landau, Lev Davidovich},
+  Journal                  = {Zh. Eksp. Teor. Fiz.},
+  Year                     = {1946},
+  Pages                    = {25},
+  Volume                   = {10}
+}
+
+@Article{langmuir1923positive,
+  Title                    = {Positive ion currents from the positive column of mercury arcs},
+  Author                   = {Langmuir, Irving},
+  Journal                  = {Science},
+  Year                     = {1923},
+  Number                   = {1502},
+  Pages                    = {290--291},
+  Volume                   = {58},
+
+  Publisher                = {American Association for the Advancement of Science}
+}
+
+@Article{li2014single,
+  Title                    = {Single-shot mev transmission electron microscopy with picosecond temporal resolution},
+  Author                   = {Li, RK and Musumeci, P},
+  Journal                  = {Physical Review Applied},
+  Year                     = {2014},
+  Number                   = {2},
+  Pages                    = {024003},
+  Volume                   = {2},
+
+  Publisher                = {APS}
+}
+
+@Article{li2006observation,
+  Title                    = {Observation of a fast electron beam emitted along the surface of a target irradiated by intense femtosecond laser pulses},
+  Author                   = {Li, YT and Yuan, XH and Xu, MH and Zheng, ZY and Sheng, ZM and Chen, M and Ma, YY and Liang, WX and Yu, QZ and Zhang, Y and others},
+  Journal                  = {Physical review letters},
+  Year                     = {2006},
+  Number                   = {16},
+  Pages                    = {165003},
+  Volume                   = {96},
+
+  Publisher                = {APS}
+}
+
+@Article{li2001hot,
+  Title                    = {Hot electrons in the interaction of femtosecond laser pulses with foil targets at a moderate laser intensity},
+  Author                   = {Li, YT and Zhang, J and Chen, LM and Mu, YF and Liang, TJ and Wei, ZY and Dong, QL and Chen, ZL and Teng, H and Chun-Yu, ST and others},
+  Journal                  = {Physical Review E},
+  Year                     = {2001},
+  Number                   = {4},
+  Pages                    = {046407},
+  Volume                   = {64},
+
+  Publisher                = {APS}
+}
+
+@Article{li2003spatial,
+  Title                    = {Spatial distribution of high-energy electron emission from water plasmas produced by femtosecond laser pulses},
+  Author                   = {Li, YT and Zhang, J and Sheng, ZM and Teng, H and Liang, TJ and Peng, XY and Lu, X and Li, YJ and Tang, XW},
+  Journal                  = {Physical review letters},
+  Year                     = {2003},
+  Number                   = {16},
+  Pages                    = {165002},
+  Volume                   = {90},
+
+  Publisher                = {APS}
+}
+
+@Article{lichters,
+  Title                    = {Short-pulse laser harmonics from oscillating plasma surfaces driven at relativistic intensity},
+  Author                   = {Lichters, Roland and Meyer-ter-Vehn, J and Pukhov, A},
+  Journal                  = {Physics of Plasmas (1994-present)},
+  Year                     = {1996},
+  Number                   = {9},
+  Pages                    = {3425--3437},
+  Volume                   = {3},
+
+  __markedentry            = {[bocoum:]},
+  Owner                    = {bocoum},
+  Publisher                = {AIP Publishing},
+  Timestamp                = {2015.12.27}
+}
+
+@Book{LandauLip,
+  Title                    = {Fields Theory},
+  Author                   = {L.Landau / E. Lifchitz},
+  Editor                   = {Edition Marketing},
+  Publisher                = {ellipses},
+  Year                     = {1989},
+
+  Owner                    = {bocoum},
+  Timestamp                = {2014.01.06}
+}
+
+@Article{liseykina2015collisionless,
+  Title                    = {Collisionless absorption, hot electron generation, and energy scaling in intense laser-target interaction},
+  Author                   = {Liseykina, Tatyana and Mulser, P and Murakami, M},
+  Journal                  = {Physics of Plasmas (1994-present)},
+  Year                     = {2015},
+  Number                   = {3},
+  Pages                    = {033302},
+  Volume                   = {22},
+
+  Publisher                = {AIP Publishing}
+}
+
+@Article{lopez2005amplitude,
+  Title                    = {Amplitude and phase control of attosecond light pulses},
+  Author                   = {Lopez-Martens, Rodrigo and Varj{\'u}, Katalin and Johnsson, Per and Mauritsson, Johan and Mairesse, Yann and Salieres, Pascal and Gaarde, Mette B and Schafer, Kenneth J and Persson, Anders and Svanberg, Sune and others},
+  Journal                  = {Physical review letters},
+  Year                     = {2005},
+  Number                   = {3},
+  Pages                    = {033001},
+  Volume                   = {94},
+
+  Publisher                = {APS}
+}
+
+@InCollection{loupias2007plasma,
+  Title                    = {Plasma jet experiments using luli 2000 laser facility},
+  Author                   = {Loupias, B and Koenig, M and Ozaki, N and Benuzzi-Mounaix, A and le Goahec, M Rabec and Falize, E and Bouquet, S and Michaut, C and Nazarov, W and Courtois, C and others},
+  Booktitle                = {High Energy Density Laboratory Astrophysics},
+  Publisher                = {Springer},
+  Year                     = {2007},
+  Pages                    = {103--107}
+}
+
+@Article{macklin1993high,
+  Title                    = {High-order harmonic generation using intense femtosecond pulses},
+  Author                   = {Macklin, J and Kmetec, JD and Gordon III, CL},
+  Journal                  = {Physical review letters},
+  Year                     = {1993},
+  Number                   = {6},
+  Pages                    = {766},
+  Volume                   = {70},
+
+  Publisher                = {APS}
+}
+
+@Article{madey1971stimulated,
+  Title                    = {Stimulated emission of bremsstrahlung in a periodic magnetic field},
+  Author                   = {Madey, John MJ},
+  Journal                  = {Journal of Applied Physics},
+  Year                     = {1971},
+  Number                   = {5},
+  Pages                    = {1906--1913},
+  Volume                   = {42},
+
+  Publisher                = {AIP Publishing}
+}
+
+@Article{maine1988generation,
+  Title                    = {Generation of ultrahigh peak power pulses by chirped pulse amplification},
+  Author                   = {Maine, P and Strickland, D and Bado, P and Pessot, M and Mourou, G},
+  Journal                  = {Quantum electronics, IEEE Journal of},
+  Year                     = {1988},
+  Number                   = {2},
+  Pages                    = {398--403},
+  Volume                   = {24},
+
+  Publisher                = {IEEE}
+}
+
+@Article{malka2002electron,
+  Title                    = {Electron acceleration by a wake field forced by an intense ultrashort laser pulse},
+  Author                   = {Malka, Victor and Fritzler, S and Lefebvre, E and Aleonard, M-M and Burgy, F and Chambaret, J-P and Chemin, J-F and Krushelnick, K and Malka, G and Mangles, SPD and others},
+  Journal                  = {Science},
+  Year                     = {2002},
+  Number                   = {5598},
+  Pages                    = {1596--1600},
+  Volume                   = {298},
+
+  Publisher                = {American Association for the Advancement of Science}
+}
+
+@PhdThesis{TheseArnaud,
+  Title                    = {Optique non-lineaire a haute intensite : Compression d'impulsion laser Interaction laser-plasma},
+  Author                   = {Arnaud Malvache},
+  School                   = {Ecole Polytechnique},
+  Year                     = {2011},
+
+  Owner                    = {bocoum},
+  Timestamp                = {2015.02.05}
+}
+
+@Article{malvache2013coherent,
+  Title                    = {Coherent wake emission spectroscopy as a probe of steep plasma density profiles},
+  Author                   = {Malvache, A and Borot, A and Qu{\'e}r{\'e}, F and Lopez-Martens, R},
+  Journal                  = {Physical Review E},
+  Year                     = {2013},
+  Number                   = {3},
+  Pages                    = {035101},
+  Volume                   = {87},
+
+  Publisher                = {APS}
+}
+
+@Article{Manheimer1991,
+  Title                    = {Plasma reflectors for electronic beam steering in radar systems},
+  Author                   = {Manheimer, Wallace M},
+  Journal                  = {Plasma Science, IEEE Transactions on},
+  Year                     = {1991},
+  Number                   = {6},
+  Pages                    = {1228--1234},
+  Volume                   = {19},
+
+  __markedentry            = {[bocoum:]},
+  Owner                    = {bocoum},
+  Publisher                = {IEEE},
+  Timestamp                = {2015.12.27}
+}
+
+@Article{mathew1996generation,
+  Title                    = {Generation of large area, sheet plasma mirrors for redirecting high frequency microwave beams},
+  Author                   = {Mathew, J and Fernsler, RF and Meger, RA and Gregor, JA and Murphy, DP and Pechacek, RE and Manheimer, WM},
+  Journal                  = {Physical review letters},
+  Year                     = {1996},
+  Number                   = {10},
+  Pages                    = {1982},
+  Volume                   = {77},
+
+  Publisher                = {APS}
+}
+
+@Article{mendonca1982stochasticity,
+  Title                    = {Stochasticity in plasmas with electromagnetic waves},
+  Author                   = {Mendonca, JT and Doveil, F},
+  Journal                  = {Journal of Plasma Physics},
+  Year                     = {1982},
+  Number                   = {03},
+  Pages                    = {485--493},
+  Volume                   = {28},
+
+  Publisher                = {Cambridge Univ Press}
+}
+
+@Article{mikhailova2011ultra,
+  Title                    = {Ultra-high-contrast few-cycle pulses for multipetawatt-class laser technology},
+  Author                   = {Mikhailova, Julia M and Buck, Alexander and Borot, Antonin and Schmid, Karl and Sears, Christopher and Tsakiris, George D and Krausz, Ferenc and Veisz, Laszlo},
+  Journal                  = {Optics letters},
+  Year                     = {2011},
+  Number                   = {16},
+  Pages                    = {3145--3147},
+  Volume                   = {36},
+
+  Publisher                = {Optical Society of America}
+}
+
+@Article{miranda2014spatiotemporal,
+  Title                    = {Spatiotemporal characterization of ultrashort laser pulses using spatially resolved Fourier transform spectrometry},
+  Author                   = {Miranda, Miguel and Kotur, Marija and Rudawski, Piotr and Guo, Chen and Harth, Anne and L Huillier, Anne and Arnold, Cord L},
+  Journal                  = {Optics letters},
+  Year                     = {2014},
+  Number                   = {17},
+  Pages                    = {5142--5145},
+  Volume                   = {39},
+
+  Publisher                = {Optical Society of America}
+}
+
+@Article{miyamoto2004observation,
+  Title                    = {Observation of two-photon above-threshold ionization of rare gases by xuv harmonic photons},
+  Author                   = {Miyamoto, Naoki and Kamei, Masato and Yoshitomi, Dai and Kanai, Teruto and Sekikawa, Taro and Nakajima, Takashi and Watanabe, Shuntaro},
+  Journal                  = {Physical review letters},
+  Year                     = {2004},
+  Number                   = {8},
+  Pages                    = {083903},
+  Volume                   = {93},
+
+  Publisher                = {APS}
+}
+
+@PhdThesis{TheseSylvain,
+  Title                    = {Contr{\^o}le et m{\'e}trologie de la g{\'e}n{\'e}ration d'harmoniques sur miroir plasma},
+  Author                   = {Sylvain Monchoc{\'e}},
+  School                   = {Ecole Doctoral Ondes et Mati{\`e}re},
+  Year                     = {2014},
+
+  Owner                    = {bocoum},
+  Timestamp                = {2016.08.25}
+}
+
+@Article{monot2004high,
+  Title                    = {High-order harmonic generation by nonlinear reflection of an intense high-contrast laser pulse on a plasma},
+  Author                   = {Monot, Pascal and Doumy, Gilles and Dobosz, Sundrine and al.},
+  Journal                  = {Optics letters},
+  Year                     = {2004},
+  Number                   = {8},
+  Pages                    = {893--895},
+  Volume                   = {29},
+
+  Publisher                = {Optical Society of America}
+}
+
+@Article{mora2011introduction,
+  Title                    = {Introduction aux plasmas cr{\'e}{\'e}s par laser},
+  Author                   = {Mora, P},
+  Journal                  = {Cours Ecole Polytechnique, chapitre},
+  Year                     = {2011},
+  Volume                   = {2}
+}
+
+@Article{mora2003plasma,
+  Title                    = {Plasma expansion into a vacuum},
+  Author                   = {Mora, P},
+  Journal                  = {Physical Review Letters},
+  Year                     = {2003},
+  Number                   = {18},
+  Pages                    = {185002},
+  Volume                   = {90},
+
+  File                     = {:gradient expansion measurement\\MORA-PhysRevLett_90_185002.pdf:PDF},
+  Publisher                = {APS}
+}
+
+@Article{Mora1996,
+  Title                    = {Electron cavitation and acceleration in the wake of an ultraintense, self-focused laser pulse},
+  Author                   = {Mora, Patrick and Antonsen Jr, Thomas M},
+  Journal                  = {Physical Review E},
+  Year                     = {1996},
+  Number                   = {3},
+  Pages                    = {R2068},
+  Volume                   = {53},
+
+  __markedentry            = {[bocoum:]},
+  Owner                    = {bocoum},
+  Publisher                = {APS},
+  Timestamp                = {2015.12.27}
+}
+
+@Article{mordovanakis2009quasimonoenergetic,
+  Title                    = {Quasimonoenergetic electron beams with relativistic energies and ultrashort duration from laser-solid interactions at 0.5 kHz},
+  Author                   = {Mordovanakis, Aghapi G and Easter, James and Naumova, Natalia and Popov, Konstantin and Masson-Laborde, Paul-Edouard and Hou, Bixue and Sokolov, Igor and Mourou, G{\'e}rard and Glazyrin, Igor V and Rozmus, Wojciech and others},
+  Journal                  = {Physical review letters},
+  Year                     = {2009},
+  Number                   = {23},
+  Pages                    = {235001},
+  Volume                   = {103},
+
+  File                     = {:elec_harm_solids\\electrons_fromSolids\\Mordovanvkis_starget_PRL09.pdf:PDF},
+  Publisher                = {APS}
+}
+
+@Article{moulton1986spectroscopic,
+  Title                    = {Spectroscopic and laser characteristics of Ti:Al2{O}3},
+  Author                   = {Moulton, Peter F},
+  Journal                  = {JOSA B},
+  Year                     = {1986},
+  Number                   = {1},
+  Pages                    = {125--133},
+  Volume                   = {3},
+
+  Publisher                = {Optical Society of America}
+}
+
+@Article{murnane1991ultrafast,
+  Title                    = {Ultrafast X-ray pulses from laser-produced plasmas},
+  Author                   = {Murnane, Margaret M and Kapteyn, Henry C and Rosen, Mordecai D and Falcone, Roger W},
+  Journal                  = {Science},
+  Year                     = {1991},
+  Number                   = {4993},
+  Pages                    = {531--536},
+  Volume                   = {251},
+
+  Publisher                = {American Association for the Advancement of Science}
+}
+
+@Article{nantel1998temporal,
+  Title                    = {Temporal contrast in Ti: sapphire lasers, characterization and control},
+  Author                   = {Nantel, Marc and Itatani, Jiro and Tien, An-Chun and Faure, J{\'e}r{\^o}me and Kaplan, Daniel and Bauvier, M and Buma, Takashi and Van Rompay, Paul and Nee, J and Pronko, Peter P and others},
+  Journal                  = {Selected Topics in Quantum Electronics, IEEE Journal of},
+  Year                     = {1998},
+  Number                   = {2},
+  Pages                    = {449--458},
+  Volume                   = {4},
+
+  Publisher                = {IEEE}
+}
+
+@Article{nantel1998temporal,
+  Title                    = {Temporal contrast in Ti: sapphire lasers, characterization and control},
+  Author                   = {Nantel, Marc and Itatani, Jiro and Tien, An-Chun and Faure, J{\'e}r{\^o}me and Kaplan, Daniel and Bauvier, M and Buma, Takashi and Van Rompay, Paul and Nee, J and Pronko, Peter P and others},
+  Journal                  = {Selected Topics in Quantum Electronics, IEEE Journal of},
+  Year                     = {1998},
+  Number                   = {2},
+  Pages                    = {449--458},
+  Volume                   = {4},
+
+  Publisher                = {IEEE}
+}
+
+@Article{napier1974inferring,
+  Title                    = {Inferring phase information from modulus information in two-dimensional aperture synthesis},
+  Author                   = {Napier, PJ and Bates, RHT},
+  Journal                  = {Astronomy and Astrophysics Supplement Series},
+  Year                     = {1974},
+  Pages                    = {427},
+  Volume                   = {15}
+}
+
+@Article{Naumova2004,
+  Title                    = {Attosecond electron bunches},
+  Author                   = {Naumova, N and Sokolov, I and Nees, J and Maksimchuk, A and Yanovsky, V and Mourou, G},
+  Journal                  = {Physical review letters},
+  Year                     = {2004},
+  Number                   = {19},
+  Pages                    = {195003},
+  Volume                   = {93},
+
+  __markedentry            = {[bocoum:]},
+  File                     = {:elec_harm_solids\\electrons_fromSolids\\Naumova_atto_PRL04.pdf:PDF},
+  Owner                    = {bocoum},
+  Publisher                = {APS},
+  Timestamp                = {2015.12.27}
+}
+
+@Article{nomura2009attosecond,
+  Title                    = {Attosecond phase locking of harmonics emitted from laser-produced plasmas},
+  Author                   = {Nomura, Yutaka and H{\"o}rlein, Rainer and Tzallas, P and Dromey, B and Rykovanov, Sergey and Major, Zs and Osterhoff, Jens and Karsch, Stefan and Veisz, Laszlo and Zepf, M and others},
+  Journal                  = {Nature Physics},
+  Year                     = {2009},
+  Number                   = {2},
+  Pages                    = {124--128},
+  Volume                   = {5},
+
+  Publisher                = {Nature Publishing Group}
+}
+
+@Article{nuckolls1972laser,
+  Title                    = {Laser compression of matter to super-high densities: Thermonuclear (ctr)},
+  Author                   = {Nuckolls, John and Wood, Lowell},
+  Journal                  = {Nature},
+  Year                     = {1972},
+  Pages                    = {139},
+  Volume                   = {239}
+}
+
+@Article{oakley1998improving,
+  Title                    = {Improving image quality in poor visibility conditions using a physical model for contrast degradation},
+  Author                   = {Oakley, John P and Satherley, Brenda L},
+  Journal                  = {Image Processing, IEEE Transactions on},
+  Year                     = {1998},
+  Number                   = {2},
+  Pages                    = {167--179},
+  Volume                   = {7},
+
+  Publisher                = {IEEE}
+}
+
+@Article{okell2013carrier,
+  Title                    = {Carrier-envelope phase stability of hollow fibers used for high-energy few-cycle pulse generation},
+  Author                   = {Okell, William A and Witting, Tobias and Fabris, Davide and Austin, Dane and Bocoum, Ma{\"\i}mouna and Frank, Felix and Ricci, Aur{\'e}lien and Jullien, Aur{\'e}lie and Walke, Daniel and Marangos, Jonathan P and others},
+  Journal                  = {Optics letters},
+  Year                     = {2013},
+  Number                   = {19},
+  Pages                    = {3918--3921},
+  Volume                   = {38},
+
+  Publisher                = {Optical Society of America}
+}
+
+@Article{ArticleLondon,
+  Title                    = {Carrier-envelope phase stability of hollow fibers used for high-energy few-cycle pulse generation.},
+  Author                   = {Okell, William A., Tobias Witting, Davide Fabris, Dane Austin, Maimouna Bocoum, Felix Frank, Aurelien Ricci et al.},
+  Journal                  = {Optics Letters},
+  Year                     = {2013},
+  Pages                    = {3918-3921},
+  Volume                   = {38},
+
+  File                     = {publie campagne london 2012:C\:\\Users\\bocoum\\Documents\\thèse\\mes publies\\ol-38-19-3918.pdf:PDF},
+  Owner                    = {bocoum},
+  Timestamp                = {2013.10.10}
+}
+
+@Article{papadogiannis2003two,
+  Title                    = {Two-photon ionization of He through a superposition of higher harmonics},
+  Author                   = {Papadogiannis, NA and Nikolopoulos, LAA and Charalambidis, D and Tsakiris, George D and Tzallas, Paraskevas and Witte, Klaus},
+  Journal                  = {Physical review letters},
+  Year                     = {2003},
+  Number                   = {13},
+  Pages                    = {133902},
+  Volume                   = {90},
+
+  Publisher                = {APS}
+}
+
+@InProceedings{pariente2015measuring,
+  Title                    = {Measuring ultra-high power femtosecond lasers in space-time},
+  Author                   = {Pariente, G and Gallet, V and Gobert, O and Qu{\'e}r{\'e}, F},
+  Booktitle                = {The European Conference on Lasers and Electro-Optics},
+  Year                     = {2015},
+  Organization             = {Optical Society of America},
+  Pages                    = {CH\_8\_4}
+}
+
+@Article{plaja1998generation,
+  Title                    = {Generation of attosecond pulse trains during the reflection of a very intense laser on a solid surface},
+  Author                   = {Plaja, Luis and Roso, Luis and Rzazewski, Kazimierz and Lewenstein, Maciej},
+  Journal                  = {JOSA B},
+  Year                     = {1998},
+  Number                   = {7},
+  Pages                    = {1904--1911},
+  Volume                   = {15},
+
+  Publisher                = {Optical Society of America}
+}
+
+@InProceedings{poletto2013micro,
+  Title                    = {Micro-focusing of XUV attosecond pulses by grazing-incidence toroidal mirrors},
+  Author                   = {Poletto, L and Frassetto, F and Calegari, Francesca and Trabattoni, Andrea and Nisoli, Mauro},
+  Booktitle                = {Lasers and Electro-Optics Europe (CLEO EUROPE/IQEC), 2013 Conference on and International Quantum Electronics Conference},
+  Year                     = {2013},
+  Organization             = {IEEE},
+  Pages                    = {1--1}
+}
+
+@Article{Popov2004,
+  Title                    = {Tunnel and multiphoton ionization of atoms and ions in a strong laser field (Keldysh theory)},
+  Author                   = {Popov, Vladimir S},
+  Journal                  = {Physics-Uspekhi},
+  Year                     = {2004},
+  Number                   = {9},
+  Pages                    = {855},
+  Volume                   = {47},
+
+  __markedentry            = {[bocoum:]},
+  File                     = {:laser interaction\\TunnelVSmultiphotonIonization.pdf:PDF},
+  Owner                    = {bocoum},
+  Publisher                = {IOP Publishing},
+  Timestamp                = {2015.12.27}
+}
+
+@Article{priedhorsky1981hard,
+  Title                    = {Hard-X-ray measurements of 10.6-$\mu$m laser-irradiated targets},
+  Author                   = {Priedhorsky, W and Lier, D and Day, R and Gerke, D},
+  Journal                  = {Physical Review Letters},
+  Year                     = {1981},
+  Number                   = {23},
+  Pages                    = {1661},
+  Volume                   = {47},
+
+  Publisher                = {APS}
+}
+
+@Article{pukhov1996relativistic,
+  Title                    = {Relativistic magnetic self-channeling of light in near-critical plasma: three-dimensional particle-in-cell simulation},
+  Author                   = {Pukhov, A and Meyer-ter-Vehn, J},
+  Journal                  = {Physical review letters},
+  Year                     = {1996},
+  Number                   = {21},
+  Pages                    = {3975},
+  Volume                   = {76},
+
+  Publisher                = {APS}
+}
+
+@Article{pukhov1999particle,
+  Title                    = {Particle acceleration in relativistic laser channels},
+  Author                   = {Pukhov, A and Sheng, Z-M and Meyer-ter-Vehn, J},
+  Journal                  = {Physics of Plasmas (1994-present)},
+  Year                     = {1999},
+  Number                   = {7},
+  Pages                    = {2847--2854},
+  Volume                   = {6},
+
+  Publisher                = {AIP Publishing}
+}
+
+@Article{quere2008phase,
+  Title                    = {Phase properties of laser high-order harmonics generated on plasma mirrors},
+  Author                   = {Qu{\'e}r{\'e}, F and Thaury, C and Geindre, JP and Bonnaud, G and Monot, P and Martin, Ph},
+  Journal                  = {Physical review letters},
+  Year                     = {2008},
+  Number                   = {9},
+  Pages                    = {095004},
+  Volume                   = {100},
+
+  Publisher                = {APS}
+}
+
+@Article{Quere2006,
+  Title                    = {Coherent wake emission of high-order harmonics from overdense plasmas},
+  Author                   = {Qu{\'e}r{\'e}, F and Thaury, C and Monot, P and Dobosz, S and Martin, Ph and Geindre, J-P and Audebert, P},
+  Journal                  = {Physical review letters},
+  Year                     = {2006},
+  Number                   = {12},
+  Pages                    = {125004},
+  Volume                   = {96},
+
+  __markedentry            = {[bocoum:]},
+  File                     = {first article to clearly identify the CWE process:article LOA-CEA\\Quere-PRL96-CWE-2006.pdf:PDF},
+  Owner                    = {bocoum},
+  Publisher                = {APS},
+  Timestamp                = {2015.12.27}
+}
+
+@PhdThesis{pHdQuesnel,
+  Title                    = {Effet relativistes dans l'interaction laser-plasma haut flux : instabilitees paramarametriques electroniques et force ponderomotrice},
+  Author                   = {Brice Quesnel},
+  School                   = {Ecole Polytechnique},
+  Year                     = {1989},
+
+  Owner                    = {bocoum},
+  Timestamp                = {2015.10.13}
+}
+
+@Article{quesnel1998theory,
+  Title                    = {Theory and simulation of the interaction of ultraintense laser pulses with electrons in vacuum},
+  Author                   = {Quesnel, Brice and Mora, Patrick},
+  Journal                  = {Physical Review E},
+  Year                     = {1998},
+  Number                   = {3},
+  Pages                    = {3719},
+  Volume                   = {58},
+
+  Publisher                = {APS}
+}
+
+@Article{quoix2000ultrafast,
+  Title                    = {Ultrafast plasma studies by phase and amplitude measurements with femtosecond spectral interferometry},
+  Author                   = {Quoix, C and Hamoniaux, G and Antonetti, A and Gauthier, J-C and Geindre, J-P and Audebert, P},
+  Journal                  = {Journal of Quantitative Spectroscopy and Radiative Transfer},
+  Year                     = {2000},
+  Number                   = {1},
+  Pages                    = {455--462},
+  Volume                   = {65},
+
+  Publisher                = {Elsevier}
+}
+
+@Book{rax2011physique,
+  Title                    = {Physique des tokamaks},
+  Author                   = {Rax, Jean-Marcel},
+  Publisher                = {Editions Ecole Polytechnique},
+  Year                     = {2011}
+}
+
+@Article{rayleigh1878instability,
+  Title                    = {On the instability of jets},
+  Author                   = {Rayleigh, Lord},
+  Journal                  = {Proceedings of the London mathematical society},
+  Year                     = {1878},
+  Number                   = {1},
+  Pages                    = {4--13},
+  Volume                   = {1},
+
+  Publisher                = {Oxford University Press}
+}
+
+@PhdThesis{TheseRechatin,
+  Title                    = {Acceleration},
+  Author                   = {Cl�ment Rechatin},
+  School                   = {Ecole Polytechnique X},
+  Year                     = {2009},
+
+  Owner                    = {bocoum},
+  Timestamp                = {2015.11.26}
+}
+
+@Article{ren2010pulse,
+  Title                    = {Pulse-contrast degradation due to pump phase-modulation in optical parametric chirped-pulse amplification system},
+  Author                   = {Ren, Hongyan and Qian, Liejia and Zhu, Heyuan and Fan, Dianyuan and Yuan, Peng},
+  Journal                  = {Optics express},
+  Year                     = {2010},
+  Number                   = {12},
+  Pages                    = {12948--12959},
+  Volume                   = {18},
+
+  Publisher                = {Optical Society of America}
+}
+
+@Article{ribic2012status,
+  Title                    = {Status and prospects of x-ray free-electron lasers (X-FELs): a simple presentation},
+  Author                   = {Ribic, Primoz Rebernik and Margaritondo, G},
+  Journal                  = {Journal of Physics D: Applied Physics},
+  Year                     = {2012},
+  Number                   = {21},
+  Pages                    = {213001},
+  Volume                   = {45},
+
+  Publisher                = {IOP Publishing}
+}
+
+@PhdThesis{TheseRicci,
+  Title                    = {D{\'e}veloppement d'une source laser ultra-br{\`e}ve, stabilis{\'e}e en phase et haut contraste, pour l'optique relativiste haute cadence},
+  Author                   = {Aur{\'e}lien Ricci},
+  School                   = {Ecole Polytechnique},
+  Year                     = {2013},
+
+  Owner                    = {bocoum},
+  Timestamp                = {2016.01.04}
+}
+
+@Article{rischel1997femtosecond,
+  Title                    = {Femtosecond time-resolved X-ray diffraction from laser-heated organic films},
+  Author                   = {Rischel, Christian and Rousse, Antoine and Uschmann, Ingo and Albouy, Pierre-Antoine and Geindre, Jean-Paul and Audebert, Patrick and Gauthier, Jean-Claude and Fr{\"o}ster, Eckhart and Martin, Jean-Louis and Antonetti, Andr{\'e}},
+  Journal                  = {Nature},
+  Year                     = {1997},
+  Number                   = {6659},
+  Pages                    = {490--492},
+  Volume                   = {390},
+
+  Publisher                = {Nature Publishing Group}
+}
+
+@Article{ritchie1968surface,
+  Title                    = {Surface-plasmon resonance effect in grating diffraction},
+  Author                   = {Ritchie, RH and Arakawa, ET and Cowan, JJ and Hamm, RN},
+  Journal                  = {Physical Review Letters},
+  Year                     = {1968},
+  Number                   = {22},
+  Pages                    = {1530},
+  Volume                   = {21},
+
+  Publisher                = {APS}
+}
+
+@Article{Robson1992,
+  Title                    = {Demonstration of a plasma mirror for microwaves},
+  Author                   = {Robson, AE and Morgan, RL and Meger, RA},
+  Journal                  = {Plasma Science, IEEE Transactions on},
+  Year                     = {1992},
+  Number                   = {6},
+  Pages                    = {1036--1040},
+  Volume                   = {20},
+
+  __markedentry            = {[bocoum:]},
+  Owner                    = {bocoum},
+  Publisher                = {IEEE},
+  Timestamp                = {2015.12.27}
+}
+
+@InProceedings{romaniuk2012accelerator,
+  Title                    = {Accelerator science and technology in Europe: EuCARD 2012},
+  Author                   = {Romaniuk, Ryszard S},
+  Booktitle                = {Photonics Applications in Astronomy, Communications, Industry, and High-Energy Physics Experiments 2012},
+  Year                     = {2012},
+  Organization             = {International Society for Optics and Photonics},
+  Pages                    = {84540O--84540O}
+}
+
+@Article{roos1999controlling,
+  Title                    = {Controlling phase matching of high-order harmonic generation by manipulating the fundamental field},
+  Author                   = {Roos, Lena and Constant, Eric and M{\'e}vel, Eric and Balcou, Philippe and Descamps, Dominique and Gaarde, Mette B and Valette, Alexandre and Haroutunian, Romain and L{\'H}uillier, Anne},
+  Journal                  = {Physical Review A},
+  Year                     = {1999},
+  Number                   = {6},
+  Pages                    = {5010},
+  Volume                   = {60},
+
+  Publisher                = {APS}
+}
+
+@Article{rosenblatt1984phase,
+  Title                    = {Phase retrieval},
+  Author                   = {Rosenblatt, Joseph},
+  Journal                  = {Communications in Mathematical Physics},
+  Year                     = {1984},
+  Number                   = {3},
+  Pages                    = {317--343},
+  Volume                   = {95},
+
+  Publisher                = {Springer}
+}
+
+@Article{rutherford1916xliii,
+  Title                    = {XLIII. Long-range alpha particles from thorium},
+  Author                   = {Rutherford, Ernest and Wood, AB},
+  Journal                  = {The London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science},
+  Year                     = {1916},
+  Number                   = {184},
+  Pages                    = {379--386},
+  Volume                   = {31},
+
+  Publisher                = {Taylor \& Francis}
+}
+
+@Article{sarukura1991coherent,
+  Title                    = {Coherent soft-x-ray generation by the harmonics of an ultrahigh-power KrF laser},
+  Author                   = {Sarukura, Nobuhiko and Hata, Kiyoshi and Adachi, Takashi and Nodomi, Ryoichi and Watanabe, Masayoshi and Watanabe, Shuntaro},
+  Journal                  = {Physical Review A},
+  Year                     = {1991},
+  Number                   = {3},
+  Pages                    = {1669},
+  Volume                   = {43},
+
+  Publisher                = {APS}
+}
+
+@Book{LWtheoremLS,
+  Title                    = {Beam-wave interaction in period and quasi-static structures},
+  Author                   = {Levi Sch{\"a}chter},
+  Publisher                = {Springer},
+
+  Owner                    = {bocoum},
+  Timestamp                = {2016.08.29}
+}
+
+@Article{schlessinger1979inverse,
+  Title                    = {Inverse-bremsstrahlung absorption rate in an intense laser field},
+  Author                   = {Schlessinger, L and Wright, J},
+  Journal                  = {Physical Review A},
+  Year                     = {1979},
+  Number                   = {5},
+  Pages                    = {1934},
+  Volume                   = {20},
+
+  Publisher                = {APS}
+}
+
+@Article{schmidt1973relativistic,
+  Title                    = {Relativistic particle motion in nonuniform electromagnetic waves},
+  Author                   = {Schmidt, George and Wilcox, Thomas},
+  Journal                  = {Physical Review Letters},
+  Year                     = {1973},
+  Number                   = {23},
+  Pages                    = {1380},
+  Volume                   = {31},
+
+  Publisher                = {APS}
+}
+
+@Article{schoenlein2000generation,
+  Title                    = {Generation of femtosecond pulses of synchrotron radiation},
+  Author                   = {Schoenlein, RW and Chattopadhyay, S and Chong, HHW and Glover, TE and Heimann, PA and Shank, CV and Zholents, AA and Zolotorev, MS},
+  Journal                  = {Science},
+  Year                     = {2000},
+  Number                   = {5461},
+  Pages                    = {2237--2240},
+  Volume                   = {287},
+
+  Publisher                = {American Association for the Advancement of Science}
+}
+
+@Article{sciaini2011femtosecond,
+  Title                    = {Femtosecond electron diffraction: Heralding the era of atomically resolved dynamics},
+  Author                   = {Sciaini, Germ{\'a}n and Miller, RJ Dwayne},
+  Journal                  = {Reports on Progress in Physics},
+  Year                     = {2011},
+  Number                   = {9},
+  Pages                    = {096101},
+  Volume                   = {74},
+
+  Publisher                = {IOP Publishing}
+}
+
+@Article{sheng2002stochastic,
+  Title                    = {Stochastic heating and acceleration of electrons in colliding laser fields in plasma},
+  Author                   = {Sheng, Z-M and Mima, K and Sentoku, Y and Jovanovi{\'c}, MS and Taguchi, T and Zhang, J and Meyer-ter-Vehn, J},
+  Journal                  = {Physical review letters},
+  Year                     = {2002},
+  Number                   = {5},
+  Pages                    = {055004},
+  Volume                   = {88},
+
+  Publisher                = {APS}
+}
+
+@Book{strichartz2003guide,
+  Title                    = {A guide to distribution theory and Fourier transforms},
+  Author                   = {Strichartz, Robert S},
+  Publisher                = {World Scientific},
+  Year                     = {2003}
+}
+
+@Article{stuart1995laser,
+  Title                    = {Laser-induced damage in dielectrics with nanosecond to subpicosecond pulses},
+  Author                   = {Stuart, BC and Feit, MD and Rubenchik, AM and Shore, BW and Perry, MD},
+  Journal                  = {Physical review letters},
+  Year                     = {1995},
+  Number                   = {12},
+  Pages                    = {2248},
+  Volume                   = {74},
+
+  Publisher                = {APS}
+}
+
+@Article{tabak1994ignition,
+  Title                    = {Ignition and high gain with ultrapowerful lasers*},
+  Author                   = {Tabak, Max and Hammer, James and Glinsky, Michael E and Kruer, William L and Wilks, Scott C and Woodworth, John and Campbell, E Michael and Perry, Michael D and Mason, Rodney J},
+  Journal                  = {Physics of Plasmas (1994-present)},
+  Year                     = {1994},
+  Number                   = {5},
+  Pages                    = {1626--1634},
+  Volume                   = {1},
+
+  Publisher                = {AIP Publishing}
+}
+
+@Article{tajima1979laser,
+  Title                    = {Laser electron accelerator},
+  Author                   = {Tajima, T and Dawson, JM},
+  Journal                  = {Physical Review Letters},
+  Year                     = {1979},
+  Number                   = {4},
+  Pages                    = {267},
+  Volume                   = {43},
+
+  Publisher                = {APS}
+}
+
+@Article{tapie1992shaping,
+  Title                    = {Shaping of clean, femtosecond pulses at 1.053 $\mu$m for chirped-pulse amplification},
+  Author                   = {Tapi{\'e}, Jean-Luc and Mourou, G{\'e}rard},
+  Journal                  = {Optics letters},
+  Year                     = {1992},
+  Number                   = {2},
+  Pages                    = {136--138},
+  Volume                   = {17},
+
+  Publisher                = {Optical Society of America}
+}
+
+@Article{Tarasevitch2007,
+  Title                    = {Transition to the relativistic regime in high order harmonic generation},
+  Author                   = {Tarasevitch, Alexander and Lobov, Konstantin and W{\"u}nsche, Clemens and von der Linde, Dietrich},
+  Journal                  = {Physical review letters},
+  Year                     = {2007},
+  Number                   = {10},
+  Pages                    = {103902},
+  Volume                   = {98},
+
+  __markedentry            = {[bocoum:]},
+  Owner                    = {bocoum},
+  Publisher                = {APS},
+  Timestamp                = {2015.12.27}
+}
+
+@Article{Tarasevitch2000,
+  Title                    = {Generation of high-order spatially coherent harmonics from solid targets by femtosecond laser pulses},
+  Author                   = {Tarasevitch, A and Orisch, A and Von der Linde, D and Balcou, Ph and Rey, G and Chambaret, J-P and Teubner, U and Kl{\"o}pfel, D and Theobald, W},
+  Journal                  = {Physical Review A},
+  Year                     = {2000},
+  Number                   = {2},
+  Pages                    = {023816},
+  Volume                   = {62},
+
+  __markedentry            = {[bocoum:]},
+  Owner                    = {bocoum},
+  Publisher                = {APS},
+  Timestamp                = {2015.12.27}
+}
+
+@Article{Teubner2009,
+  Title                    = {High-order harmonics from laser-irradiated plasma surfaces},
+  Author                   = {Teubner, U and Gibbon, Paul},
+  Journal                  = {Reviews of Modern Physics},
+  Year                     = {2009},
+  Number                   = {2},
+  Pages                    = {445},
+  Volume                   = {81},
+
+  __markedentry            = {[bocoum:]},
+  Owner                    = {bocoum},
+  Publisher                = {APS},
+  Timestamp                = {2015.12.27}
+}
+
+@Article{thevenet2015,
+  Title                    = {Vacuum laser acceleration of relativistic electrons using plasma mirror injectors},
+  Author                   = {M. Th{\'e}venet and A. Leblanc and S. Kahaly and H. Vincenti and A. Vernier and F. Qu{\'e}r{\'e} and J. Faure},
+  Journal                  = {Nat. Phys.},
+  Year                     = {2015},
+  Pages                    = {3597},
+
+  Bdsk-url-1               = {http://dx.doi.org/10.1038/nphys3597},
+  Date-added               = {2015-12-15 13:33:51 +0000},
+  Date-modified            = {2016-03-03 15:13:46 +0000},
+  Doi                      = {10.1038/nphys3597},
+  Rating                   = {4}
+}
+
+@PhdThesis{TheseCedric,
+  Title                    = {Generation d'harmoniques d'ordres elevees sur miroir plasma},
+  Author                   = {Cedric Thaury},
+  School                   = {Universite de Paris 11},
+  Year                     = {2008},
+
+  File                     = {:C\:\\Users\\bocoum\\Documents\\thèse\\thèses et articles\\these pdf\\Thaury_2008_ThesePXI.pdf:PDF},
+  Owner                    = {bocoum},
+  Timestamp                = {2013.12.02}
+}
+
+@Article{thaury2010high,
+  Title                    = {High-order harmonic and attosecond pulse generation on plasma mirrors: basic mechanisms},
+  Author                   = {Thaury, C and Qu{\'e}r{\'e}, F},
+  Journal                  = {Journal of Physics B: Atomic, Molecular and Optical Physics},
+  Year                     = {2010},
+  Number                   = {21},
+  Pages                    = {213001},
+  Volume                   = {43},
+
+  File                     = {:C\:\\Users\\bocoum\\Dropbox\\theses\\Articles\\attosecond\\Thaury-QuereManuscript.pdf:PDF},
+  Publisher                = {IOP Publishing}
+}
+
+@Article{Thaury2007,
+  Title                    = {Plasma mirrors for ultrahigh-intensity optics},
+  Author                   = {Thaury, C and Qu{\'e}r{\'e}, F and Geindre, J-P and Levy, A and Ceccotti, T and Monot, P and Bougeard, M and R{\'e}au, F and d$'$Oliveira, P and Audebert, P and others},
+  Journal                  = {Nature Physics},
+  Year                     = {2007},
+  Number                   = {6},
+  Pages                    = {424--429},
+  Volume                   = {3},
+
+  __markedentry            = {[bocoum:]},
+  Owner                    = {bocoum},
+  Publisher                = {Nature Publishing Group},
+  Timestamp                = {2015.12.27}
+}
+
+@Article{thaury2008coherent,
+  Title                    = {Coherent dynamics of plasma mirrors},
+  Author                   = {Thaury, C{\'e}dric and George, H and Qu{\'e}r{\'e}, F and Loch, R and Geindre, J-P and Monot, P and Martin, Ph},
+  Journal                  = {Nature physics},
+  Year                     = {2008},
+  Number                   = {8},
+  Pages                    = {631--634},
+  Volume                   = {4},
+
+  Publisher                = {Nature Publishing Group}
+}
+
+@Article{Tian2012,
+  Title                    = {Electron Emission at Locked Phases from the Laser-Driven Surface Plasma Wave},
+  Author                   = {Tian, Ye and Liu, Jiansheng and Wang, Wentao and Wang, Cheng and Deng, Aihua and Xia, Changquan and Li, Wentao and Cao, Lihua and Lu, Haiyang and Zhang, Hui and others},
+  Journal                  = {Physical review letters},
+  Year                     = {2012},
+  Number                   = {11},
+  Pages                    = {115002},
+  Volume                   = {109},
+
+  __markedentry            = {[bocoum:]},
+  Owner                    = {bocoum},
+  Publisher                = {APS},
+  Timestamp                = {2015.12.27}
+}
+
+@Article{tian2012electron,
+  Title                    = {Electron Emission at Locked Phases from the Laser-Driven Surface Plasma Wave},
+  Author                   = {Tian, Ye and Liu, Jiansheng and Wang, Wentao and Wang, Cheng and Deng, Aihua and Xia, Changquan and Li, Wentao and Cao, Lihua and Lu, Haiyang and Zhang, Hui and others},
+  Journal                  = {Physical review letters},
+  Year                     = {2012},
+  Number                   = {11},
+  Pages                    = {115002},
+  Volume                   = {109},
+
+  Publisher                = {APS}
+}
+
+@Article{tokita2010single,
+  Title                    = {Single-shot femtosecond electron diffraction with laser-accelerated electrons: experimental demonstration of electron pulse compression},
+  Author                   = {Tokita, Shigeki and Hashida, Masaki and Inoue, Shunsuke and Nishoji, Toshihiko and Otani, Kazuto and Sakabe, Shuji},
+  Journal                  = {Physical review letters},
+  Year                     = {2010},
+  Number                   = {21},
+  Pages                    = {215004},
+  Volume                   = {105},
+
+  Publisher                = {APS}
+}
+
+@Article{TonksAndLangmuire,
+  Title                    = {Oscillations in Ionized Gases},
+  Author                   = {Lewi Tonks and Irving Langmuir},
+  Journal                  = {Phys. Rev.},
+  Year                     = {1929},
+
+  Owner                    = {bocoum},
+  Timestamp                = {2016.04.22}
+}
+
+@Book{trebino2000frog,
+  Title                    = {FROG},
+  Author                   = {Trebino, Rick},
+  Publisher                = {Springer},
+  Year                     = {2000}
+}
+
+@Article{Trebino1993,
+  Title                    = {Using phase retrieval to measure the intensity and phase of ultrashort pulses: frequency-resolved optical gating},
+  Author                   = {Trebino, Rick and Kane, Daniel J},
+  Journal                  = {JOSA A},
+  Year                     = {1993},
+  Number                   = {5},
+  Pages                    = {1101--1111},
+  Volume                   = {10},
+
+  __markedentry            = {[bocoum:]},
+  File                     = {frog retreival algoritme:mesure impulsions\\ForgRetreival-Trebino1992.pdf:PDF},
+  Owner                    = {bocoum},
+  Publisher                = {Optical Society of America},
+  Timestamp                = {2015.12.27}
+}
+
+@PhdThesis{TheseTrisorio,
+  Title                    = {D{\'e}veloppement d'une source laser femtoseconde de quelques cycles optique pour la g{\'e}n{\'e}ration d'harmoniques sur cible solide},
+  Author                   = {A Trisorio},
+  School                   = {Ecole Polytechnique},
+  Year                     = {2008},
+
+  Owner                    = {bocoum},
+  Timestamp                = {2016.01.04}
+}
+
+@InCollection{tzafestas1986state,
+  Title                    = {State-feedback control of three dimensional systems},
+  Author                   = {Tzafestas, SG},
+  Booktitle                = {Multidimensional Systems, Techniques and Applications},
+  Publisher                = {Marcel Denner New York and Basel},
+  Year                     = {1986},
+  Pages                    = {161--232}
+}
+
+@Article{valentin2003imaging,
+  Title                    = {Imaging and quality assessment of high-harmonic focal spots},
+  Author                   = {Valentin, C and Douillet, D and Kazamias, S and Lefrou, Th and Grillon, G and Aug{\'e}, F and Mullot, G and Balcou, Ph and Merc{\'e}re, P and Zeitoun, Ph},
+  Journal                  = {Optics letters},
+  Year                     = {2003},
+  Number                   = {12},
+  Pages                    = {1049--1051},
+  Volume                   = {28},
+
+  Publisher                = {Optical Society of America}
+}
+
+@Article{Veltcheva2012,
+  Title                    = {Brunel-dominated proton acceleration with a few-cycle laser pulse},
+  Author                   = {Veltcheva, M and Borot, A and Thaury, C and Malvache, A and Lefebvre, E and Flacco, A and Lopez-Martens, R and Malka, V},
+  Journal                  = {Physical review letters},
+  Year                     = {2012},
+  Number                   = {7},
+  Pages                    = {075004},
+  Volume                   = {108},
+
+  __markedentry            = {[bocoum:]},
+  Owner                    = {bocoum},
+  Publisher                = {APS},
+  Timestamp                = {2015.12.27}
+}
+
+@Article{verluise2000amplitude,
+  Title                    = {Amplitude and phase control of ultrashort pulses by use of an acousto-optic programmable dispersive filter: pulse compression and shaping},
+  Author                   = {Verluise, Frederic and Laude, Vincent and Cheng, Z and Spielmann, Ch and Tournois, Pierre},
+  Journal                  = {Optics letters},
+  Year                     = {2000},
+  Number                   = {8},
+  Pages                    = {575--577},
+  Volume                   = {25},
+
+  Publisher                = {Optical Society of America}
+}
+
+@Misc{villani2001limite,
+  Title                    = {Limite de champ moyen. Cours de DEA},
+
+  Author                   = {Villani, C},
+  Year                     = {2001},
+
+  Publisher                = {ENS Lyon}
+}
+
+@Article{vincenti2012attosecond,
+  Title                    = {Attosecond lighthouses: how to use spatiotemporally coupled light fields to generate isolated attosecond pulses},
+  Author                   = {Vincenti, Henri and Qu{\'e}r{\'e}, F},
+  Journal                  = {Physical review letters},
+  Year                     = {2012},
+  Number                   = {11},
+  Pages                    = {113904},
+  Volume                   = {108},
+
+  Publisher                = {APS}
+}
+
+@PhdThesis{TheseHenri,
+  Title                    = {Generation d'impulsions attosesondes sur mirror plasma relativiste},
+  Author                   = {Henri Paul Vincenti},
+  School                   = {Ecole Polytechnique},
+  Year                     = {2012},
+
+  Owner                    = {bocoum},
+  Timestamp                = {2015.12.28}
+}
+
+@Article{vlasov1968vibrational,
+  Title                    = {The vibrational properties of an electron gas},
+  Author                   = {Vlasov, AA},
+  Journal                  = {Physics-Uspekhi},
+  Year                     = {1968},
+  Number                   = {6},
+  Pages                    = {721--733},
+  Volume                   = {10},
+
+  Publisher                = {Turpion Ltd}
+}
+
+@Article{vlasov1945theory,
+  Title                    = {On the theory of the solid state},
+  Author                   = {Vlasov, AA},
+  Journal                  = {Journal of Physics},
+  Year                     = {1945},
+  Pages                    = {130--138},
+  Volume                   = {9}
+}
+
+@Article{VonderLinde1995,
+  Title                    = {Generation of high-order harmonics from solid surfaces by intense femtosecond laser pulses},
+  Author                   = {Von der Linde, D and Engers, T and Jenke, G and Agostini, P and Grillon, G and Nibbering, E and Mysyrowicz, A and Antonetti, A},
+  Journal                  = {Physical Review A},
+  Year                     = {1995},
+  Number                   = {1},
+  Pages                    = {R25},
+  Volume                   = {52},
+
+  __markedentry            = {[bocoum:]},
+  Owner                    = {bocoum},
+  Publisher                = {APS},
+  Timestamp                = {2015.12.27}
+}
+
+@Article{Wang2010,
+  Title                    = {Angular and energy distribution of fast electrons emitted from a solid surface irradiated by femtosecond laser pulses in various conditions},
+  Author                   = {Wang, Wentao and Liu, Jiansheng and Cai, Yi and Wang, Cheng and Liu, Li and Xia, Changquan and Deng, Aihua and Xu, Yi and Leng, Yuxin and Li, Ruxin and others},
+  Journal                  = {Physics of Plasmas (1994-present)},
+  Year                     = {2010},
+  Number                   = {2},
+  Pages                    = {023108},
+  Volume                   = {17},
+
+  __markedentry            = {[bocoum:]},
+  Owner                    = {bocoum},
+  Publisher                = {AIP Publishing},
+  Timestamp                = {2015.12.27}
+}
+
+@Article{wefers1996space,
+  Title                    = {Space-time profiles of shaped ultrafast optical waveforms},
+  Author                   = {Wefers, Marc M and Nelson, Keith A},
+  Journal                  = {Quantum Electronics, IEEE Journal of},
+  Year                     = {1996},
+  Number                   = {1},
+  Pages                    = {161--172},
+  Volume                   = {32},
+
+  Publisher                = {IEEE}
+}
+
+@Article{Wheeler2012,
+  Title                    = {Attosecond lighthouses from plasma mirrors},
+  Author                   = {Wheeler, Jonathan A and Borot, Antonin and Monchoc{\'e}, Sylvain and Vincenti, Henri and Ricci, Aur{\'e}lien and Malvache, Arnaud and Lopez-Martens, Rodrigo and Qu{\'e}r{\'e}, Fabien},
+  Journal                  = {Nature Photonics},
+  Year                     = {2012},
+  Number                   = {12},
+  Pages                    = {829--833},
+  Volume                   = {6},
+
+  __markedentry            = {[bocoum:]},
+  Owner                    = {bocoum},
+  Publisher                = {Nature Publishing Group},
+  Timestamp                = {2015.12.27}
+}
+
+@Article{wilks1997absorption,
+  Title                    = {Absorption of ultrashort, ultra-intense laser light by solids and overdense plasmas},
+  Author                   = {Wilks, Scott C and Kruer, William L},
+  Journal                  = {Quantum Electronics, IEEE Journal of},
+  Year                     = {1997},
+  Number                   = {11},
+  Pages                    = {1954--1968},
+  Volume                   = {33},
+
+  Publisher                = {IEEE}
+}
+
+@Article{yang1994gerchberg,
+  Title                    = {Gerchberg--Saxton and Yang--Gu algorithms for phase retrieval in a nonunitary transform system: a comparison},
+  Author                   = {Yang, Guo-zhen and Dong, Bi-zhen and Gu, Ben-yuan and Zhuang, Jie-yao and Ersoy, Okan K},
+  Journal                  = {Applied optics},
+  Year                     = {1994},
+  Number                   = {2},
+  Pages                    = {209--218},
+  Volume                   = {33},
+
+  Publisher                = {Optical Society of America}
+}
+
+@Article{yan2009optimization,
+  Title                    = {Optimization of Pulse Temporal Contrast in Optical Parametric Chirped Pulse Amplification},
+  Author                   = {Yan-Hai, Wang and Xue, Pan and Xue-Chun, Li and Zun-Qi, Lin},
+  Journal                  = {Chinese Physics Letters},
+  Year                     = {2009},
+  Number                   = {2},
+  Pages                    = {024211},
+  Volume                   = {26},
+
+  Publisher                = {IOP Publishing}
+}
+
+@Article{yanovsky2008ultra,
+  Title                    = {Ultra-high intensity-300-TW laser at 0.1 Hz repetition rate},
+  Author                   = {Yanovsky, V and Chvykov, V and Kalinchenko, G and Rousseau, P and Planchon, T and Matsuoka, T and Maksimchuk, A and Nees, J and Cheriaux, G and Mourou, G and others},
+  Journal                  = {Optics Express},
+  Year                     = {2008},
+  Number                   = {3},
+  Pages                    = {2109--2114},
+  Volume                   = {16},
+
+  Publisher                = {Optical Society of America}
+}
+
+@Article{zhao2012tailoring,
+  Title                    = {Tailoring a 67 attosecond pulse through advantageous phase-mismatch},
+  Author                   = {Zhao, Kun and Zhang, Qi and Chini, Michael and Wu, Yi and Wang, Xiaowei and Chang, Zenghu},
+  Journal                  = {Optics letters},
+  Year                     = {2012},
+  Number                   = {18},
+  Pages                    = {3891--3893},
+  Volume                   = {37},
+
+  Publisher                = {Optical Society of America}
+}
+
+@Article{ziener2003specular,
+  Title                    = {Specular reflectivity of plasma mirrors as a function of intensity, pulse duration, and angle of incidence},
+  Author                   = {Ziener, Ch and Foster, PS and Divall, EJ and Hooker, CJ and Hutchinson, MHR and Langley, AJ and Neely, D},
+  Journal                  = {Journal of applied physics},
+  Year                     = {2003},
+  Number                   = {1},
+  Pages                    = {768--770},
+  Volume                   = {93},
+
+  Publisher                = {AIP Publishing}
+}
+

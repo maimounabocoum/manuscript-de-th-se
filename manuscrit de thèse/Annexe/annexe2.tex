@@ -1,0 +1,144 @@
+\chapter{Green function}
+\label{ch:Green function}
+
+The Green function is an elementary solution to a differential equation with given constraints. Since the idea is not to be exhaustive from the mathematical point of view, we will directly apply it to the Poisson equation in a static case ($\partial_t \Phi = 0$):
+
+\begin{equation}
+\label{eq:MainEquation}
+\nabla^2 \Phi(\g{r}) = -\frac{\rho(\g{r})}{\epsilon_0}
+\end{equation}
+
+\noindent where $\g{r}\in \mathbb{R}^n$ and $\phi(.)\in\mathcal{L}(\mathbb{R}^n)$, $n$ being the dimension of the problem. In most physical problems, $1\le n\le4$ (3 spatial dimensions and one temporal). Note that in the case $n=4$, the Laplacian operator is called a 4-Laplacian and is equal to $\nabla^2 = \partial_x^2+\partial_y^2+\partial_z^2 - \frac{1}{c^2}\partial_t^2$. \\
+
+\noindent The solutions of the problem are the $\Phi (.)$ functions, defined as \underline{distributions}~\cite{strichartz2003guide}. In general, we choose functions which can be Fourier transformed ("\underline{tempered distribution}"), which is more restrictive from a mathematical point of view, but always true from a physical point of view.\\
+
+
+\noindent The Green function is the solution to the following equation:
+
+\begin{equation}
+\nabla^2 G(\g{r}) = \delta(\g{r})
+\label{eq:greenEq}
+\end{equation}
+
+\noindent which will be different whether the problem is posed in 1, 2 or 3 dimensions. Since the $\delta$ function has a spherical symmetry, it is convenient to express the Laplacian in the spherical coordinate system, such that:
+$$
+\nabla^2 \Phi = \frac{1}{r^{n-1}}\partial_r[r^{n-1}\partial_r \Phi]
+$$
+
+\noindent where $n$ is the dimension of the problem. The solution of~\ref{eq:MainEquation} is given by the convolution: 
+$$
+\Phi(\g{r}) = \int_{\g{r'}\in\mathbb{R}^n}G(\g{r}-\g{r'})\rho(\g{r'})d\g{r'} =
+ \int_{\g{r'}\in\mathbb{R}^n}\underbrace{G(|\g{r}-\g{r'}|)}_{\mbox{spherical sym.}}\rho(\g{r'})d\g{r'}  
+ $$\\
+
+\noindent To solve Eq~\ref{eq:greenEq} one should first  solve it on $\mathbb{R}^n$ \textbackslash $\{0\}$. The solution of Eq~\ref{eq:greenEq} when $r\ne 0$ is trivial:
+
+\begin{center}
+\begin{tabular}{p{1.5cm}|p{4cm}|p{2cm}|p{2cm}} 
+$n=1$          &   $G(r) = \lambda r + \mu$ & $\lambda \ne 0$ & $\mu = 0$\\
+$n=2$          & $G(r) = \lambda \log_{e}(r) + \mu$ &  $\lambda \ne 0$ & $\mu = 0$ \\
+$n=3$          & $G(r) = \frac{\lambda}{r} + \mu$ &  $\lambda \ne 0$ & $\mu = 0$ \\
+\end{tabular}
+\end{center}
+
+\noindent Note that $\mu$ is a simple additive constant which can be taken equal to $0$. This means that the final solution $\Phi (.)$ is unique up to a constant added value. Finally, we use the theory of distributions to completely solve the problem by integration over a sphere of unit radius $B_n$ centered on the origin. The volume integration is reduced to a surface integration using Strokes' Theorem:
+
+\begin{equation}
+\int_{dV\in B_{n-1}}\nabla^2 [G]dV\underbrace{=}_{\mbox{Strokes' Th.}}\int_{dS\in S_{n-1}}\nabla [G]_{r=1}\g{n}d\g{S}_n=\int_{dV\in B_{n-1}}  \delta(\g{r})dV = 1
+\label{eq:greenEq2}
+\end{equation}
+
+\noindent The integration of the second term of that equality yields the relation:\\
+
+\begin{equation}
+\label{eq:NormalizeGreenFunction}
+|S_{n-1}| \partial_r [r^{n}\partial_r G]_{r=1}=  -1
+\end{equation}
+
+\noindent where $|S_{n-1}| = 2, 2\pi, 4\pi$ for $n= 1,2,3$ respectively. This implies that we can calculate $\lambda$ for each dimension, such that \textit{in-fine} we can write:\\
+
+\noindent \g{For $n=1$:}\\
+
+\begin{subequations}
+\label{eq:OneDimensionGreen}
+\begin{align}[left = \empheqlbrace\,]
+&  G(r) = -\frac{1}{2}|r|\\
+&  \Phi (r) = \frac{1}{2\epsilon_0}\int_{\mathbb{R}}\rho(r')|r-r'|dr'
+\end{align}
+\end{subequations}
+
+
+\noindent \g{For $n=2$:}\\
+\begin{subequations}
+\label{eq:TwoDimensionGreen}
+\begin{align}[left = \empheqlbrace\,]
+&  G(\g{r}) = -\frac{1}{2\pi}\log_e|\g{r}|\\
+&  \Phi (\g{r}) = \frac{1}{2\pi\epsilon_0}\int_{\mathbb{R}}\rho(\g{r'})\log_e|\g{r}-\g{r}'|dr'
+\end{align}
+\end{subequations}
+
+\noindent \g{For $n=3$:}\\
+\begin{subequations}
+\label{eq:ThreeDimensionGreen}
+\begin{align}[left = \empheqlbrace\,]
+&  G(\g{r}) = -\frac{1}{4\pi|\g{r}|}\\
+&  \Phi (\g{r}) = \frac{1}{4\pi\epsilon_0}\int_{\mathbb{R}}\frac{\rho(\g{r'})}{|\g{r}-\g{r}'|}dr'
+\end{align}
+\end{subequations}
+
+
+\noindent Note that the case $n=4$ is somewhat different than in the previous demonstration because of the temporal variable. The spherical Green equation would be written:
+
+\begin{equation}
+\nabla^2[G]-\frac{1}{c^2}\partial_t^2 G = \delta(r)\delta(t)
+\end{equation}
+
+
+\noindent The resolution on $\mathbb{R}^4$ \textbackslash $\{0\}$ implies:
+
+$$
+G(\g{r},t) = f_1(t - |\g{r}|/c) + f_2(t + |\g{r}|/c) 
+$$
+
+\noindent where $f_1,f_2$ are two functions of one single variable corresponding to two counter propagating waves. $f_1$ and $f_2$ are a priori arbitrary tempered distributions. \\
+
+\noindent If we now impose the solution to be equal to the static solution when $t$ tends to infinity, we see that $f_1$ and $f_2$ are no longer arbitrary and must fulfill the relation: 
+
+\begin{equation}
+G(\g{r},t) = \delta(t - |\g{r}|/c) + \delta(t + |\g{r}|/c) 
+\end{equation}
+
+\noindent Therefore, the solution obtained by convolution with the Green function is:
+
+\begin{equation}
+ \Phi (\g{r}) = \frac{1}{4\pi\epsilon_0}\int_{t\in \mathbb{R}}\int_{\mathbb{R}}\frac{\rho(\g{r'},t')}{|\g{r}-\g{r}'|}G(\g{r}-\g{r}',t-t')d\g{r}'dt'
+\end{equation}
+
+\noindent Using the property of the Dirac distribution for integration, we finally have:\\
+
+\noindent \g{For $n=4$:}\\
+
+\begin{equation}
+ \Phi (\g{r},t) = \frac{1}{4\pi\epsilon_0}\int_{\mathbb{R}}\frac{\rho(\g{r'},t - |\g{r}-\g{r}'|/c)}{|\g{r}-\g{r}'|}d\g{r}'+\frac{1}{4\pi\epsilon_0}\int_{\mathbb{R}}\frac{\rho(\g{r'},t + |\g{r}-\g{r}'|/c)}{|\g{r}-\g{r}'|}d\g{r}'
+\end{equation}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

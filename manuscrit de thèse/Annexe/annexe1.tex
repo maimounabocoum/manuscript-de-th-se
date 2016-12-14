@@ -1,0 +1,485 @@
+\chapter{Normalization conventions}
+\label{ch:Normalisation conventions}
+
+
+\noindent When posing and solving a differential equation, one should always begin by adimensioning the system in order to neglect irrelevant terms depending on the parameter scaling. 
+Let's define a normalizing convention for all physical variables:
+
+\begin{equation}
+\label{eq:NormalizedVariables}
+  \left\{
+      \begin{aligned}
+     &\bar{t} = \omega_0 t\\
+     &\bar{v} =  \frac{v}{V_e} \\
+     & \bar{r} = \frac{r}{L_0}\\  
+     & \bar{n} = \frac{n}{n_{e0}}\\
+     &\bar{\rho} = \frac{\rho}{en_{e0}}\\
+     & \bar{j} = \frac{j}{en_{e0}V_e} \\
+     & \bar{E} = E/E_0
+     & \bar{B} = B/B_0 \\
+      \end{aligned}
+    \right.
+\end{equation}
+
+\noindent where $\omega_0$ is a frequency, $V_e$ a velocity, $L_0$ a length, $n_{e0}$ a density, $e$ is the elementary electric charge, and $E_0$ and $B_0$ are an electric and a magnetic field.
+
+\subsection{Constant and physical parameters}
+
+\noindent All these adimensioning constants are ``a priori'' independent from one another. However, in many physical systems (example or light propagating in vacuum) they can be strongly coupled. Here we define other normalizing variables which will be necessary depending on the physical system of equations we study.
+\newpage
+
+\noindent \g{Definition:}
+\begin{center}
+\begin{tabular}{p{7cm}p{7cm}}\toprule
+Plasma frequency                 & $\omega_P = \sqrt{\frac{e^2 n_{e0}}{\epsilon_0 m_e}}$   \\[10pt]
+Critical density                       & $n_c = \frac{\epsilon_0 m_e \omega_0^2}{e^2}$             \\[10pt]
+Electron quiver velocity                 & $v_{osc} = \frac{e E_0}{m_e\omega_0}$      \\[10pt]
+Cyclotron pulsation                          & $\omega_{ce} = \frac{eB_0}{m_e}$                    \\[10pt]                                           
+Debye length                                   & $\lambda_D = \sqrt{\frac{\epsilon_0 k_b T_e}{e^2 n_{e0}}} = \frac{1}{\omega_p} \sqrt{\frac{k_b T_e}{m_e}} $                        \\[10pt]
+Fermi Temperature                                  & $T_F =\frac{1}{8}(\frac{3}{pi})^{2/3}\frac{h^2n_e^{2/3}}{k_bm_e} $     \\[10pt]
+Thermal de Broglie wavelength       & $\lambda_B = \frac{\hbar}{m_ev}$                          \\[10pt]
+Coulomb   Logarithm                  & $ ln( \Lambda )= ln(\frac{\lambda_D}{\lambda_C})     $       \\[10pt]
+Electron collision time scale               &$ \nu_{ee} = \frac{e^4 ln(\Lambda) n_{e0}}{4 \pi \epsilon_0^2 m_e^{1/2} T_e^{3/2}} =3\times 10^{-6} n_e(cm^{-3}) ln(\Lambda)[T_e(eV)]^{(-3/2)}$             \\[10pt]
+\hline
+\end{tabular}
+\end{center}
+
+\vspace{0.3 in}
+
+\noindent \g{Adimensionned parameters:}
+\begin{center}
+\begin{tabular}{p{7cm}p{7cm}}\toprule
+Normalized intensity & $a_0 = \frac{v_{osc}}{c} = \frac{e E_0}{m_e \omega_0 c}$ \\[10pt]
+Electron coupling parameters & $\Gamma_{ee} = (\frac{1}{\lambda_D n_{e0}^{1/3}})^2 \approx 14.4 [\frac{n_e(m^{-3})}{10^{30}}]^{1/3}\frac{1}{T(eV)}$ \\[10pt]
+\hline
+\end{tabular}
+\end{center}
+
+%\g{Numerical Application:}\\
+%
+%We supposed $n_{e0} = 4.4\times 10^{23}cm^{-3} = 250 \times 1.7510^{21}cm^{-3}$; $\omega_0 = 2.35\times 10^{15}s^{-1}$,$E_0 = 1 TV/m$\\
+\vspace{0.3 in}
+
+\noindent \g{Physical constants:}
+\begin{center}
+\begin{tabular}{cc} 
+\hline
+ & \\
+$\epsilon_0$                         & $8.854\times 10^{-12} F/m$ \\[10pt]
+$\mu_0$          & $4\pi \times 10^{-7} N/A^2$ \\[10pt]
+$k_b$                 & $8.617 \times 10^{-5} eV/K$ \\[10pt]         
+$m_e$                 & $9.1 \times 10^{-31} kg$  \\[10pt]                  
+$e$                 & $1.6 \times 10^{-19}C $  \\[10pt]
+\hline
+\end{tabular}
+\end{center}
+
+
+
+
+
+\section{Maxwell's equations}
+
+
+
+\subsection{General Maxwell's equations}
+
+\noindent The most general formulation of Maxwell's equations is:
+
+
+\begin{equation}
+\label{eq:Maxwell-Equations-generalForm}
+  \left\{
+      \begin{aligned}
+     & \nabla \times \g{H}(\g{r},t) = \partial_t\g{ D}(\g{r},t)  + \g{j}(\g{r},t) \\
+     &  \nabla . \g{D}(\g{r},t) = \rho(\g{r},t) \\
+     & \nabla\times \g{E}(\g{r},t) = -\partial_t \g{B}(\g{r},t) \\ 
+    & \nabla . \g{B}(\g{r},t) = 0\\
+      \end{aligned}
+    \right.
+\end{equation}
+
+
+\noindent with by definition: 
+\begin{equation}
+  \left\{
+      \begin{aligned}
+     &\g{B} = \mu_0 \g{H} + \g{M}(\g{H}) \\
+     &\g{D} = \epsilon_0 \g{E} +  \g{P}(\g{E})\\
+      \end{aligned}
+    \right.
+\end{equation}
+
+\noindent Electric and magnetic fields have used to calculate the Lorentz force felt by a single charge $q$ of velocity $\g{v}$, which expression is given by: 
+$$
+\g{F}(\g{r},t) = q (\g{E}(\g{r},t) + \g{v}\times \g{B}(\g{r},t))
+$$
+
+
+\noindent $\g{M}$ and $\g{P}$ are related to external fields $\g{E}$ and $\g{H}$ with the use of phenomenological laws. 
+
+\subsection{Energy conservation}
+
+\noindent Taking $\g{E}$ et$\g{H}$ as real functions, we can derive from Sytem~\ref{eq:Maxwell-Equations-generalForm}: 
+
+\begin{equation}
+\partial_t[\frac{\epsilon_0|\g{E}|^2}{2} + \mu_0\frac{|\g{H}|^2}{2}] = -\nabla[\g{E}\times\g{H}] - \g{E}\partial_t\g{P} - \g{j}\g{E} - \g{H}\partial_t \g{M}
+\end{equation}
+
+\noindent This equation clearly outlines the different sources of energy transfer: 
+
+\begin{itemize}
+\item The kinetic energy of a charged particle: $\partial_t [E_{kin}] = \partial_t [\frac{1}{2}m\g{v}^2] = m\g{v}\dot{\g{v}}  \propto \g{j}\g{E}$. Charges in motion absorb the electromagnetic energy from an electric field which translates into kinetic energy. 
+\item The terms $\g{E}\partial_t\g{P}$ and $\g{H}\partial_t \g{M}$ are potential energies due to dipole respectively electric and magnetic dipole interactions. For a  linear response of the dipoles: $\g{P} = \epsilon_0\chi \g{E}$ et $\g{M} = \mu_0 \chi_m \g{H}$. 
+\item The term $\nabla [\g{E}\times \g{H}]$ corresponds to an energy flux. $\g{E}\times \g{H}$ is commonly called the Poynting vector, and is collinear to the momentum of the electromagnetic wave.
+\end{itemize}
+
+
+\subsection{Maxwell's equations in vacuum}
+
+\noindent Maxwell's equation in vacuum are given :
+
+\begin{equation}
+\label{eq:Maxwell-Equations-vacuum}
+  \left\{
+      \begin{aligned}
+     & \nabla \times B(r,t) = \mu_0\epsilon_0 \partial_t E(r,t)   \ \ \rm{\textit{Maxwell-Ampère}}\\
+     & \nabla . E(r,t) = 0\ \ \ \ \rm{\textit{Maxwell-Gauss}}\\
+     & \nabla\times E(r,t) = - \partial_t B(r,t)\ \ \rm{\textit{Maxwell-Faraday}}\\ 
+    & \nabla . B(r,t) = 0\ \ \rm{\textit{Maxwell-Thomson}}\\
+      \end{aligned}
+    \right.
+\end{equation}
+
+\noindent Note that in order to define the electromagnetic completely, we need the full expression of $(E_x,E_y,E_z) \in \mathcal{L}^2(\mathbb{C})^3$ and $(B_z,B_y,B_z)\in \mathcal{L}^2(\mathbb{C})^3$. For a monochromatic beam of frequency $\omega$, the temporal dependence vanishes from Eq~\ref{eq:Maxwell-Equations-vacuum} to give:
+
+\begin{minipage}{0.75\textwidth}
+\begin{center}
+\begin{subequations}
+\label{eq:Helmoltz-vacuum}
+\begin{align}[left = \empheqlbrace\,]
+     & \nabla \times \g{B}(\g{r}) = -i\frac{\omega}{c^2} \g{E}(\g{r}) \label{eq:Helmoltz-vacuum1}\\
+     & \nabla . \g{E}(\g{r}) = 0 \label{eq:Helmoltz-vacuum2}\\
+     & \nabla\times \g{E}(\g{r}) = i\omega \g{B}(\g{r}) \label{eq:Helmoltz-vacuum3}\\ 
+    & \nabla . \g{B}(\g{r}) = 0 \label{eq:Helmoltz-vacuum4}
+\end{align}
+\end{subequations}
+\end{center}
+\end{minipage}
+
+
+\noindent From Eq~\ref{eq:Helmoltz-vacuum}, it becomes quite straightforward that if $\g{B}(\g{r})$ is fully known, $\g{E}(\g{r})$ is immediately derived using Eq~\ref{eq:Helmoltz-vacuum1}. Moreover, Eq~\ref{eq:Helmoltz-vacuum4} implies that the components of $\g{B}$ can not be chosen independently from one another but that only 2 degrees of freedom are allowed. 
+The same demonstration can be performed for $\g{E}$ since $\g{E}/c$ and $\g{B}$ are completely interchangeable in the equations. 
+As a conclusion, only two components ($(E_x,E_y)$, or $(E_x,E_z)$, or $(E_x,B_x)$, or...) are necessary to completely determine the field $(\g{E},\g{B})$ (all constant fields are considered equal to zero).
+
+\subsection{Intensity profile of a Gaussian pulse}
+
+\noindent The intensity on a given plane is defined by:
+
+\begin{equation}
+I[\,\mathrm{ W/cm^2}] = \underbrace{\frac{2e_0}{w_0^2\pi}}_{\substack{\text{spatial}\\\text{factor}}}\underbrace{\frac{2\sqrt{\ln(2)}}{\tau_{\text{fwhm}}\sqrt{\pi}}}_{\substack{\text{temporal}\\\text{factor}}}\exp(\frac{-4\ln(2)t^2}{\tau_{\text{fwhm}}^2})\exp(-\frac{2r^2}{w_0^2})
+\end{equation}
+where $w_0$ is the laser waist, $\tau_{fwhm}$ the temporal Full Width at Half Maximum and $e_0$ the pulse energy. In laser plasma interaction, the expression of the normalized intensity $a_0$ is given by the relation:
+
+\begin{equation}
+a_0 = 0.855\lambda[\,\mathrm{\mu m}] I^{1/2}[10^{18}\,\mathrm{W/cm^2}]
+\end{equation}
+
+\noindent The intensity is said to be relativistic when $a_0 > 1$.
+%
+%\subsection{Limit of the paraxial approxiamation}
+%
+%Equation of propagation on $E$ in vacuum : \\
+%
+%\fbox{ %fbox est utilisé pour voir les bords de la minipage
+%\begin{minipage}[c]{\textwidth}
+%\begin{equation}
+%\partial_z^2 E(k_x,k_y,z,\omega) +(k^2 - k_x^2-k_y^2)E(k_x,k_y,z,\omega) = 0
+%\end{equation}
+%\end{minipage}
+%}
+%
+%The exact resolution of that equation is given by : 
+%\begin{equation}
+%E(k_x,k_y,z,\omega) = E(k_x,k_y,0,\omega)e^{i(\sqrt{k^2 - k_x^2-k_y^2}z)}
+%\end{equation}
+%
+%The paraxial approxiamation consist in: $k_x , k_y << k$ , which means the beam fluctuations of large compare to the wavelength and :  
+%
+%$$
+%\sqrt{k^2 - k_x^2-k_y^2} \approx k(1-\frac{k_x^2}{2k^2}-\frac{k_y^2}{2k^2})
+%$$
+%
+%As a consequence, we deduce the paraxial propagation equation: \\
+%
+%\fbox{ %fbox est utilisé pour voir les bords de la minipage
+%\begin{minipage}[c]{\textwidth}
+%\begin{equation}
+%2ik\partial_z E(k_x,k_y,z,\omega) -(2 k^2-k_x^2-k_y^2)E(k_x,k_y,z,\omega) = 0
+%\end{equation}
+%\end{minipage}
+%}
+%
+%Than if we suppose $E(k_x,k_y,z,\omega) = \Phi(k_x,k_y,z,\omega)e^{-i k z} $ , we find the well known paraxial equation applied on the scalar componant : \\
+%
+%\fbox{ %fbox est utilisé pour voir les bords de la minipage
+%\begin{minipage}[c]{\textwidth}
+%\begin{equation}
+%2ik\partial_z \Phi(k_x,k_y,z,\omega)  + (k_x^2 + k_y^2)\Phi(k_x,k_y,z,\omega)= 0
+%\end{equation}
+%\end{minipage}
+%}
+
+
+\subsection{Maxwell's equations in plasmas}
+
+\noindent We suppose $\g{P} = \g{0}$ and $\g{M} = \g{0}$.
+
+\begin{equation}
+\label{eq:Maxwell-Equations}
+  \left\{
+      \begin{aligned}
+     & \nabla \times \g{B}(\g{r},t) = \mu_0\epsilon_0 \partial_t \g{E}(\g{r},t)  + \mu_0 \g{j}(\g{r},t)  \ \ \rm{\textit{Maxwell-Ampère}}\\
+     & \nabla . \g{E}(\g{r},t) = \rho(\g{r},t)/\epsilon_0 \ \ \ \ \rm{\textit{Maxwell-Gauss}}\\
+     & \nabla\times \g{E}(\g{r},t) = - \partial_t \g{B}(\g{r},t)\ \ \rm{\textit{Maxwell-Faraday}}\\ 
+    & \nabla .\g{ B}(\g{r},t) = 0\ \ \rm{\textit{Maxwell-Thomson}}\\
+      \end{aligned}
+    \right.
+\end{equation}
+
+\subsection{Charge conservation}
+
+\begin{equation}
+\partial_t\rho + \nabla (\g{j}) = 0
+\end{equation}
+
+\section{Equation and scaling laws}
+
+\subsection{Propagation of the electromagnetic fields}
+
+\noindent From system~\ref{eq:Maxwell-Equations}, we can derive the equations of propagation for $\bar{\g{E}}$ and $\bar{\g{B}}$, which we write using the normalizing conventions defined in ~\ref{eq:NormalizedVariables}:
+
+
+\begin{subequations}
+\label{eq:Maxwell_NoDimension}
+\begin{align}[left = \empheqlbrace\,]
+&\nabla_{\bar{\g{r}}}^2 \bar{\g{E }}- \nabla_{\bar{\g{r}}} ( \nabla_{\bar{\g{r}}}. \bar{\g{E}})  - \frac{L_0^2 \omega_0^2}{c^2} \partial_{\bar{t}}^2 \g{E}(\bar{\g{r}},t)  -\frac{ L_0^2 \mu_0\omega_0}{E_0}(en_{e0}V_e)\partial_{\bar{t}}\bar{\g{j}}=0\label{eq:EMaxwell_NoDimension}  \\
+&\nabla_{\bar{\g{r}}}^2 \bar{\g{\g{B}}}(\bar{\g{r}},t) - \frac{L_0^2\omega_0^2}{c^2}\partial_{t}^2 \bar{\g{\g{B}}}(\bar{\g{r}},t)  + \frac{L_0^2\mu_0(en_{e0}V_e)}{B_0L_0}\nabla_{\bar{\g{r}}} \times \bar{\g{j}}=0\label{eq:BMaxwell_NoDimension}
+\end{align}
+\end{subequations}
+
+\noindent  As a result, neglecting of the current term (or plasma response) in~\ref{eq:EMaxwell_NoDimension} is equivalent to:
+$$
+\frac{ L_0^2 \mu_0\omega_0}{E_0}(en_{e0}V_e) << \frac{L_0^2 \omega_0^2}{c^2}
+$$
+\noindent that is to say after simplification:
+$$
+\underbrace{\frac{\omega_P^2}{\omega_0^2}}_{\begin{subarray}{c}
+\text{Plasma}\\
+\text{resonnance}
+\end{subarray}}
+\underbrace{\frac{1}{a_0}}_{\begin{subarray}{c}
+\text{Field}\\
+\text{strength}
+\end{subarray}}
+\underbrace{\frac{V_e}{c}}_{\begin{subarray}{c}
+\text{Electron}\\
+\text{velocity}
+\end{subarray}}<< 1
+$$
+
+\noindent In practice, $\g{j}$ depends on $\g{E}$, which reduces the number of independent normalizing parameters. Using~\ref{eq:RelativisticEqMotion} in a non-relativistic approximation, we have for instance the trivial relation:
+
+$$
+\frac{V_e}{c}= a_0
+$$
+
+\noindent As a consequence, neglecting of the plasma response in Eq~\ref{eq:EMaxwell_NoDimension} leads to the relation:
+$$
+\underbrace{\frac{\omega_P^2}{\omega_0^2}}_{\begin{subarray}{c}
+\text{Plasma}\\
+\text{resonnance}
+\end{subarray}}
+<< 1
+$$
+
+\noindent This means that the high-frequency components of an electromagnetic field propagate as if they were in a dielectric material: electrons do not have time to oscillate and the plasma becomes ``transparent''.\\
+
+\noindent Similarly, to neglect the current term in Eq~\ref{eq:BMaxwell_NoDimension} we impose:
+$$
+\underbrace{\frac{\omega_P^2}{\omega_0^2}}_{\begin{subarray}{c}
+\text{Plasma}\\
+\text{resonnance}
+\end{subarray}}
+\underbrace{\frac{V_e/L_0}{\omega_{ce}}}_{\begin{subarray}{c}
+\text{electron}\\
+\text{motion}
+\end{subarray}}
+<< 1
+$$
+
+\noindent where the electron velocity has to be compared to the characteristic cyclotron velocity.
+
+\subsection{Charge screening}
+
+\noindent One can also derive Poisson's equation from Maxwell's equations using the normalizing conventions defined in ~\ref{eq:NormalizedVariables}:
+
+\begin{equation}
+\frac{E_0}{L_0}\nabla^2 \bar{\Phi}= \frac{en_{e0}}{\epsilon_0}\bar{\rho}(r,t) 
+\label{eq:Poisson}
+\end{equation}
+
+\noindent where we immediately have the condition for a plasma screening:
+$$
+L_0>>\frac{a_0\omega_0 c}{\omega_p^2} = 127 nm
+$$
+
+\noindent The numerical calculation is done for $\lambda_0 = 800 nm$, $a_0 = 1$ and $\omega_p = \omega_0$ (at critical density).
+
+
+\noindent In reality, there is another screening length which we can evaluate by developing $\bar{\rho}$ as a function of $\phi$ when the plasma is " thermalized". Indeed, the statistical approach leads to a Fermi-Dirac distribution of electrons in the potential $\phi$ depending on the temperature $T_e$. When the temperature exceeds the Fermi temperature $T_F$, the distribution tends to a Maxwellian distribution and:
+
+\begin{equation}
+\frac{E_0}{L_0}\nabla^2 \bar{\Phi}=  \frac{en_{e0}}{\epsilon_0}[-\delta(r) + 1 - exp(\frac{e^2 n_{e0}\bar{\phi}}{k_b T})]
+\end{equation}
+
+\noindent By using a series decomposition of the function above, and the scaling relation $\Phi_0 = E_0 L_0$ this can also be written:
+\begin{equation}
+\frac{E_0}{L_0}\nabla^2 \bar{\Phi}=  \frac{en_{e0}}{\epsilon_0}[-\delta(r) + \sum_{n=1}^{\infty}\frac{1}{n!}(\frac{eE_0L_0\bar{\phi}}{k_b T_e})^n]
+\label{eq:Poisson}
+\end{equation}
+
+\noindent For a weakly correlated plasma, only the first term of that decomposition is significant, such that a second screening length can be identified:
+$$
+L_0 >> \sqrt{\frac{k_b T_e \epsilon_0}{ e^2 n_{e0} }} = \lambda_D = 1.78 nm
+$$
+
+\noindent The numerical calculation is done for $\lambda_0 = 800nm$, $\omega_p = \omega_0$ and $k_bT_e = 100 eV$
+
+
+\subsection{Charge conservation}
+
+\begin{equation}
+\partial_{\bar{t}}\bar{\rho} + \frac{V_e}{\omega_0L_0} \nabla (\bar{j}) =0
+\end{equation}
+
+\noindent This equation is never violated, which implies: 
+$$
+L_0 = \frac{V_e}{\omega_0}  
+$$
+
+\noindent This relation a priori simple has important implications. Indeed, if the plasma is confined in space,
+ and at the same time exposed to an intense electromagnetic field, space charge effects can quickly become important.
+
+
+\section{Electron equation of motion}\label{section:Electron equation of motion}
+
+\begin{equation}
+\label{eq:RelativisticEqMotion}
+\gamma_e^3 \frac{d\bar{\g{v}_e}(\bar{t})}{d\bar{t}}  = -\frac{a_0}{ (V_e/c)}\bar{\g{E}}(\bar{\g{r}}_e,\bar{t}) - \frac{\omega_{ce}}{ \omega_0} \bar{\g{v}}_e(\bar{t})\times \bar{\g{B}}(\bar{\g{r}}_e(\bar{t}),\bar{t})
+\end{equation}
+
+\noindent where the adimensioned terms are interpreted:\\
+
+\begin{itemize}
+\item $\gamma_e \approx 1$: non-relativistic approximation. Perturbations propagate instantaneously in the scope of the approximation. It is equivalent to $V_e/c <<1$.
+\item $\omega_{ce}/\omega_0$: electronic response to a magnetic field which tends to generate electron cycotronic orbitals. It is easy to calculate that this factor $\approx 1$ for magnetic fields reaching $B_0 \approx 10^4 T$. This value can be reached for strong laser fields with so called "relativistic intensities".
+\end{itemize}
+
+\vspace{0.1 in}
+
+\noindent In order to neglect the magnetic force in front of the electric force, we need:
+$$
+\frac{1}{a_0}\frac{V_e}{c}\frac{\omega_{ce}}{ \omega_0} << 1
+$$
+
+\noindent Note that the parameters $\omega_{ce}$ and $a_0$ are of course not independent when one considers Maxwell's equation of propagation. For example, we could impose $E_0 = c B_0$ (true in vacuum), which implies $\omega_{ce}/\omega_0 = a_0$. In this condition, the relation for neglecting the magnetic component of field is reduced to:
+$$
+V_e << c
+$$
+
+\noindent However, it is important to note that both the equation of motion and the equation of propagation are vectorial equations. So far, we have only considered one scaling parameter for a vector (for example $E_0$ for $\g{E}$) when in reality, there should be one for each component along $x$,$y$ and $z$ after the equation has been projected into 3 scalar equations.
+
+
+\section{Vlasov equation}
+
+\noindent Since we are working with plasmas only, we clearly see that so far we have no equation involving the electron temperature. Indeed, it is common to describe the motion of
+electrons using a fluid model. Such fluid is given a temperature $T_e$, a pressure $P_e$ and a density $n_e$. This approach is necessary because the relativistic equation of motion applies to one electron only, but as electrons become numerous and move in random directions because of the intrinsic temperature (natural gain of entropy for a fermion population), it becomes impossible to describe each electron individually. \\
+
+\noindent As demonstrated by Cedric Villani\cite{villani2001limite}, this Vlasov equation~\cite{vlasov1968vibrational,landau1946vibrations} can be derived by taking the average response of each individual electron following the non-relativistic ($\gamma_e = 1$) equation of motion and adding to it the electron-electron interaction. This consists in ``scaling'' differently our physical system by looking at fictive particles made of multiple electrons. Attributing a temperature to each of these particles is done through an averaging of their kinetic energy. 
+The system is described by the distribution function $f_e(\g{r},\g{v},t)$ :
+
+
+
+
+\begin{equation}
+  \left\{
+      \begin{aligned}
+     &\partial_{\bar{t}} f_e + \bar{\g{v}}_e \nabla_{\g{r}} f_e + \bar{\g{F}}(\bar{v}_e).\nabla_{\g{v}}f_e = (\partial_{\bar{t}}f_e)_{coll}\\
+     & \bar{\g{F}}(\bar{v}_e) = -a_0\bar{\g{E}}(\g{r},t) - \frac{\omega_{ce}}{\omega_0}(\bar{\g{v}}_e \times \bar{\g{B}})\\
+      \end{aligned}
+    \right.
+\end{equation}
+
+\noindent where we then define several quantities such as:\\
+
+\begin{itemize}
+\item \g{Current:}
+$$\g{j}(\g{r},t) = \int_{\g{v}\in\mathbb{R}}\g{v}f_e(\g{r},\g{v},t)d\g{v}
+$$
+\item \g{Electrostatic Coulomb field:}
+$$
+\nabla_{\g{r}} \g{E}(\g{r},t) = \frac{-e}{\epsilon_0}\int_{\g{v}\in\mathbb{R}}f_e(\g{r},\g{v},t)d\g{v}
+$$
+\end{itemize}
+
+
+
+
+\noindent The term $(\partial_{\bar{t}}f_e)_{coll}$ takes into account the thermalization of the electron fluid, and therefore only plays a significant role on time scales much longer than the average collision time between electrons. There is no absolute theory that would give the correct evolution of that term. Therefore, one should turn to Boltzmann equation and solve: 
+
+\begin{equation}
+ (\partial_{\bar{t}}f_e)_{coll} = R(f_e)
+\end{equation}
+
+\noindent Different expressions can be found for this term which refer to different physical schemes:
+
+
+\begin{itemize}
+\item Non-collisional Vlasov :
+\begin{equation}
+ (\partial_{\bar{t}}f_e)_{coll} = 0
+\end{equation}
+\item Fokker-Planck :
+\begin{equation}
+ (\partial_{\bar{t}}f_e)_{coll} =  D \Delta_{p}f_e - A \nabla_{p}[f_e\bar{v}_e]
+\end{equation}
+The collisons are modeled using a diffusion and a drift term. This can be derived supposing the velocity diffusion follows a Markov process (Chandrasekhar, 1943). The electrons undergo 
+multi-body interactions such that the coefficients can be retrieved within the scope of binary Coulomb interactions.
+
+\item Bhatnagar-Gross-Krook (BGK) :
+\begin{equation}
+ (\partial_{\bar{t}}f_e)_{coll} = -\frac{\nu_e}{\omega_0} (f_e - f_{e0})
+\end{equation}
+with $f_{m0}$ the Maxwellian distribution of electron at temperature $T_e$, and $\nu_e$ the electron collision rate.
+
+\end{itemize}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

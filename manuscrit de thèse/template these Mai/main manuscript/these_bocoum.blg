@@ -1,0 +1,26 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: these_bocoum.aux
+The style file: plain.bst
+Database file #1: ../references/These.bib
+Repeated entry---line 284 of file ../references/These.bib
+ : @article{brueckner1974laser
+ :                            ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 425 of file ../references/These.bib
+ : @article{crimmins1983uniqueness
+ :                                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 507 of file ../references/These.bib
+ : @article{doumy2004complete
+ :                           ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 593 of file ../references/These.bib
+ : @article{brunel1987
+ :                    ,
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "CEA_ref"
+Warning--empty year in CoursForget
+Warning--empty journal in Jullien
+Warning--empty year in Jullien
+Warning--can't use both author and editor fields in LandauLip
+Warning--empty journal in self1976lawrence
+(There were 4 error messages)

@@ -1,0 +1,159 @@
+\documentclass[a4paper,12pt,french]{report}
+
+
+% Options possibles : 10pt, 11pt, 12pt (taille de la fonte)
+%                     oneside, twoside (recto simple, recto-verso)
+%                     draft, final (stade de développement)
+
+\input{Preambule}		% Liste des packages et de leurs options
+
+
+
+
+
+\let\urlorig\url
+\renewcommand{\url}[1]{%
+  \begin{otherlanguage}{english}\urlorig{#1}\end{otherlanguage}%
+}
+
+% Infos de la page de garde
+\usepackage{sectsty}
+\allsectionsfont{\centering}
+
+
+
+\begin{document}
+
+\selectlanguage{english}
+\includepdf{premiereDEcouverture.pdf}
+\clearpage
+%\dominitoc
+%% preparation des minitocs
+%
+%\dominitoc
+%
+
+\clearpage
+
+%\vspace{5cm}
+%\pagestyle{empty}
+%\begin{center}
+%\textit{À mon grand-père}
+%\end{center}
+
+%
+%\chapter*{Remerciements}
+%\begin{center}
+%\textit{
+%Difficile de savoir dans quel ordre commencer ces remerciements, difficile de n'oublier personne, je tenterai toutefois d'être la plus exhaustive possible et m'excuse d'avance des oublis inévitables et involontaires. Je commence donc par les personnes qui m'ont le plus entourée au laboratoire pendant cette période très enrichissante, à savoir mon groupe PCO et nos amis APPLI: merci donc à Fred, Aurélie, Benoit, Aline et Magalie et Jean-Philippe pour leur soutien sans faille en salle de manip, merci à Maxence pour sa contribution aux simulations et sa disponibilité, merci à Greg et Denis pour leur soutien technique, ainsi que Stephan, Diego, Dominikas et Hermance. Enfin un merci tout particulier Rod et Jérome pour m'avoir permis de travailler dans les meilleurs conditions. Un gros merci au secrétariat pour son dynamisme et sa bonne humeur: Sandrine, Lucie, Octavie, Carole et Patricia. Enfin, un merci bien mérité à la méca, et en particulier à Charlie pour sa bonne humeur et son professionnalisme. Merci également à toutes les autres personnes du Laboratoire, à nos partenaires au CEA, la liste est longue mais merci à tous d'avoir été aussi disponibles, ce sont des années que je n'oublierai pas de si tôt!}\\
+%\end{center}
+%\begin{center}
+%\textit{Je tiens dans un second temps à remercier mes amis, les anciennes ENSTA qui savent ce que c'est de faire une thèse: un gros bisous à Manue, Ananas, Dianou ainsi que Camille et Yves, partis pour le nouveau monde, pour leur soutien! Merci également aux anciennes Saint-Mauriennes qui se seront perdues dans les méandres d'une carrière dans la finance ou le droit des affaires: une grosse pensée pour Camillou, Laura, Ludie et Paula! Finally, a big thank you to my friends from DC and the Thanks-Giving squad: Juanita thank you for being always here ! Ririne, mountains of love all the way to New-Zealand ! Juliette, pleins de bonnes choses pour les années qui arrivent! Merci à toutes et à tous d'être là!}
+%\end{center}
+%\begin{center}
+%\textit{Enfin, un gros merci à ma famille, ma mère qui m'a toujours soutenue et encouragé tout le long de mes études, mon père, pas peu fier, mais à qui je précise tout de même que ma thèse est en physique et non en mathématiques, Laurent qui m'a également toujours soutenu et encouragé. Merci également à mes frères et sœurs pour toujours être restés eux mêmes, ainsi que mon amie d'enfance Valérie qui à toujours été là. J'embrasse toute ma famille au Sénégal et les remercie pour l'accueil chaleureux que j'ai reçu lors de ma dernière visite, merci à toute la famille Bocoum dont je suis fière de faire partie. 
+% Enfin, une énorme pensée pour mon grand-père et ma grand-mère qui m'ont également beaucoup soutenu. Je dédie d'ailleurs cette thèse à mon grand-père: ``ça-y-est, je suis r'çue papi''...}
+%\end{center}
+%
+%\begin{center}
+%\textit{Merci à tous}
+%\end{center}
+%
+\input{../resumeFrancais/resume} 
+
+\tableofcontents
+
+\input{../introduction/intro} 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Accélération d'électrons sur miroir plasma
+\input{../chapitre1/chap1}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%Présentation du système expérimentale dans son 
+\input{../chapitre3/chap3}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\input{../chapitre6/chap6}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%SDI
+\input{../chapitre7/chap7}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%anticorrelation
+\input{../chapitre4/chap4}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Présentation du système expérimentale
+\input{../chapitre2/chap2}
+% conclusion:
+\input{../conclusion/conclusion}
+
+\appendix                  
+\listoffigures             
+\listoftables              
+\cleardoublepage
+\newpage
+\thispagestyle{empty}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+	% Annexes
+	\begin{appendix}
+		\pagenumbering{Roman}
+                \input{../Annexe/annexe1} %	\includefrom{Annexes/}{Annexes}				% Figures en annexe
+                \input{../Annexe/annexe2} %	\includefrom{Annexes/}{Annexes}				% Figures en annexe	
+                \input{../Annexe/annexe3} %	\includefrom{Annexes/}{Annexes}				% Figures en annexe	
+                \input{../Annexe/annexe4} %	\includefrom{Annexes/}{Annexes}				% Figures en annexe	
+		
+		% Liste of publication 
+                     \chapter{Publications}	
+                    \includepdf[pages=-]{../articles/Bocoum_OL_2015.pdf}
+                    \includepdf[pages=-]{../articles/PhysRevLett.pdf}
+                    \includepdf[pages=-]{../articles/PhysRevX.pdf}
+                    \includepdf[pages=-]{../articles/ol-fiber.pdf}
+
+	
+	\end{appendix}
+
+
+
+
+\bibliographystyle{ieeetr}
+\bibliography{../references/These}
+\includepdf{derniereDEcouverture.pdf}
+\thispagestyle{empty}
+
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

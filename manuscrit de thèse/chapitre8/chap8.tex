@@ -1,0 +1,128 @@
+\chapter{Spatial properties of laser beams}
+\minitoc
+\thispagestyle{empty}
+
+\section{Far Field from Near Field reconstruction generalities}
+
+Maxwell's equation are perfectly known in vacuum. As a consequence, when a complexe field is perfectly known in a given plane as a function of time, is is possible know it perfectly in an arbitrary plane orthogonal to a define propagation axis. That is to say for a given initial condition, the Maxell's equation in vacuum is integrable with respect to $z$ variable:
+
+SCHEMA\\
+
+
+
+\begin{center}
+    \begin{tabular}{ | p{8cm} | p{9cm} |}
+    \hline
+    Equivalent Field definition at given& Equivalent propagation equation\\ \hline
+\begin{equation}
+ E(x,y,z,t) 
+\end{equation}
+& 
+\begin{equation}
+\nabla^2 E(x,y,z,t) - \frac{1}{c^2}\partial_t^2E(x,y,z,t) = 0
+\end{equation}
+ \\ 
+\textit{Complexe Electric Field} & \textit{Maxwell equation in vacuum}\\ \hline
+\begin{equation}
+ \hat{E}(x,y,z,\omega) = \int_{\mathbb{R}}E(x,y,z,t)e^{i\omega t}dt
+\end{equation}
+&
+\begin{equation}
+\nabla^2 \hat{E}(x,y,z,\omega) + \frac{\omega^2}{c^2}\hat{E}(x,y,z,\omega) = 0
+\end{equation}
+\\
+\textit{Complexe Spectum} & \textit{Helmoltz Equation}
+\\ \hline
+\begin{equation}
+\tilde{E}(k_x,k_y,z,t) = \int_{\mathbb{R}^2}E(x,y,z,t)e^{ik_x x+ ik_y y}dxdy
+\end{equation}
+& 
+\begin{equation}
+\partial_z^2 \tilde{\hat{E}}(k_x,k_y,z,\omega) + (\frac{\omega^2}{c^2}-k_x^2 - k_y^2 )\tilde{\hat{E}}(k_x,k_y,z,\omega) = 0
+\end{equation}
+\\
+\textit{Spatial Fourier transform} & \textit{Helmoltz Equation (or Wave equation)}
+\\
+    \hline
+    \end{tabular}
+\end{center}
+
+In practice, we often need to map the divergence of an harmonic beam obtain from a PIC simulation of analytical model as a function of frequency in order to compare with experimental datas. However, these simulations will return the nearfield of the reflected laser pulse (where we place a probe in the PIC simulation) so that we need to propagate this field in vacuum. To do so, it is very convinient to suppose the Paraxial approximation valid so that the far field is directly given by the spatial fourier transform of the near field:
+
+\begin{equation}
+\tilde{\hat{E}}(k_x,k_y,0,\omega) = \iint_{\mathbb{R}^2}\hat{E}(x,y,0,\omega)e^{ik_xx+ik_yy}dxdy
+\end{equation}
+
+When the Fresnel approximation is valid, that is to say when the spatial variations in the plane $z=0$ of the conplexe field are much larger the the wavelength, we derive the exact expression of the field in plane $z$:
+
+\begin{equation}
+\hat{E}(x,y,z,\omega) =i\frac{\omega}{z c}e^{-i\frac{\omega}{c}z}\iint_{\mathbb{R}^2}\hat{E}(x',y',0,\omega)\exp(-i\frac{\omega}{2zc}[(x-x')^2+(y-y')^2])dx'dy'
+\end{equation}
+
+
+\begin{equation}
+\hat{E}_{3D}(x,y,z,\omega) =i\frac{\omega}{z c}e^{-i\frac{\omega}{c}z}e^{-i\frac{\omega}{2zc}(x^2+y^2)}\iint_{\mathbb{R}^2}\hat{E}(x',y',0,\omega)\exp(-i\frac{\omega}{2zc}[(x')^2+(y')^2-i2(xx'+yy')])dx'dy'
+\end{equation}
+
+The paraxial approximation consists in neglecting the quadratic phase inside the integral. In other word, we have to verify for a proper reconstrucion of the field within that approximation that:
+$$
+N_F = \frac{<x'>^2}{\lambda d} <<1
+$$
+Where $N_F$ is the Fresnel number. Note by increasing $z$ arbitrarely, this approximation is always verified. Ones this condition is met, we finally have:
+
+\begin{equation}
+\hat{E}_{3D}(x,y,z,\omega) =i\frac{\omega}{z c}e^{-i\frac{\omega}{c}z}e^{-i\frac{\omega}{2zc}(x^2+y^2)}\tilde{\hat{E}}_{3D}(k_x = \frac{\omega x}{zc},k_y=\frac{\omega y}{zc},0,\omega)
+\end{equation}
+
+If we consider the far field of a focal spot were the interaction takes place, we simply have for the angular divergence the geometrical relation $\theta_x \approx \frac{x}{z}$ and $\theta_y = \arctan(\frac{y}{z})\approx \frac{y}{z}$ such that finally the angular distribution writes:
+
+
+\begin{equation}
+S(\theta_x,\theta_y,\omega) \propto|\omega\tilde{\hat{E}}_{3D}(k_x = \frac{\omega \theta_x}{c},k_y=\frac{\omega \theta_y}{c},0,\omega)|
+\end{equation}
+
+
+\section{Far Field from Near Field reconstruction in 2D}
+
+When we simulate the interaction inside a plasma in 2D, we implicitly make the hypothesis that the physical problem is invariant by translating one variable. Thefeore, where in general $E(x,y,0,t)$ is needed to reconstruct a field, only $E(x,0,t)$ is needed in 2D. This leads to the trivial reconstruction:
+
+
+\begin{equation}
+S_{2D}(\theta_x,\omega) \propto|\omega\tilde{\hat{E}}_{2D}(k_x = \frac{\omega \theta_x}{c},0,\omega)|
+\end{equation}
+
+An important remark is to make at this point. Indeed, this trivial formula supposes we keep propagating the electric field in 2D in vacuum since it is equivalent to removing variable $y$ from Maxwell's equation. However, a more accurate approach would be to impose cylindrical symetry on the field such that
+$$
+\hat{E}_{3D}(x,y,0,\omega) = \hat{E}_{2D}(\sqrt{x^2+y^2},0,\omega)
+$$
+
+and to then propagate this field in vacuum. The fourier transform of a function have a cylindrical symetry is actually called a Hankel transform. As a consequence we can write:
+$$
+\tilde{\hat{E}}_{3D}(k_x,k_y,0,\omega) = \int_{0}^{\infty}r \hat{E}_{2D}(r,0,\omega)J_{0}(2 \pi r\sqrt{k_x^2+k_y^2})dr
+$$
+where $J_0(r)$ is the Bessel function.
+
+\begin{equation}
+S_{3D}(\theta_x,0,\omega) \propto|\omega \int_{0}^{\infty}r \hat{E}_{2D}(r,0,\omega)J_{0}(2\pi rk_x)dr|
+\end{equation}
+
+The conclusion here is that the result of propagation is different whether one consider an invariance or a symetry to reduce the dimension when propagating the field issued from a 2D simulation. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
