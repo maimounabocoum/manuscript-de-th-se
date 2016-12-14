@@ -1,112 +1,112 @@
 \select@language {french}
 \select@language {english}
-\contentsline {chapter}{\numberline {1}Introduction}{8}{chapter.1}
-\contentsline {section}{\numberline {1.1}Why do we study plasmas ?}{8}{section.1.1}
-\contentsline {section}{\numberline {1.2} Laser-plasma physics: historical context}{10}{section.1.2}
-\contentsline {subsection}{\numberline {1.2.1}Plasmas: different time scales}{10}{subsection.1.2.1}
-\contentsline {subsection}{\numberline {1.2.2}Lasers: different time scales}{11}{subsection.1.2.2}
-\contentsline {section}{\numberline {1.3}Plasma mirrors}{12}{section.1.3}
-\contentsline {subsection}{\numberline {1.3.1}What is a plasma mirror ?}{12}{subsection.1.3.1}
-\contentsline {subsection}{\numberline {1.3.2}Lifetime of a plasma mirror}{13}{subsection.1.3.2}
-\contentsline {subsection}{\numberline {1.3.3}Plasma mirrors for temporal contrast cleaning}{14}{subsection.1.3.3}
-\contentsline {subsection}{\numberline {1.3.4}X-UV emission from plasma mirrors}{15}{subsection.1.3.4}
-\contentsline {subsection}{\numberline {1.3.5}Electron acceleration from plasma mirrors}{17}{subsection.1.3.5}
-\contentsline {section}{\numberline {1.4}Brief description of the different chapters}{20}{section.1.4}
-\contentsline {chapter}{\numberline {2}Laser-solid-plasma interaction: overview}{22}{chapter.2}
-\contentsline {section}{\numberline {2.1}Laser absorption in plasmas}{22}{section.2.1}
-\contentsline {subsection}{\numberline {2.1.1}Resonant absorption}{23}{subsection.2.1.1}
-\contentsline {subsection}{\numberline {2.1.2}Neutral plasma response equations}{23}{subsection.2.1.2}
-\contentsline {subsection}{\numberline {2.1.3}Geometrical representation of resonant absorption}{25}{subsection.2.1.3}
-\contentsline {section}{\numberline {2.2}Brunel absorption mechanism}{26}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}Modeling}{27}{subsection.2.2.1}
-\contentsline {subsection}{\numberline {2.2.2}Physical interpretation}{28}{subsection.2.2.2}
-\contentsline {section}{\numberline {2.3}Harmonic response of an overdense plasma}{30}{section.2.3}
-\contentsline {subsection}{\numberline {2.3.1}Plasma perturbative approach}{30}{subsection.2.3.1}
-\contentsline {subsection}{\numberline {2.3.2}Coherent Wake Emission}{32}{subsection.2.3.2}
-\contentsline {subsection}{\numberline {2.3.3}Influence of spatial spreading of the perturbation}{35}{subsection.2.3.3}
-\contentsline {subsection}{\numberline {2.3.4}Landau damping in a homogeneous plasma}{35}{subsection.2.3.4}
-\contentsline {subsection}{\numberline {2.3.5}Landau damping in an inhomogeneous plasma}{37}{subsection.2.3.5}
-\contentsline {section}{\numberline {2.4}Conclusion}{38}{section.2.4}
-\contentsline {chapter}{\numberline {3}Double-CPA laser architecture}{40}{chapter.3}
-\contentsline {section}{\numberline {3.1}Global architecture}{41}{section.3.1}
-\contentsline {subsection}{\numberline {3.1.1}Overview of the laser chain}{41}{subsection.3.1.1}
-\contentsline {subsection}{\numberline {3.1.2}XPW contrast cleaning}{42}{subsection.3.1.2}
-\contentsline {subsection}{\numberline {3.1.3}Spectral clipping}{45}{subsection.3.1.3}
-\contentsline {subsection}{\numberline {3.1.4}Prepulse generation from post-pulses}{45}{subsection.3.1.4}
-\contentsline {section}{\numberline {3.2}Post-compression and beam shaping}{51}{section.3.2}
-\contentsline {section}{\numberline {3.3}Solid-target experimental setup}{53}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}Experimental chamber and beam profile}{53}{subsection.3.3.1}
-\contentsline {subsection}{\numberline {3.3.2}Beam temporal profile}{54}{subsection.3.3.2}
-\contentsline {subsection}{\numberline {3.3.3}kHz solid target}{55}{subsection.3.3.3}
-\contentsline {section}{\numberline {3.4}Conclusion}{57}{section.3.4}
-\contentsline {chapter}{\numberline {4}Attosecond pulses from plasma mirrors}{58}{chapter.4}
-\contentsline {section}{\numberline {4.1}HHG on plasma mirrors}{59}{section.4.1}
-\contentsline {subsection}{\numberline {4.1.1}Experimental setup for HHG measurement}{59}{subsection.4.1.1}
-\contentsline {subsection}{\numberline {4.1.2}From harmonic emission time to CWE basic properties}{60}{subsection.4.1.2}
-\contentsline {subsection}{\numberline {4.1.3}Harmonic coherence properties}{64}{subsection.4.1.3}
-\contentsline {subsection}{\numberline {4.1.4}Influence of gradient scale length on HHG}{67}{subsection.4.1.4}
-\contentsline {subsection}{\numberline {4.1.5}Reconstruction of harmonics in the far field}{69}{subsection.4.1.5}
-\contentsline {section}{\numberline {4.2}Attosecond chirp experiment}{70}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}Definition of Wavefront rotation (WFR)}{70}{subsection.4.2.1}
-\contentsline {subsection}{\numberline {4.2.2}Analytical model to evaluate WFR at focus}{72}{subsection.4.2.2}
-\contentsline {subsection}{\numberline {4.2.3}WFR measurement}{74}{subsection.4.2.3}
-\contentsline {section}{\numberline {4.3}Basic principle of attosecond FROG retrieval}{79}{section.4.3}
-\contentsline {section}{\numberline {4.4}Conclusion}{83}{section.4.4}
-\contentsline {chapter}{\numberline {5}Measuring the plasma expansion}{84}{chapter.5}
-\contentsline {section}{\numberline {5.1}Spatial Domain Interferometry (SDI)}{84}{section.5.1}
-\contentsline {subsection}{\numberline {5.1.1}Introduction}{84}{subsection.5.1.1}
-\contentsline {subsection}{\numberline {5.1.2}Basic principle}{85}{subsection.5.1.2}
-\contentsline {subsection}{\numberline {5.1.3}Illustration with a step-like density profile}{87}{subsection.5.1.3}
-\contentsline {subsection}{\numberline {5.1.4}Plasma expansion model}{87}{subsection.5.1.4}
-\contentsline {subsection}{\numberline {5.1.5}Experimental setup}{90}{subsection.5.1.5}
-\contentsline {subsection}{\numberline {5.1.6}Experimental results}{91}{subsection.5.1.6}
-\contentsline {section}{\numberline {5.2}Sensitivity to beam alignment}{92}{section.5.2}
-\contentsline {subsection}{\numberline {5.2.1}Single-order phase shift and experimental limitations}{92}{subsection.5.2.1}
-\contentsline {subsection}{\numberline {5.2.2}Break of symmetry}{96}{subsection.5.2.2}
-\contentsline {section}{\numberline {5.3}Perspectives for phase retrieval}{98}{section.5.3}
-\contentsline {subsection}{\numberline {5.3.1}Inversion problem}{98}{subsection.5.3.1}
-\contentsline {subsection}{\numberline {5.3.2}One-dimension retrieval}{99}{subsection.5.3.2}
-\contentsline {subsection}{\numberline {5.3.3}Modifying the reference probes to break the symmetry}{104}{subsection.5.3.3}
-\contentsline {subsection}{\numberline {5.3.4}Two-dimensional retrieval ambiguities}{106}{subsection.5.3.4}
-\contentsline {section}{\numberline {5.4}Conclusion and perspectives}{107}{section.5.4}
-\contentsline {chapter}{\numberline {6}Harmonics and electrons from plasma mirrors}{108}{chapter.6}
-\contentsline {section}{\numberline {6.1}Review of electron acceleration mechanisms}{109}{section.6.1}
-\contentsline {subsection}{\numberline {6.1.1}Resonant absorption}{109}{subsection.6.1.1}
-\contentsline {subsection}{\numberline {6.1.2}Vacuum heating}{109}{subsection.6.1.2}
-\contentsline {subsection}{\numberline {6.1.3}$J\times B$ heating}{110}{subsection.6.1.3}
-\contentsline {subsection}{\numberline {6.1.4}Laser channel}{110}{subsection.6.1.4}
-\contentsline {subsection}{\numberline {6.1.5}Surface plasmon resonance}{111}{subsection.6.1.5}
-\contentsline {subsection}{\numberline {6.1.6}Stochastic heating}{111}{subsection.6.1.6}
-\contentsline {subsection}{\numberline {6.1.7}Conclusion}{112}{subsection.6.1.7}
-\contentsline {section}{\numberline {6.2}Simultaneous HHG and electron detection}{113}{section.6.2}
-\contentsline {subsection}{\numberline {6.2.1}Description of the experiment}{113}{subsection.6.2.1}
-\contentsline {subsection}{\numberline {6.2.2}CWE/electron anticorrelation vs plasma scale length}{115}{subsection.6.2.2}
-\contentsline {subsection}{\numberline {6.2.3}PIC simulations}{118}{subsection.6.2.3}
-\contentsline {section}{\numberline {6.3}Electron angular emission}{122}{section.6.3}
-\contentsline {subsection}{\numberline {6.3.1}LANEX detection plane: stereographic losses}{122}{subsection.6.3.1}
-\contentsline {subsection}{\numberline {6.3.2}LANEX imaging: non isotropic emission losses}{124}{subsection.6.3.2}
-\contentsline {subsection}{\numberline {6.3.3}Spatial distribution of ejected electrons}{128}{subsection.6.3.3}
-\contentsline {subsection}{\numberline {6.3.4}Gyromagnetic confinement for short gradient scale length}{133}{subsection.6.3.4}
-\contentsline {section}{\numberline {6.4}Electron spectra}{136}{section.6.4}
-\contentsline {subsection}{\numberline {6.4.1}Electron spectrometer}{136}{subsection.6.4.1}
-\contentsline {subsection}{\numberline {6.4.2}Experimental results}{137}{subsection.6.4.2}
-\contentsline {section}{\numberline {6.5}Conclusion}{138}{section.6.5}
-\contentsline {chapter}{\numberline {7}Laser-electron interaction in vacuum}{139}{chapter.7}
-\contentsline {section}{\numberline {7.1}Ponderomotive force and electron motion in vacuum}{139}{section.7.1}
+\contentsline {chapter}{\numberline {1}Introduction}{11}{chapter.1}
+\contentsline {section}{\numberline {1.1}Why do we study plasmas ?}{11}{section.1.1}
+\contentsline {section}{\numberline {1.2} Laser-plasma physics: historical context}{13}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Plasmas: different time scales}{13}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}Lasers: different time scales}{14}{subsection.1.2.2}
+\contentsline {section}{\numberline {1.3}Plasma mirrors}{15}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}What is a plasma mirror ?}{15}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {1.3.2}Lifetime of a plasma mirror}{16}{subsection.1.3.2}
+\contentsline {subsection}{\numberline {1.3.3}Plasma mirrors for temporal contrast cleaning}{17}{subsection.1.3.3}
+\contentsline {subsection}{\numberline {1.3.4}X-UV emission from plasma mirrors}{18}{subsection.1.3.4}
+\contentsline {subsection}{\numberline {1.3.5}Electron acceleration from plasma mirrors}{20}{subsection.1.3.5}
+\contentsline {section}{\numberline {1.4}Brief description of the different chapters}{23}{section.1.4}
+\contentsline {chapter}{\numberline {2}Laser-solid-plasma interaction: overview}{25}{chapter.2}
+\contentsline {section}{\numberline {2.1}Laser absorption in plasmas}{25}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Resonant absorption}{25}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Neutral plasma response equations}{26}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}Geometrical representation of resonant absorption}{27}{subsection.2.1.3}
+\contentsline {section}{\numberline {2.2}Brunel absorption mechanism}{29}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Modeling}{30}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Physical interpretation}{31}{subsection.2.2.2}
+\contentsline {section}{\numberline {2.3}Harmonic response of an overdense plasma}{33}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Plasma perturbative approach}{33}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Coherent Wake Emission}{35}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}Influence of spatial spreading of the perturbation}{38}{subsection.2.3.3}
+\contentsline {subsection}{\numberline {2.3.4}Landau damping in a homogeneous plasma}{38}{subsection.2.3.4}
+\contentsline {subsection}{\numberline {2.3.5}Landau damping in an inhomogeneous plasma}{40}{subsection.2.3.5}
+\contentsline {section}{\numberline {2.4}Conclusion}{41}{section.2.4}
+\contentsline {chapter}{\numberline {3}Double-CPA laser architecture}{43}{chapter.3}
+\contentsline {section}{\numberline {3.1}Global architecture}{43}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Overview of the laser chain}{43}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}XPW contrast cleaning}{45}{subsection.3.1.2}
+\contentsline {subsection}{\numberline {3.1.3}Spectral clipping}{48}{subsection.3.1.3}
+\contentsline {subsection}{\numberline {3.1.4}Prepulse generation from post-pulses}{48}{subsection.3.1.4}
+\contentsline {section}{\numberline {3.2}Post-compression and beam shaping}{54}{section.3.2}
+\contentsline {section}{\numberline {3.3}Solid-target experimental setup}{56}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Experimental chamber and beam profile}{56}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Beam temporal profile}{57}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}kHz solid target}{58}{subsection.3.3.3}
+\contentsline {section}{\numberline {3.4}Conclusion}{60}{section.3.4}
+\contentsline {chapter}{\numberline {4}Attosecond pulses from plasma mirrors}{61}{chapter.4}
+\contentsline {section}{\numberline {4.1}HHG on plasma mirrors}{61}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Experimental setup for HHG measurement}{61}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}From harmonic emission time to CWE basic properties}{63}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}Harmonic coherence properties}{66}{subsection.4.1.3}
+\contentsline {subsection}{\numberline {4.1.4}Influence of gradient scale length on HHG}{69}{subsection.4.1.4}
+\contentsline {subsection}{\numberline {4.1.5}Reconstruction of harmonics in the far field}{71}{subsection.4.1.5}
+\contentsline {section}{\numberline {4.2}Attosecond chirp experiment}{72}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Definition of Wavefront rotation (WFR)}{72}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Analytical model to evaluate WFR at focus}{74}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}WFR measurement}{76}{subsection.4.2.3}
+\contentsline {section}{\numberline {4.3}Basic principle of attosecond FROG retrieval}{81}{section.4.3}
+\contentsline {section}{\numberline {4.4}Conclusion}{85}{section.4.4}
+\contentsline {chapter}{\numberline {5}Measuring the plasma expansion}{86}{chapter.5}
+\contentsline {section}{\numberline {5.1}Spatial Domain Interferometry (SDI)}{86}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}Introduction}{86}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5.1.2}Basic principle}{87}{subsection.5.1.2}
+\contentsline {subsection}{\numberline {5.1.3}Illustration with a step-like density profile}{88}{subsection.5.1.3}
+\contentsline {subsection}{\numberline {5.1.4}Plasma expansion model}{89}{subsection.5.1.4}
+\contentsline {subsection}{\numberline {5.1.5}Experimental setup}{91}{subsection.5.1.5}
+\contentsline {subsection}{\numberline {5.1.6}Experimental results}{93}{subsection.5.1.6}
+\contentsline {section}{\numberline {5.2}Sensitivity to beam alignment}{94}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Single-order phase shift and experimental limitations}{94}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Break of symmetry}{98}{subsection.5.2.2}
+\contentsline {section}{\numberline {5.3}Perspectives for phase retrieval}{100}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}Inversion problem}{100}{subsection.5.3.1}
+\contentsline {subsection}{\numberline {5.3.2}One-dimension retrieval}{101}{subsection.5.3.2}
+\contentsline {subsection}{\numberline {5.3.3}Modifying the reference probes to break the symmetry}{106}{subsection.5.3.3}
+\contentsline {subsection}{\numberline {5.3.4}Two-dimensional retrieval ambiguities}{108}{subsection.5.3.4}
+\contentsline {section}{\numberline {5.4}Conclusion and perspectives}{109}{section.5.4}
+\contentsline {chapter}{\numberline {6}Harmonics and electrons from plasma mirrors}{110}{chapter.6}
+\contentsline {section}{\numberline {6.1}Review of electron acceleration mechanisms}{110}{section.6.1}
+\contentsline {subsection}{\numberline {6.1.1}Resonant absorption}{110}{subsection.6.1.1}
+\contentsline {subsection}{\numberline {6.1.2}Vacuum heating}{111}{subsection.6.1.2}
+\contentsline {subsection}{\numberline {6.1.3}$J\times B$ heating}{111}{subsection.6.1.3}
+\contentsline {subsection}{\numberline {6.1.4}Laser channel}{111}{subsection.6.1.4}
+\contentsline {subsection}{\numberline {6.1.5}Surface plasmon resonance}{112}{subsection.6.1.5}
+\contentsline {subsection}{\numberline {6.1.6}Stochastic heating}{113}{subsection.6.1.6}
+\contentsline {subsection}{\numberline {6.1.7}Conclusion}{113}{subsection.6.1.7}
+\contentsline {section}{\numberline {6.2}Simultaneous HHG and electron detection}{114}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}Description of the experiment}{114}{subsection.6.2.1}
+\contentsline {subsection}{\numberline {6.2.2}CWE/electron anticorrelation vs plasma scale length}{116}{subsection.6.2.2}
+\contentsline {subsection}{\numberline {6.2.3}PIC simulations}{119}{subsection.6.2.3}
+\contentsline {section}{\numberline {6.3}Electron angular emission}{123}{section.6.3}
+\contentsline {subsection}{\numberline {6.3.1}LANEX detection plane: stereographic losses}{123}{subsection.6.3.1}
+\contentsline {subsection}{\numberline {6.3.2}LANEX imaging: non isotropic emission losses}{125}{subsection.6.3.2}
+\contentsline {subsection}{\numberline {6.3.3}Spatial distribution of ejected electrons}{129}{subsection.6.3.3}
+\contentsline {subsection}{\numberline {6.3.4}Gyromagnetic confinement for short gradient scale length}{134}{subsection.6.3.4}
+\contentsline {section}{\numberline {6.4}Electron spectra}{137}{section.6.4}
+\contentsline {subsection}{\numberline {6.4.1}Electron spectrometer}{137}{subsection.6.4.1}
+\contentsline {subsection}{\numberline {6.4.2}Experimental results}{138}{subsection.6.4.2}
+\contentsline {section}{\numberline {6.5}Conclusion}{139}{section.6.5}
+\contentsline {chapter}{\numberline {7}Laser-electron interaction in vacuum}{140}{chapter.7}
+\contentsline {section}{\numberline {7.1}Ponderomotive force and electron motion in vacuum}{140}{section.7.1}
 \contentsline {subsection}{\numberline {7.1.1}Classical ponderomotive force derivation}{140}{subsection.7.1.1}
-\contentsline {subsection}{\numberline {7.1.2}Relativistic ponderomotive force derivation}{141}{subsection.7.1.2}
-\contentsline {subsection}{\numberline {7.1.3}Non-ponderomotive laser acceleration}{144}{subsection.7.1.3}
-\contentsline {subsection}{\numberline {7.1.4}Strong focusing field decomposition}{146}{subsection.7.1.4}
-\contentsline {section}{\numberline {7.2}Hole formation and spectral shaping in vacuum}{148}{section.7.2}
-\contentsline {subsection}{\numberline {7.2.1}Two regimes of acceleration}{148}{subsection.7.2.1}
-\contentsline {subsection}{\numberline {7.2.2}Application to the relativistic case}{149}{subsection.7.2.2}
-\contentsline {subsection}{\numberline {7.2.3}Application to the sub-relativistic case}{151}{subsection.7.2.3}
-\contentsline {subsection}{\numberline {7.2.4}Effect of interference field}{153}{subsection.7.2.4}
-\contentsline {subsection}{\numberline {7.2.5}Non-axis-symmetrical components of the interference field}{156}{subsection.7.2.5}
-\contentsline {section}{\numberline {7.3}Conclusion}{158}{section.7.3}
-\contentsline {chapter}{\numberline {8}Conclusion and perspectives}{159}{chapter.8}
-\contentsline {chapter}{List of Figures}{162}{appendix*.111}
-\contentsline {chapter}{List of Tables}{173}{appendix*.112}
+\contentsline {subsection}{\numberline {7.1.2}Relativistic ponderomotive force derivation}{142}{subsection.7.1.2}
+\contentsline {subsection}{\numberline {7.1.3}Non-ponderomotive laser acceleration}{145}{subsection.7.1.3}
+\contentsline {subsection}{\numberline {7.1.4}Strong focusing field decomposition}{147}{subsection.7.1.4}
+\contentsline {section}{\numberline {7.2}Hole formation and spectral shaping in vacuum}{149}{section.7.2}
+\contentsline {subsection}{\numberline {7.2.1}Two regimes of acceleration}{149}{subsection.7.2.1}
+\contentsline {subsection}{\numberline {7.2.2}Application to the relativistic case}{150}{subsection.7.2.2}
+\contentsline {subsection}{\numberline {7.2.3}Application to the sub-relativistic case}{152}{subsection.7.2.3}
+\contentsline {subsection}{\numberline {7.2.4}Effect of interference field}{154}{subsection.7.2.4}
+\contentsline {subsection}{\numberline {7.2.5}Non-axis-symmetrical components of the interference field}{157}{subsection.7.2.5}
+\contentsline {section}{\numberline {7.3}Conclusion}{159}{section.7.3}
+\contentsline {chapter}{\numberline {8}Conclusion and perspectives}{160}{chapter.8}
+\contentsline {chapter}{List of Figures}{163}{appendix*.112}
+\contentsline {chapter}{List of Tables}{174}{appendix*.113}
 \contentsline {chapter}{\numberline {A}Normalization conventions}{I}{appendix.A}
 \contentsline {subsection}{\numberline {A.0.1}Constant and physical parameters}{I}{subsection.A.0.1}
 \contentsline {section}{\numberline {A.1}Maxwell's equations}{II}{section.A.1}
@@ -128,5 +128,5 @@
 \contentsline {section}{\numberline {C.2}Relativistic equation of motion for a charged particle}{XIV}{section.C.2}
 \contentsline {section}{\numberline {C.3}Gauge invariance}{XV}{section.C.3}
 \contentsline {chapter}{\numberline {D}Interferences between coherent sources}{XVI}{appendix.D}
-\contentsline {subsubsection}{3 sources in vertical plane:}{XVII}{section*.114}
+\contentsline {subsubsection}{3 sources in vertical plane:}{XVII}{section*.115}
 \contentsline {chapter}{\numberline {E}Publications}{XX}{appendix.E}
