@@ -120,8 +120,6 @@
 \contentsline {figure}{\numberline {7.14}{\ignorespaces Fields on plane $z=0$ at $t = 0$, with $a_0 = 0.4$, $w_0 = 2$ \leavevmode {\color {red}with} (a) and without (b) incident field at $45^{\circ }$ incident angle\relax }}{158}{figure.caption.110}
 \contentsline {figure}{\numberline {7.15}{\ignorespaces Trajectories over $4$ optical cycles of 20 test electrons injected when $B_y$ becomes negative. The color scale indicates the magnetic field $B_y$ felt by the electron over time. Test electrons are positioned along a vertical line $y\in [-w_0 \ ; \ w_0]$. (a) Low-intensity case $a_0 = 0.4$; (b) high-intensity case $a_0 =1$ (c) No interference field, $a_{0r} = 0$ (d) Similar conditions as in (b) when $p_{0z}$ is doubled for all electrons\relax }}{159}{figure.caption.111}
 \addvspace {10\p@ }
-\contentsline {xchapter}{Conclusion and perspectives}{160}{chapter.8}
-\addvspace {10\p@ }
 \contentsline {xchapter}{Normalization conventions}{I}{appendix.A}
 \addvspace {10\p@ }
 \contentsline {xchapter}{Green function}{X}{appendix.B}
@@ -129,8 +127,8 @@
 \contentsline {xchapter}{Relativistic formulations}{XIII}{appendix.C}
 \addvspace {10\p@ }
 \contentsline {xchapter}{Interferences between coherent sources}{XVI}{appendix.D}
-\contentsline {figure}{\numberline {D.1}{\ignorespaces Representation of a Gaussian pulse\relax }}{XVI}{figure.caption.114}
-\contentsline {figure}{\numberline {D.2}{\ignorespaces Representation in the plane $(r,z)$ where $z$ indicates the direction of the resulting intensity where $w_{0i} = 400\tmspace +\thinmuskip {.1667em}\mathrm {nm}$,$z_{0i} =0$, $r_{01} = -r_{03} = 2.4\tmspace +\thinmuskip {.1667em}\mathrm {\mu m}$, $r_{02}=0$ and $\lambda = 80\tmspace +\thinmuskip {.1667em}\mathrm {nm}$\relax }}{XVIII}{figure.caption.116}
-\contentsline {figure}{\numberline {D.3}{\ignorespaces Fourier transform of intensity interference pattern for harmonic H10 ($\lambda = 80\tmspace +\thinmuskip {.1667em}\mathrm {nm}$). Initial conditions are $z_{0i} = 0$, $w_{0i}=\lambda _0$ and $r_{01} = 5\lambda _0$. We then vary one parameter: (a) influence of central source defocus (b) influence of central source waist (c) influence of global waist variation (d) influence of satellite sources distance $r_{01}$ \relax }}{XIX}{figure.caption.117}
+\contentsline {figure}{\numberline {D.1}{\ignorespaces Representation of a Gaussian pulse\relax }}{XVI}{figure.caption.115}
+\contentsline {figure}{\numberline {D.2}{\ignorespaces Representation in the plane $(r,z)$ where $z$ indicates the direction of the resulting intensity where $w_{0i} = 400\tmspace +\thinmuskip {.1667em}\mathrm {nm}$,$z_{0i} =0$, $r_{01} = -r_{03} = 2.4\tmspace +\thinmuskip {.1667em}\mathrm {\mu m}$, $r_{02}=0$ and $\lambda = 80\tmspace +\thinmuskip {.1667em}\mathrm {nm}$\relax }}{XVIII}{figure.caption.117}
+\contentsline {figure}{\numberline {D.3}{\ignorespaces Fourier transform of intensity interference pattern for harmonic H10 ($\lambda = 80\tmspace +\thinmuskip {.1667em}\mathrm {nm}$). Initial conditions are $z_{0i} = 0$, $w_{0i}=\lambda _0$ and $r_{01} = 5\lambda _0$. We then vary one parameter: (a) influence of central source defocus (b) influence of central source waist (c) influence of global waist variation (d) influence of satellite sources distance $r_{01}$ \relax }}{XIX}{figure.caption.118}
 \addvspace {10\p@ }
 \contentsline {xchapter}{Publications}{XX}{appendix.E}

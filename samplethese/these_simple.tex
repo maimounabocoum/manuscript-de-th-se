@@ -2,7 +2,7 @@
 %\usepackage[english, francais]{babel}  
 %\usepackage[utf8]{inputenc}
 %\usepackage[T1]{fontenc}
-%\usepackage{cite}
+\usepackage{cite}
 %\pagestyle{headings} % or headings
 
 %\usepackage[babel=true]{csquotes}
@@ -13,7 +13,7 @@
 %\usepackage{soul}
 %\usepackage[pdftex,colorlinks=true,linkcolor=blue,citecolor=green,pagebackref=true]{hyperref}
 %\usepackage[colorlinks=true,linkcolor=blue,citecolor=lblue,pagebackref]{hyperref}
-
+%
 %\usepackage[french]{minitoc}
 %\usepackage{textcomp}
 %\usepackage{lmodern}
@@ -24,8 +24,6 @@
 %\usepackage[width=0.9\textwidth]{caption}
 %\usepackage{array}
 %\usepackage{url}
-%\usepackage{fancyhdr}
-%\pagestyle{fancy}
 %% permet de faire une table des matieres par chapitre
 %\usepackage{lipsum}
 %\usepackage[french]{minitoc}
@@ -37,12 +35,20 @@
 %\setlength{\parskip}{6pt}
 
 
-\input{Preambule-test}		% Liste des packages et de leurs options
+%\input{Preambule-test}		% Liste des packages et de leurs options
+
+
+
 
 \begin{document}
+ 
+\section{First section}
+ 
+bla bla bla ~\cite{Kresse1996}.
+ 
 
-\section{test1}
-
-sjkbdksjbdkjsbdckjal
-
+\bibliography{allbiblio}{}
+\bibliographystyle{plain}
+ 
 \end{document}
+

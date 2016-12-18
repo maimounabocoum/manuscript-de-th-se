@@ -104,9 +104,8 @@
 \contentsline {subsection}{\numberline {7.2.4}Effect of interference field}{154}{subsection.7.2.4}
 \contentsline {subsection}{\numberline {7.2.5}Non-axis-symmetrical components of the interference field}{157}{subsection.7.2.5}
 \contentsline {section}{\numberline {7.3}Conclusion}{159}{section.7.3}
-\contentsline {chapter}{\numberline {8}Conclusion and perspectives}{160}{chapter.8}
-\contentsline {chapter}{List of Figures}{163}{appendix*.112}
-\contentsline {chapter}{List of Tables}{174}{appendix*.113}
+\contentsline {chapter}{List of Figures}{163}{appendix*.113}
+\contentsline {chapter}{List of Tables}{174}{appendix*.114}
 \contentsline {chapter}{\numberline {A}Normalization conventions}{I}{appendix.A}
 \contentsline {subsection}{\numberline {A.0.1}Constant and physical parameters}{I}{subsection.A.0.1}
 \contentsline {section}{\numberline {A.1}Maxwell's equations}{II}{section.A.1}
@@ -128,5 +127,6 @@
 \contentsline {section}{\numberline {C.2}Relativistic equation of motion for a charged particle}{XIV}{section.C.2}
 \contentsline {section}{\numberline {C.3}Gauge invariance}{XV}{section.C.3}
 \contentsline {chapter}{\numberline {D}Interferences between coherent sources}{XVI}{appendix.D}
-\contentsline {subsubsection}{3 sources in vertical plane:}{XVII}{section*.115}
+\contentsline {subsubsection}{3 sources in vertical plane:}{XVII}{section*.116}
 \contentsline {chapter}{\numberline {E}Publications}{XX}{appendix.E}
+\contentsline {chapter}{Bibliography}{XLI}{appendix*.119}
